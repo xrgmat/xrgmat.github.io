@@ -1,0 +1,19 @@
+.header {
+	background-image: url('img/skyline4.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	min-height: 500px;
+}
+
+.main-title {
+	color: #fff;
+	text-shadow: 3px 3px #444;
+}
+
+.footer {
+	background-color: #007BC0;
+	height: 200px;
+	color: #fff;
+	padding: 50px;
+}
