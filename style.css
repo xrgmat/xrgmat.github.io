@@ -1,34 +1,17 @@
-body {
-	font-family: 'Montserrat', sans-serif;
+.blue {
+	color: #002966;
 }
 
-
-.header {
-	background-image: url('img/skyline4.jpg');
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-	min-height: 500px;
+.name {
+	letter-spacing: -2px;
+	font-size: 3rem;
 }
 
-.main-title {
-	color: #fff;
-	text-shadow: 3px 3px #444;
-	font-size: 48pt;
+.hr-blue {
+	border: 2px solid #002966;
 }
 
 .footer {
-	background-color: #007BC0;
-	height: 200px;
-	color: #fff;
-	padding: 50px;
-}
-
-@media (max-width: 991.98px) {
-	.main-title {
-		font-size: 30pt;
-	}
-	.header {
-		min-height: 300px;
-	}
+	background-color: #002966;
+	height: 75px;
 }
