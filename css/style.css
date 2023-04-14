@@ -13,5 +13,9 @@
 
 .footer {
 	background-color: #002966;
-	height: 75px;
+	min-height: 75px;
+}
+.footer.gamma {
+	background-color: #002966;
+	min-height: 75px;
 }
