@@ -23,3 +23,12 @@
 	text-shadow: 1px 1px #000;
 	background-position: 0% 30%;
 }
+
+.accordion-button:not(.collapsed) {
+    color: #0c63e4;
+	background-size: cover;
+    background-image: url("../img/fons.jpg");
+	background-position: 0% 30%;
+	color: white;
+	text-shadow: 1px 1px #000;
+}
