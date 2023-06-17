@@ -1,0 +1,4166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+@InProceedings{DeLeo1996,
+    title = {{A geometrical approach to Classical Field Theories: a constraint algorithm for singular theories}},
+    author = {Manuel de León and Jesús Marín-Solano and Juan Carlos Marrero},
+    year = {1996},
+    booktitle = {New Developments in Differential Geometry},
+    series = {Mathematics and Its Applications},
+    volume = {350},
+    editor = {L. Tamássy and J. Szenthe},
+    publisher = {Springer},
+    address = {Dordrecht},
+    pages = {291--312}
+}
+
+@article{DeLeo2017,
+    title = {{Cosymplectic and contact structures to resolve time-dependent and dissipative Hamiltonian systems}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 50}},
+    number = {25},
+    pages = {255205},
+    year = {2017},
+    author = {Manuel de León and Cristina Sardón}
+}
+@article {LV15,
+    AUTHOR = {de Lucas, J. and Vilari\~{n}o, S.},
+     TITLE = {{$k$}-symplectic {L}ie systems: theory and applications},
+   JOURNAL = {J. Differential Equations},
+  FJOURNAL = {Journal of Differential Equations},
+    VOLUME = {258},
+      YEAR = {2015},
+    NUMBER = {6},
+     PAGES = {2221--2255},
+      ISSN = {0022-0396},
+   MRCLASS = {58J70 (34A26 34A34 53Z05)},
+  MRNUMBER = {3302535},
+MRREVIEWER = {Werner M. Seiler},
+       DOI = {10.1016/j.jde.2014.12.005},
+       URL = {https://doi.org/10.1016/j.jde.2014.12.005},
+}
+@article{DeLeo2005,
+    title = {{Pre-multisymplectic constraint algorithm for field theories}},
+    author = {Manuel de León and Jesús Marín-Solano and Juan Carlos Marrero and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 2}},
+    number = {5},
+    pages = {839--871},
+    year = {2005}
+}
+
+@article{DeLeo2003b,
+    author = {Manuel de León and David {Martin de Diego} and Aitor Santamaría-Merino},
+    year = {2003},
+    journal = {Applied Differential Geometry and Mechanic},
+    pages = {21--47},
+    title = {{Tulczyjew triples and Lagrangian submanifolds in classical field theories}},
+    publisher = {Academia Press},
+    address = {Univ. of Gent, Gent}
+}
+
+@unpublished{DeLeo2021d,
+    title = {{Constrained Lagrangian dissipative contact dynamics}},
+    author = {Manuel de León and Manuel Lainz-Valcázar and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
+    year = {2021}
+}
+
+@article{Dir1950,
+    title = {{Generalized Hamiltonian dynamics}},
+    author = {Paul A. M. Dirac},
+    journal = {Can. J. Math.},
+    volume = {{\bf 2}},
+    pages = {129--148},
+    year = {1950}
+}
+
+@book{Dir1964,
+    author = {Paul A. M. Dirac},
+    title = {{Lectures on Quantum Mechanics}},
+    year = {1964},
+    series={Monographs series},
+    publisher={Belfer Graduate School of Science, New York, Yeshiva University}
+}
+
+@article{Ech2004,
+    title = {{Lagrangian--Hamiltonian unified formalism for field theory}},
+    author = {Arturo Echeverría-Enríquez and Carlos López and Jesús Marín-Solano and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 45}},
+    number = {1},
+    pages = {360--385},
+    year = {2004}
+}
+
+@article{Ech1991,
+    title = {{Geometrical setting of time-dependent regular systems. Alternative models}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 3}},
+    number = {3},
+    pages = {301--330},
+    year = {1991}
+}
+
+@article{Ech1996,
+    title = {{Geometry of Lagrangian first-order classical field theories}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Fortschritte der Phys.},
+    volume = {{\bf 44}},
+    number = {3},
+    pages = {235--280},
+    year = {1996}
+}
+
+@article{Ech2000,
+    title = {{Geometry of Multisymplectic Hamiltonian First-order Field Theories}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {11},
+    year = {2000},
+    pages = {7402--7444}
+}
+
+@unpublished{Ese2021,
+    title = {{Contact Dynamics versus Legendrian and Lagrangian Submanifolds}},
+    author = {Oğul Esen and Manuel Lainz-Valcázar and Manuel de León and Juan Carlos Marrero},
+    year = {2021}
+}
+
+@conference{Gar1974,
+    author = {P. L. García},
+    title = {{The Poincaré--Cartan invariant in the calculus of variations}},
+    year = {1974},
+    volume = {14},
+    address = {London},
+    publisher = {Academic Press},
+    pages = {219--246},
+    booktitle = {Symposia Mathematiea},
+    organization = {(Convegno di Geometria Simplettica e Fisica Matematica, INDAM, Rome, 1073)}
+}
+
+@article{Gas2020,
+    title = {{A contact geometry framework for field theories with dissipation}},
+    journal = {Ann. Phys.},
+    volume = {{\bf 414}},
+    pages = {168092},
+    year = {2020},
+    author = {Jordi Gaset and Xavier Gràcia and Miguel C. Muñoz-Lecanda and Xavier Rivas and Narciso Román-Roy}
+}
+
+@article{Gas2019,
+    title = {{New contributions to the Hamiltonian and Lagrangian contact formalisms for dissipative mechanical systems and their symmetries}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 17}},
+    number = {6},
+    pages = {2050090},
+    year = {2020},
+    author = {Jordi Gaset and Xavier Gràcia and Miguel C. Muñoz-Lecanda and Xavier Rivas and Narciso Román-Roy}
+}
+
+@article{Gas2021,
+    title = {{A $k$-contact Lagrangian formulation for nonconservative field theories}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 87}},
+    number = {3},
+    pages = {347--368},
+    year = {2021},
+    author = {Jordi Gaset and Xavier Gràcia and Miguel C. Muñoz-Lecanda and Xavier Rivas and Narciso Román-Roy}
+}
+
+@unpublished{Gas2021b,
+    title = {{Application of Herglotz's Variational Principle to Electromagnetic Systems with Dissipation}},
+    author = {Jordi Gaset and Adrià Marín-Salvador},
+    year = {2021}
+}
+
+@article{Gas2018,
+    author = {Jordi Gaset and Narciso Román-Roy},
+    title = {{Multisymplectic unified formalism for Einstein--Hilbert gravity}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 59}},
+    number = {3},
+    year = {2018},
+    pages = {032502}
+}
+
+@phdthesis{Gas2018b,
+    author = {Jordi Gaset},
+    title = {{A multisymplectic approach to gravitational theories}},
+    school = {Technical University of Catalonia (UPC)},
+    year = {2018}
+}
+
+@book{Gei2008,
+    title = {{An Introduction to Contact Topology}},
+    publisher = {Cambridge University Press},
+    year = {2008},
+    author = {Hansjoerg Geiges},
+    series = {Cambridge Studies in Advanced Mathematics},
+    volume = {109}
+}
+
+@article{Geo2002,
+    title = {{First Noether-type theorem for the generalized variational principle of Herglotz}},
+    journal = {Topol. Methods Nonlinear Anal.},
+    volume = {{\bf 20}},
+    number = {2},
+    year = {2002},
+    pages = {261--273},
+    author = {Bogdana Georgieva and Ronald Guenther}
+}
+
+@article{Geo2003,
+    title = {{Generalized variational principle of Herglotz for several independent variables. First Noether-type theorem}},
+    author = {Bogdana Georgieva and Ronald Guenther and Theodore Bodurov},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 44}},
+    number = {9},
+    year = {2003},
+    pages = {3911}
+}
+
+@book{Gia1997,
+    title = {{New Lagrangian and Hamiltonian Methods in Field Theory}},
+    publisher = {World Scientific, River Edge},
+    year = {1997},
+    author = {Giovanni Giachetta and Luigi Mangiarotti and Gennadi A. Sardanashvily}
+}
+@article {MMMT86,
+    AUTHOR = {Marsden, J. E. and Montgomery, R. and Morrison, P. J. and
+              Thompson, W. B.},
+     TITLE = {Covariant {P}oisson brackets for classical fields},
+   JOURNAL = {Ann. Physics},
+  FJOURNAL = {Annals of Physics},
+    VOLUME = {169},
+      YEAR = {1986},
+    NUMBER = {1},
+     PAGES = {29--47},
+      ISSN = {0003-4916},
+   MRCLASS = {58F05 (70G50 83C55)},
+  MRNUMBER = {846045},
+MRREVIEWER = {Nicholas M. J. Woodhouse},
+       DOI = {10.1016/0003-4916(86)90157-0},
+       URL = {https://doi.org/10.1016/0003-4916(86)90157-0},
+}
+
+@article {CRS00,
+    AUTHOR = {Castrill\'{o}n L\'{o}pez, Marco and Ratiu, Tudor S. and Shkoller,
+              Steve},
+     TITLE = {Reduction in principal fiber bundles: covariant
+              {E}uler-{P}oincar\'{e} equations},
+   JOURNAL = {Proc. Amer. Math. Soc.},
+  FJOURNAL = {Proceedings of the American Mathematical Society},
+    VOLUME = {128},
+      YEAR = {2000},
+    NUMBER = {7},
+     PAGES = {2155--2164},
+      ISSN = {0002-9939},
+   MRCLASS = {58E30 (53C05 58D20 58E20 70G65)},
+  MRNUMBER = {1662269},
+MRREVIEWER = {Jaime Mu\~{n}oz Masqu\'{e}},
+       DOI = {10.1090/S0002-9939-99-05304-6},
+       URL = {https://doi.org/10.1090/S0002-9939-99-05304-6},
+}
+
+
+@book{God1969,
+    title = {{Geometrie Differentielle Et Mecanique Analytique}},
+    author = {Claude Godbillon},
+    series = {Collection methodes},
+    year = {1969},
+    address = {Paris},
+    publisher = {Hermann}
+}
+
+@article{Gol1973,
+    title = {{The Hamilton-Cartan formalism in the calculus of variations}},
+    author = {Hubert Goldschmidt and Shlomo Sternberg},
+    journal = {Ann. Inst. Fourier},
+    volume = {{\bf 23}},
+    number = {1},
+    year = {1973},
+    pages = {203--267}
+}
+
+@unpublished{Got1999,
+    title = {{Momentum maps and classical relativistic fields. I. Covariant theory}},
+    year = {1999},
+    author = {Mark J. Gotay and J. Isenberg and J. E. Marsden}
+}
+
+@article {LO08,
+    AUTHOR = {L\'{a}zaro-Cam\'{\i}, Joan-Andreu and Ortega, Juan-Pablo},
+     TITLE = {Stochastic {H}amiltonian dynamical systems},
+   JOURNAL = {Rep. Math. Phys.},
+  FJOURNAL = {Reports on Mathematical Physics},
+    VOLUME = {61},
+      YEAR = {2008},
+    NUMBER = {1},
+     PAGES = {65--122},
+      ISSN = {0034-4877},
+   MRCLASS = {37H05 (37J05 60H10 70H05)},
+  MRNUMBER = {2408499},
+MRREVIEWER = {Jean-Claude Zambrini},
+       DOI = {10.1016/S0034-4877(08)80003-1},
+       URL = {https://doi.org/10.1016/S0034-4877(08)80003-1},
+}
+
+
+@article{Got1979,
+    title = {{Presymplectic Lagrangian systems I: The constraint algorithm and the equivalence theorem}},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 30}},
+    number = {2},
+    pages = {129--142},
+    year = {1979},
+    author = {Mark J. Gotay and J. M. Nester}
+}
+
+@article{Got1980,
+    title = {{Presymplectic Lagrangian systems II: The second-order differential equation problem}},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 32}},
+    number = {1},
+    pages = {1--13},
+    year = {1980},
+    author = {Mark J. Gotay and J. M. Nester}
+}
+
+@article{Got1978,
+    title = {{Presymplectic manifolds and the Diract-Bergmann theory of constraints}},
+    author = {Mark J. Gotay and J. M. Nester and G. Hinds},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 19}},
+    number = {11},
+    pages = {2388--2399},
+    year = {1978}
+}
+
+@article{Got2016,
+    title = {{Contact geometric descriptions of vector fields on dually flat spaces and their applications in electric circuit models and nonequilibrium statistical mechanics}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 57}},
+    number = {10},
+    pages = {102702},
+    year = {2016},
+    author = {S. Goto}
+}
+
+@article{Gra2000,
+    title = {{Fibre derivatives: Some applications to singular Lagrangians}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 45}},
+    number = {1},
+    pages = {67--84},
+    year = {2000},
+    author = {Xavier Gràcia}
+}
+
+@article{Gra2005,
+    author = {Xavier Gràcia and Rubén Martín},
+    title = {{Geometric aspects of time-dependent singular differential equations}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 2}},
+    number = {4},
+    pages = {597--618},
+    year = {2005}
+}
+
+@article{Gra2009,
+    author = {Xavier Gràcia and Rubén Martín and Narciso Román-Roy},
+    title = {{Constraint algorithm for $k$-presymplectic Hamiltonian systems: application to singular field theories}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 6}},
+    number = {5},
+    year = {2009},
+    pages = {851--872}
+}
+
+@article{Gra2004,
+    title = {{On some aspects of the geometry of differential equations in physics}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 1}},
+    number = {3},
+    pages = {265--284},
+    year = {2004},
+    author = {Xavier Gràcia and Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{Gra1992b,
+    title = {{A generalized geometric framework for constrained systems}},
+    author = {Xavier Gràcia and Josep M. Pons},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 2}},
+    number = {3},
+    pages = {223--247},
+    year = {1992}
+}
+
+@article{Gra1991,
+    title = {{Constrained systems: A unified geometric approach}},
+    author = {Xavier Gràcia and Josep M. Pons},
+    journal = {Int. J. Theor. Phys.},
+    volume = {{\bf 30}},
+    pages = {511--516},
+    year = {1991}
+}
+
+@article{Gra2002,
+    title = {{Symmetries and infinitesimal symmetries of singular differential equations}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 35}},
+    number = {24},
+    year = {2002},
+    pages = {5059--5077},
+    author = {Xavier Gràcia and Josep M. Pons}
+}
+
+@article{Gra1991b,
+    title = {{Higher-order Lagrangian systems: Geometric structures, dynamics and constraints}},
+    author = {Xavier Gràcia and Josep M. Pons and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 32}},
+    number = {10},
+    pages = {2744--2763},
+    year = {1991}
+}
+
+@article{Gra1992,
+    title = {{Higher-order conditions for singular Lagrangian systems}},
+    author = {Xavier Gràcia and Josep M. Pons and Narciso Román-Roy},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {7},
+    pages = {1981--2004},
+    year = {1992}
+}
+
+@article{Gra2020,
+    title = {{Constraint algorithm for singular field theories in the $k$-cosymplectic framework}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 12}},
+    pages = {1--23},
+    year = {2020},
+    author = {Xavier Gràcia and Xavier Rivas and Narciso Román-Roy}
+}
+
+@article{Gra2021,
+    title = {{Skinner--Rusk formalism for $k$-contact systems}},
+    author = {Xavier Gràcia and Xavier Rivas and Narciso Román-Roy},
+    year = {2022},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 172}},
+    pages = {104429}
+}
+
+@article{Gu87,
+    author = {Christian Günther},
+    title = {{The polysymplectic Hamiltonian formalism in field theory and calculus of variations I: The local case}},
+    journal = {J. Diff. Geom.},
+    volume = {{\bf 25}},
+    number = {1},
+    pages = {23--53},
+    year = {1987}
+}
+
+@book{Gue1996,
+  title = {{The Herglotz Lectures on Contact Transformations and Hamiltonian systems}},
+  author = {C.M. Guenther and Ronald B. Guenther and J.A. Gottsch and Hans Schwerdtfeger},
+  publisher = {Juliusz Center for Nonlinear Studies, Torun, Poland},
+  series = {Lecture notes in nonlinear analysis},
+  volume = {1},
+  year = {1996},
+  edition = {1st}
+}
+
+@article{Gui2011,
+    author = {Victor Guillemin and Eva Miranda and Ana Rita Pires},
+    title = {{Codimension one symplectic foliations and regular Poisson structures}},
+    journal = {Bull. Braz. Math. Soc., New Series},
+    volume = {{\bf 42}},
+    number = {4},
+    year = {2011},
+    pages = {607--623}
+}
+
+@book{Han1976,
+    author = {Andrew Hanson and Tullio Regge and Claudio Teitelboim},
+    title = {{Constrained Hamiltonian Systems}},
+    publisher = {Accademia Nazionale dei Lincei},
+    year = {1976},
+    address = {Rome}
+}
+
+@book{Hay2018,
+    author = {William H. Hayt and John A. Buck},
+    title = {{Engineering Electromagnetics}},
+    edition = {6th},
+    year = {2018},
+    publisher = {McGraw-Hill Publishing Co., New York}
+}
+
+@article{Hel2004,
+    author = {F. Hélein and J. Kouneiher},
+    title = {{Covariant Hamiltonian formalism for the calculus of variations with several variables: Lepage–Dedecker versus De Donder–Weyl}},
+    journal = {Adv. Theor. Math. Phys.},
+    volume = {{\bf 8}},
+    number = {3},
+    pages = {565--601},
+    year = {2004}
+}
+
+@book{Her1930,
+    author = {G. Herglotz},
+    title = {{Berührungstransformationen}},
+    year = {1930},
+    publisher = {Lectures at the University of Göttingen}
+}
+
+@article{Ibo1992,
+    title = {{A geometric classification of Lagrangian functions and the reduction of evolution space}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {11},
+    pages = {3353--3367},
+    year = {1992},
+    author = {L. Alberto Ibort and Jesús Marín-Solano}
+}
+
+@article{Ibr2004,
+    title = {{Lagrangian Approach to Evolution Equations: Symmetries and Conservation Laws}},
+    journal = {Nonlinear Dyn.},
+    volume = {{\bf 36}},
+    number = {1},
+    pages = {29--40},
+    year = {2004},
+    author = {Nail Ibragimov and Torbjörn Kolsrud}
+}
+
+@book{Itz1980,
+    title = {{Quantum field theory}},
+    author = {Claude Itzykson and Jean-Bernard Zuber},
+    year = {1980},
+    publisher = {McGraw-Hill, New York},
+    series = {International Series In Pure and Applied Physics}
+}
+
+@book{Jac1999,
+    title = {{Classical electrodynamics}},
+    edition = {3rd},
+    author = {J. D. Jackson},
+    publisher = {Wiley},
+    year = {1999}
+}
+
+@article{Kam1982,
+    title = {{Singular Lagrangian and constrained Hamiltonian systems, generalized canonical formalism}},
+    author = {Kiyoshi Kamimura},
+    journal = {Nuovo Cim. B},
+    volume = {{\bf 68}},
+    number = {1},
+    pages = {33--54},
+    year = {1982}
+}
+
+@article{Kan1998,
+    title = {{Canonical structure of classical field theory in the polymomentum phase space}},
+    author = {Igor V. Kanatchikov},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {1},
+    year = {1998},
+    pages = {49--90}
+}
+
+@book{Kho2013,
+    author = {Arkady L. Kholodenko},
+    publisher = {World Scientific},
+    title = {{Applications of Contact Geometry and Topology in Physics}},
+    year = {2013}
+}
+
+@article{Kij1973,
+    author = {Jerzy Kijowski},
+    journal = {Comm. Math. Phys.},
+    number = {2},
+    pages = {99--128},
+    title = {{A finite-dimensional canonical formalism in the classical field theory}},
+    volume = {{\bf 30}},
+    year = {1973}
+}
+
+@book{Kij1979,
+    title = {{A symplectic framework for field theories}},
+    author = {Jerzy Kijowski and Wlodzimierz M. Tulczyjew},
+    year = {1979},
+    volume = {107},
+    series = {Lecture Notes in Physics},
+    publisher = {Springer-Verlag},
+    address = {Berlin Heidelberg},
+    edition = {1st}
+}
+
+@article{Kle1962,
+    title = {{Espaces variationnels et mécanique}},
+    author = {Joseph Klein},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 12}},
+    year = {1962},
+    pages = {1--124}
+}
+
+@article{Kru2002,
+    title = {{Hamiltonian field theory}},
+    author = {Olga Krupkova},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 43}},
+    number = {2--3},
+    pages = {93--132},
+    year = {2002}
+}
+
+@article{Laz2018,
+    title = {{An action principle for action-dependent Lagrangians: Toward an action principle for non-conservative systems}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 59}},
+    number = {3},
+    pages = {032902},
+    year = {2018},
+    author = {Matheus J. Lazo and Juilson Paiva and Jo{\~a}o T. S. Amaral and Gast{\~a}o S. F. Frederico}
+}
+
+@book{Lee2013,
+    title = {{Introduction to Smooth Manifolds}},
+    author = {John M. Lee},
+    isbn = {9780387217529},
+    lccn = {2002070454},
+    series = {Graduate Texts in Mathematics},
+    volume = {218},
+    year = {2013},
+    edition = {2nd},
+    publisher = {Springer New York Heidelberg Dordrecht London}
+}
+
+@book{Lib1987,
+    address = {Reidel, Dordretch},
+    author = {Paulette Libermann and Charles-Michel Marle},
+    doi = {10.1007/978-94-009-3807-6},
+    month = {oct},
+    publisher = {Springer Netherlands},
+    title = {{Symplectic Geometry and Analytical Mechanics}},
+    year = {1987}
+}
+
+@article{Lic1951,
+    title = {{Sur les variétés symplectiques}},
+    author = {André Lichnerowicz},
+    journal = {C. R. Math. Acad. Sci. Paris},
+    volume = {{\bf 233}},
+    year = {1951},
+    pages = {723--725}
+}
+
+@article{Lic1975,
+    title = {{Variété symplectique et dynamique associée à une sous-variété}},
+    author = {André Lichnerowicz},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 280}},
+    year = {1975},
+    pages = {A523--A527}
+}
+
+@article{Liu2018,
+    title = {{Contact Hamiltonian dynamics: variational principles, invariants, completeness and periodic behaviour}},
+    author = {Q. Liu and P. J. Torres and C. Wang},
+    journal = {Ann. Phys.},
+    volume = {{\bf 395}},
+    pages = {26--44},
+    year = {2018}
+}
+
+@book{Man1998,
+    title = {{Gauge mechanics}},
+    author = {Luigi Mangiarotti and Gennadi A. Sardanashvily},
+    year = {1998},
+    publisher = {World Scientific}
+}
+
+@article{Mar1997,
+    title = {{Constrained Hamiltonian systems as implicit differential equations}},
+    author = {Giuseppe Marmo and Giovanna Mendella and Wlodzimierz M. Tulczyjew},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 30}},
+    number = {1},
+    pages = {277--293},
+    year = {1997}
+}
+
+@book{Mar1985,
+    title = {{Dynamical Systems: A Differential Geometric Approach to Symmetry and Reduction}},
+    author = {Giuseppe Marmo and Eugene J. Saletan and Alberto Simoni and Bruno Vitale},
+    publisher = {John Wiley \& Sons Ltd.},
+    edition = {1st},
+    year = {1985}
+}
+
+@article{Mar1988,
+    author = {Geoffrey Martin},
+    year = {1988},
+    pages = {133-138},
+    title = {{A Darboux theorem for multi-symplectic manifolds}},
+    volume = {{\bf 16}},
+    journal = {Lett. Math. Phys.}
+}
+
+@article{Nor2000,
+    author = {M. McLean and L. K. Norris},
+    title = {{Covariant field theory on frame bundles of fibered manifolds}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {10},
+    year = {2000},
+    pages = {6828}
+}
+
+@article{Mun1992,
+    title = {{Lagrangian theory for presymplectic systems}},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 57}},
+    number = {1},
+    pages = {27--45},
+    year = {1992},
+    author = {Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{Mun2010,
+    title = {{$k$-symplectic and $k$-cosymplectic Lagrangian field theories: some interesting examples and applications}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 7}},
+    number = {4},
+    pages = {669--692},
+    year = {2010},
+    author = {Miguel C. Muñoz-Lecanda and Modesto Salgado and Silvia Vilariño}
+}
+
+@inproceedings{Nor1993,
+    author = {L. K. Norris},
+    title = {Generalized symplectic geometry on the frame bundle of a manifold},
+    booktitle = {Proc. Symp. Pure Math. 54, Part 2 (Amer. Math. Soc., Providence RI)},
+    year = {1993},
+    pages = {435--465}
+}
+
+@book{Olv1986,
+    title = {{Applications of Lie Groups to Differential Equations}},
+    publisher = {Springer-Verlag New York},
+    year = {1993},
+    edition = {2nd},
+    series = {Graduate Texts in Mathematics},
+    volume = {107},
+    author = {Peter J. Olver}
+}
+
+@book{Pan1962,
+    title = {{Classical Electricity and Magnetism}},
+    publisher = {Addison--Wesley, Reading MA},
+    author = {Wolfgang K. H. Panofsky and Melba Phillips},
+    year = {1962},
+    edition = {2nd}
+}
+
+@article{Pau2002,
+    title = {{Geometry of Hamiltonian $n$-vector fields in multisymplectic field theory}},
+    author = {Cornelius Paufler and Hartmann Römer},
+    journal = {J. Geom. Phys},
+    volume = {{\bf 44}},
+    number = {1},
+    pages = {52--69},
+    year = {2002}
+}
+
+@article{Pri2011,
+    title = {{Lagrangian--Hamiltonian unified formalism for autonomous higher-order dynamical systems}},
+    author = {Pere Daniel Prieto-Martínez and Narciso Román-Roy},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 44}},
+    number = {38},
+    pages = {385203},
+    year = {2011}
+}
+
+@article{Pri2012,
+    title = {{Unified formalism for higher-order non-autonomous dynamical systems}},
+    author = {Pere Daniel Prieto-Martínez and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 53}},
+    number = {3},
+    pages = {032901},
+    year = {2012}
+}
+
+@article{Pri2015,
+    title = {{A new multisymplectic unified formalism for second order classical field theories}},
+    author = {Pere Daniel Prieto-Martínez and Narciso Román-Roy},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 7}},
+    number = {2},
+    pages = {203--253},
+    year = {2015}
+}
+
+@article{Ram2017,
+    author = {Hector Ramirez and Bernhard Maschke and Daniel Sbarbaro},
+    journal = {IEEE Transactions on Automatic Control}, 
+    title = {{Partial stabilization of input-output contact systems on a Legendre submanifold}}, 
+    year = {2017},
+    volume = {{\bf 62}},
+    number = {3},
+    pages = {1431--1437}
+}
+
+@article{Rey2005,
+    title = {{Günther formalism ($k$-symplectic formalism) in classical field theory: Skinner--Rusk approach and the evolution operator}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 46}},
+    number = {5},
+    pages = {052901},
+    year = {2005},
+    author = {A. M. Rey and Narciso Román-Roy and Modesto Salgado}
+}
+
+@article{Rey2012,
+    title = {{$k$-cosymplectic classical field theories: Tulczyjew and Skinner--Rusk formulations}},
+    journal = {Math. Phys. Anal. Geom.},
+    volume = {{\bf 15}},
+    number = {2},
+    pages = {85--119},
+    year = {2012},
+    author = {A. M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño}
+}
+
+@article{Rom2009,
+    title = {{Multisymplectic Lagrangian and Hamiltonian Formalisms of classical field theories}},
+    author = {Narciso Román-Roy},
+    journal = {Symmetry Integr. Geom.: Methods Appl. (SIGMA)},
+    volume = {{\bf 5}},
+    number = {100},
+    year = {2009}
+}
+
+@article{Rom2020,
+    title = {{A summary on symmetries and conserved quantities of autonomous Hamiltonian systems}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 12}},
+    number = {3},
+    year = {2020},
+    pages = {541--551},
+    author = {Narciso Román-Roy}
+}
+
+@article{Rom2007,
+    title = {{Symmetries and conservation laws in the Günther $k$-symplectic formalism of field theories}},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 19}},
+    number = {10},
+    pages = {1117--1147},
+    year = {2007},
+    author = {Narciso Román-Roy and Modesto Salgado and Silvia Vilariño}
+}
+
+@article{Rom2011,
+    title = {{On the $k$-symplectic, $k$-cosymplectic and multisymplectic formalisms of classical field theories}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 3}},
+    number = {1},
+    pages = {113--137},
+    year = {2011},
+    author = {Narciso Román-Roy and Ángel M. Rey and Modesto Salgado and Silvia Vilariño}
+}
+
+@book{Sal2015,
+    title = {{Partial Differential Equations in Action: From Modelling to Theory}},
+    series = {Unitext},
+    volume = {86},
+    edition = {2nd},
+    publisher = {Springer International Publishing},
+    year = {2015},
+    author = {Sandro Salsa}
+}
+
+@book{Sar1995,
+    title = {{Generalized Hamiltonian formalism for field theory. Constraint systems}},
+    author = {Gennadi A. Sardanashvily},
+    year = {1995},
+    publisher={World Scientific Publishing Company},
+    address = {River Edge, NJ}
+}
+
+@book{Sau1989,
+    title = {{The geometry of jet bundles}},
+    author = {D. J. Saunders},
+    year = {1989},
+    publisher = {Cambridge University Press},
+    series = {London Mathematical Society Lecture Notes Series},
+    volume = {142}
+}
+
+@article{Sim2020,
+    title = {{Contact geometry for simple thermodynamical systems with friction}},
+    author = {Alexandre Anahory Simoes and Manuel de León and Manuel Lainz-Valcázar and David {Martín de Diego}},
+    journal = {Proc. R. Soc. A.},
+    volume = {{\bf 476}},
+    pages = {20200244},
+    year = {2020}
+}
+
+@article{Ski1983,
+    title = {{Generalized Hamiltonian dynamics I: Formulation on $\T^\ast Q\otimes\T Q$}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 24}},
+    number = {11},
+    pages = {2589--2594},
+    year = {1983},
+    author = {Ray Skinner and Raymond Rusk}
+}
+
+@book{Sou1970,
+    title = {{Structure des systèmes dynamiques}},
+    author = {Jean Marie Souriau},
+    publisher = {Dunod},
+    year = {1970},
+    address = {Paris},
+    series = {Maîtrises de mathématiques}
+}
+
+@book{Sud1974,
+    title = {{Classical Dynamics: A Modern Perspective}},
+    author = {E. C. G. Sudarshan and N. Mukunda},
+    publisher = {Wiley},
+    address = {New York},
+    year = {1974}
+}
+
+@book{Sun1982,
+    title = {{Constrained dynamics}},
+    author = {K. Sundermeyer},
+    series = {Lecture Notes in Physics},
+    volume = {169},
+    year = {1982},
+    publisher = {Springer},
+    address = {Berlin}
+}
+
+@book{Sus1999,
+    title = {{Geometry and optimal control}},
+    publisher = {Springer},
+    address = {New York, NY},
+    series = {Mathematical control theory},
+    year = {1999},
+    author = {H. J. Sussmann}
+}
+
+@article{Tul1976,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {{Les sous-variétés lagrangiennes et la dynamique hamiltonienne}},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 283}},
+    number = {1},
+    pages = {A15--A18},
+    year = {1976}
+}
+
+@article{Tul1976b,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {{Les sous-variétés lagrangiennes et la dynamique lagrangienne}},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 283}},
+    number = {8},
+    pages = {A675--A678},
+    year = {1976}
+}
+
+@article{Tul1977,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {The Legendre transformation},
+    journal = {Ann. Inst. H. Poincaré Sect. A (N.S.)},
+    volume = {{\bf 27}},
+    number = {1},
+    pages = {101--114},
+    year = {1977}
+}
+
+@article{Vig2000,
+    title = {{A new presymplectic framework for time-dependent Lagrangian systems: the constraint algorithm and the second-order differential equation problem}},
+    author = {S. Vignolo},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 33}},
+    number = {28},
+    pages = {5117--5135},
+    year = {2000}
+}
+
+@article{Vit2010,
+    title = {{The Lagrangian--Hamiltonian formalism for higher order field theories}},
+    author = {Luca Vitagliano},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 60}},
+    number = {6--8},
+    pages = {857--873},
+    year = {2010}
+}
+
+
+@article{Mar1974,
+    author = {Jerrold E. Marsden and Alan Weinstein},
+    title = {{Reduction of symplectic manifolds with symmetry}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 5}},
+    number = {1},
+    pages = {121--130},
+    year = {1974}
+}
+
+@article{LS93,
+    author = {Manuel de León and Martín Saralegi},
+    title = {{Cosymplectic reduction for singular momentum maps}},
+    year = {1993},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 26}},
+    pages = {5033--5043},
+    number = {19}
+}
+
+@article{Alb1989,
+    author = {Claude Albert},
+    title = {{Le théorème de réduction de Marsden--Weinstein en géométrie cosymplectique et de contact}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 6}},
+    number = {4},
+    pages = {627--649},
+    year = {1989}
+}
+
+@article{Can1992,
+    author = {Frans Cantrijn and Manuel de León and E. A. Lacomba},
+    title = {{Gradient vector fields on cosymplectic manifolds}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {1},
+    pages = {175--188},
+    year = {1992}
+}
+
+@article{DeLuc2021,
+    author = {Javier de Lucas and Bartosz M. Zawora},
+    title = {{A time-dependent energy-momentum method}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 170}},
+    year = {2021},
+    pages = {104364}
+}
+
+@article{Mar2015,
+    author = {Juan Carlos Marrero and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
+    title = {{Reduction of polysymplectic manifolds}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 48}},
+    year = {2015},
+    number = {5},
+    pages = {055206}
+}
+@article {Bl19,
+    AUTHOR = {Blacker, Casey},
+     TITLE = {Polysymplectic reduction and the moduli space of flat
+              connections},
+   JOURNAL = {J. Phys. A},
+  FJOURNAL = {Journal of Physics. A. Mathematical and Theoretical},
+    VOLUME = {52},
+      YEAR = {2019},
+    NUMBER = {33},
+     PAGES = {335201, 35},
+      ISSN = {1751-8113},
+   MRCLASS = {53D30},
+  MRNUMBER = {4002475},
+MRREVIEWER = {S. Timothy Swift},
+       DOI = {10.1088/1751-8121/ab2eed},
+       URL = {https://doi.org/10.1088/1751-8121/ab2eed},
+}
+@article{Bla2021,
+    author = {Casey Blacker},
+    title = {{Reduction of multisymplectic manifolds}},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 111}},
+    number = {64},
+    year = {2021}
+}
+
+@article{Ech2018,
+    title = {{Remarks on Multisymplectic Reduction}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 81}},
+    number = {3},
+    pages = {415--424},
+    year = {2018}
+}
+
+@article{Gra2022,
+    author = {X. Gràcia and J. de Lucas and X. Rivas and N. Román-Roy and S. Vilariño},
+    title = {{Reduction and reconstruction of multisymplectic Lie systems}},
+    journal = {J. Phys. A},
+    volume = {{ 55}},
+    number = {29},
+    pages = {295204},
+ note = {\url{https://doi.org/10.1088/1751-8121/ac78ab}},
+    year = {2022}
+}
+
+@phdthesis{PhDThesisXRG,
+    author = {Xavier Rivas},
+    title = {{Geometrical aspects of contact mechanical systems and field theories}},
+    school = {Universitat Politècnica de Catalunya (UPC)},
+    year = {2021},
+    note = {\url{http://hdl.handle.net/10803/673385}}
+}
+
+@phdthesis{PhDThesisPDP,
+    author = {Pere Daniel Prieto-Martínez},
+    title = {{Geometrical structures of higher-order dynamical systems and field theories}},
+    school = {Universitat Politècnica de Catalunya (UPC)},
+    year = {2014},
+    note = {\url{http://hdl.handle.net/10803/284215}}
+}
+
+@article{Mar1986,
+    author = {Jerrold E. Marsden and Tudor Ratiu},
+    title = {{Reduction of Poisson manifolds}},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 11}},
+    pages = {161--169},
+    year = {1986}
+}
+
+@article{Pet2005,
+    author = {Fani Petalidou and Joana M. {Nunes da Costa}},
+    title = {Reduction of Jacobi manifolds via Dirac structures theory},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 23}},
+    number = {3},
+    pages = {282--304},
+    year = {2005}
+}
+
+@article{ILM97,
+    author = {Alberto Ibort and Manuel de León and Giuseppe Marmo},
+    title = {{Reduction of Jacobi manifolds}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 30}},
+    pages = {2783},
+    year = {1997}
+}
+
+@article{Mars1988,
+    author = {Jerrold E. Marsden and Juan Carlos Simo},
+    title = {{The energy momentum method}},
+    journal = {Act. Acad. Sci. Tau.},
+    year = {1988},
+    pages = {245--268}
+}
+
+@article{Lav2018,
+    author = {Sylvain Lavau},
+    title = {{A short guide through integration theorems of generalized distributions}},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 61}},
+    pages = {42-58},
+    year = {2018}
+}
+
+@mastersthesis{Zaw2021,
+    author = {Bartosz Maciej Zawora},
+    title = {{A time-dependent energy-momentum method}},
+    school = {University of Warsaw, Faculty of Physics},
+    year = {2021}
+}
+
+@article{AH87,
+    author = {H.D.I. Abarbanel and D.D. Holm},
+    title = {{Nonlinear stability analysis of inviscid flows in three dimensions: incompressible fluids and barotropic fluids}},
+    journal = {Phys. Fluids},
+    volume = {{\bf 30}},
+    year = {1987},
+    number = {11},
+    pages = {3369--3382}
+}
+
+@article{Lew1991,
+    author = {D.R. Lewis and J.C. Simo and J. E. Marsden},
+    title = {{Stability of relative equilibria I: The reduced energy momentum method}},
+    journal = {Arch. Rat. Mech. Anal.},
+    volume = {{\bf 115}},
+    year = {1991},
+    pages = {15--59}
+}
+
+@book{Mar1999,
+    title = {{Introduction to Mechanics and Symmetry. A basic exposition of classical mechanical systems}},
+    author = {J. E. Marsden and Tudor Ratiu},
+    series = {Texts in Applied Mathematics},
+    volume = {17},
+    publisher = {Springer-Verlag, New York},
+    year = {1999}
+}
+
+@article{Mars1989,
+    author = {J. E. Marsden and J. C. Simo and D. Lewis and T. Posbergh},
+    title = {{A block diagonalization theorem in the energy-momentum method}},
+    journal = {Contemp. Math.},
+    volume = {{\bf 97}},
+    year = {1989},
+    pages = {297--313}
+}
+
+@article{Mar1990,
+    author = {J. E. Marsden and T. A. Posbergh and J. C. Simo},
+    title = {{Stability of coupled rigid body and geometrically exact rods: block diagonalization and the energy–momentum method}},
+    journal = {Phys. Rep.},
+    volume = {{\bf 193}},
+    year = {1990},
+    pages = {280--360}
+}
+
+@article{Ort2005,
+    author = {J.P. Ortega and V. Planas-Bielsa and T.S. Ratiu},
+    title = {{Asymptotic and Lyapunov stability of constrained and Poisson equilibria}},
+    journal = {J. Differ. Equ.},
+    volume = {{\bf 214}},
+    number = {1},
+    year = {2005},
+    pages = {92--127}
+}
+
+@article{Zen1998,
+    author = {D. V. Zenkov and A. M. Bloch and J. E. Marsden},
+    title = {{The energy-momentum method for the stability of non-holonomic systems}},
+    journal = {Dyn. Stability Sys.},
+    volume = {{\bf 13}},
+    number = {2},
+    year = {1998},
+    pages = {123--165}
+}
+
+@article{Wan1992,
+    author = {L.S. Wang and P.S. Krishnaprasad},
+    title = {{Gyroscopic control and stabilization}},
+    journal = {J. Nonlinear Sci.},
+    volume = {{\bf 2}},
+    number = {4},
+    pages = {367--415},
+    year = {1992}
+}
+
+@article{Sim1992,
+    author = {J. Simo and N. Tarnow},
+    title = {{The discrete energy-momentum method. Conserving algorithms for nonlinear elastodynamics}},
+    journal = {Z. Angew. Math. Phys.},
+    volume = {{\bf 43}},
+    year = {1992},
+    pages = {757--792}
+}
+
+@article{Mar2009,
+    title = {The Inception of Symplectic Geometry: the Works of Lagrange and Poisson During the Years 1808–1810},
+    author = {Charles-Michel Marle},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 90}},
+    number = {3},
+    year = {2009}
+}
+
+@article{Yos2007,
+    title = {{Reduction of Dirac structures and the Hamilton--Pontryagin principle}},
+    author = {HiroakiYoshimura and Jerrold E.Marsden},
+    year = {2007},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 60}},
+    number = {3},
+    pages = {381--426}
+}
+
+@article{Ech1999,
+    title = {{Reduction of presymplectic manifolds with symmetry}},
+    author = {A. Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 11}},
+    number = {10},
+    year = {1999},
+    pages = {1209--1247}
+}
+
+@article{Sus1973,
+    title = {{Orbits of families of vector fields and integrability of distributions}},
+    author = {Héctor J. Sussmann},
+    journal = {Trans. Amer. Math. Soc.},
+    volume = {{\bf 180}},
+    pages = {171--188},
+    year = {1973}
+}
+
+@article{Ste1974,
+    title = {{Accessibility and foliations with singularities}},
+    author = {P. Stefan},
+    journal = {Bull. Am. Math. Soc.},
+    volume = {{\bf 80}},
+    number = {6},
+    pages = {1142--1145},
+    year = {1974}
+}
+
+@article{Ste1974b,
+    title = {{Accessible sets, orbits, and foliations with singularities}},
+    author = {P. Stefan},
+    journal = {Proc. Lond. Math. Soc.},
+    volume = {{\bf s3-29}},
+    number = {4},
+    pages = {699--713},
+    year = {1974}
+}
+
+@book{Vais1994,
+    title = {{Lectures on the Geometry of Poisson Manifolds}},
+    author = {Izu Vaisman},
+    year = {1994},
+    publisher = {Birkhäuser, Basel},
+    volume = {118},
+    series = {Progress in Mathematics}
+}
+
+@article{Hol1985,
+    title = {{Nonlinear stability of fluid and plasma equilibria}},
+    author = {Darryl D. Holm and Jerrold E. Marsden and Tudor Ratiu and Alan Weinstein},
+    journal = {Phys. Rep.},
+    volume = {{\bf 123}},
+    number = {1--2},
+    pages = {1--116},
+    year = {1985}
+}
+
+@article{Cap2013,
+    title = {{A survey on cosymplectic geometry}},
+    author = {Beniamino Cappelletti-Montano and Antonio de Nicola and Ivan Yudin},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 25}},
+    number = {10},
+    pages = {1343002},
+    year = {2013}
+}
+
+@InProceedings{MW01,
+author="Marsden, Jerrold E.
+and Weinstein, Alan",
+editor="Landsman, N. P.
+and Pflaum, M.
+and Schlichenmaier, M.",
+title="Comments on the history, theory, and applications of symplectic reduction",
+booktitle="Quantization of Singular Symplectic Quotients",
+year="2001",
+publisher="Birkh{\"a}user Basel",
+address="Basel",
+pages="1--19",
+abstract="We make some brief remarks about the history, theory and applications of symplectic reduction. We concentrate on developments surrounding our paper [Marsden and Weinstein (1974)] and the closely related work of [Meyer (1973)].",
+isbn="978-3-0348-8364-1"
+}
+
+@book {OR04,
+    AUTHOR = {Ortega, Juan-Pablo and Ratiu, Tudor S.},
+     TITLE = {Momentum maps and {H}amiltonian reduction},
+    SERIES = {Progress in Mathematics},
+    VOLUME = {222},
+ PUBLISHER = {{Birkhäuser Boston, Inc., Boston, MA}},
+      YEAR = {2004},
+     PAGES = {xxxiv+497},
+      ISBN = {0-8176-4307-9},
+   MRCLASS = {53D20 (37J05 37J15 70G45 70H33)},
+  MRNUMBER = {2021152},
+MRREVIEWER = {Charles-Michel Marle},
+       DOI = {10.1007/978-1-4757-3811-7},
+       URL = {https://doi.org/10.1007/978-1-4757-3811-7},
+}
+@article{Gra2019,
+    title = {{Multisymplectic structures and invariant tensors for Lie systems}},
+    author = {Xavier Gràcia and Javier de Lucas and Miguel Carlos Muñoz-Lecanda and Silvia Vilariño},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 52}},
+    number = {21},
+    year = {2019},
+    pages = {215201}
+}
+
+@article{Arm1990,
+    title = {{Geometric and algebraic reduction for singular momentum maps}},
+    author = {Judith M. Arms and Mark J. Gotay and George Jennings},
+    journal = {Adv. Math.},
+    year = {1990},
+    volume = {{\bf 79}},
+    number = {1},
+    pages = {43--103}
+}
+@book{Abr1988,
+    author = {Ralph Abraham and Jerrold E. Marsden and Tudor Ratiu},
+    title = {{Manifolds, Tensor Analysis and Applications}},
+    series = {Applied Mathematical Sciences},
+    volume = {75},
+    year = {1988},
+    publisher = {Springer-Verlag},
+    address = {New York},
+    edition = {2nd}
+}
+
+@article{Ald1980,
+    title = {{Geometric formulation of classical mechanics and field theory}},
+    author = {V. Aldaya and J. A. de Azcárraga},
+    journal = {Riv. Nuovo Cim.},
+    volume = {{\bf 3}},
+    number = {1},
+    year = {1980},
+    pages = {1-66}
+}
+
+@article{And1951,
+    title = {{Constraints in covariant field theories}},
+    author = {J. L. Anderson and P. G. Bergmann},
+    journal = {Phys. Rev.},
+    volume = {{\bf 83}},
+    number = {5},
+    pages = {1018--1025},
+    year = {1951}
+
+}
+
+@book{Arn1989,
+    address = {New York},
+    author = {Vladimir I. Arnold},
+    edition = {2nd},
+    isbn = {0387968903},
+    publisher = {Springer},
+    series = {Graduate Texts in Mathematics},
+    title = {{Mathematical Methods of Classical Mechanics}},
+    volume = {60},
+    year = {1989}
+}
+
+@article{Awa1992,
+    title = {{$k$-symplectic structures}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 33}},
+    number = {12},
+    pages = {4046},
+    year = {1992},
+    author = {Azzouz Awane}
+}
+
+@book{Awa2000,
+    title = {{Pfaffian systems, $k$-symplectic systems}},
+    author = {Azzouz Awane and Michel Goze},
+    publisher = {Springer},
+    address = {Dordrecht},
+    edition = {1st},
+    year = {2000}
+}
+
+@book{Ban2016,
+    address = {Singapore},
+    author = {Augustin Banyaga and Djideme F Houenou},
+    doi = {10.1142/9667},
+    publisher = {World Scientific Publishing Co. Pte. Ltd.},
+    title = {{A brief introduction to symplectic and contact manifolds}},
+    volume = {15},
+    year = {2016}
+}
+
+@article{Bar2007,
+    title = {{Skinner--Rusk unified formalism for optimal control systems and applications}},
+    author = {María Barbero-Liñán and Arturo Echeverría-Enríquez and David {Martín de Diego} and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 40}},
+    number = {40},
+    year = {2007},
+    pages = {12071--12093}
+}
+
+@article{Bar2008,
+    title = {{Unified formalism for non-autonomous mechanical systems}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 49}},
+    number = {6},
+    pages = {062902},
+    year = {2008},
+    author = {María Barbero-Liñán and Arturo Echeverría-Enríquez and David {Martín de Diego} and Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{Bat1915,
+    title = {{Some Recent Researches on the Motion of Fluids}},
+    journal = {Mon. Weather Rev.},
+    volume = {{\bf 43}},
+    pages = {163--170},
+    year = {1915},
+    author = {Harry Bateman}
+}
+
+@article{Bat1986,
+    title = {{Equivalence between the Lagrangian and Hamiltonian formalism for constrained systems}},
+    author = {Carles Batlle and Joaquim Gomis and Josep M. Pons and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 27}},
+    number = {12},
+    pages = {2953--2962},
+    year = {1968}
+}
+
+
+@article{Bra2020,
+    title = {{Invariant measures for contact Hamiltonian systems: symplectic sandwiches with contact bread}},
+    author = {Alessandro Bravetti and Manuel de León and Juan Carlos Marrero and Edith Padrón},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 53}},
+    pages = {455205},
+    year = {2020}
+}
+
+@book{Bry1991,
+    author = {Robert L. Bryant and S. S. Chern and Robert B. Gardner and Hubert L. Goldshmidt and P. A. Griffith},
+    title = {{Exterior Differential Systems}},
+    publisher = {Springer-Verlag},
+    year = {1991},
+    address = {New York},
+    series = {Mathematical Sciences Research Institute Publications},
+    volume = {18},
+    edition = {1st}
+}
+
+@article{Bua2015,
+    title = {{Symmetries in Lagrangian field theory}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 75}},
+    number = {3},
+    pages = {333--357},
+    year = {2015},
+    author = {Lucia Búa and Ioan Bucataru and Manuel de León and Modesto Salgado and Silvia Vilariño}
+}
+
+@article{Cam2009,
+    title = {{Unambiguous formalism for higher order Lagrangian field theories}},
+    author = {Cédric M. Campos and Manuel de León and David {Martín de Diego} and Joris Vankerschaver},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 42}},
+    number = {47},
+    year = {2009},
+    pages = {475207}
+}
+
+@article{Can2002,
+    title = {{Skinner--Rusk approach to time-dependent mechanics}},
+    journal = {Phys. Lett.},
+    volume = {{\bf 300}},
+    number = {2--3},
+    pages = {250--258},
+    year = {2002},
+    author = {Frans Cantrijn and Jorge Cortés and Sonia Martínez}
+}
+
+@article{Can1999,
+    author = {Frans Cantrijn and Luis A. Ibort and Manuel de León},
+    title = {{On the geometry of multisymplectic manifolds}},
+    journal = {J. Austral. Math. Soc. Ser. A},
+    volume = {{\bf 66}},
+    year = {1999},
+    pages = {303--330}
+}
+
+@article{Cap2018,
+    author = {Santiago Capriotti},
+    title = {{Unified formalism for Palatini gravity}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 15}},
+    number = {3},
+    pages = {1850044},
+    year = {2018}
+}
+
+@article{Cap2020,
+    author = {Santiago Capriotti and Jordi Gaset and Narciso Román-Roy and L. Salomone},
+    title = {{Griffiths variational multisymplectic formulation for Lovelock gravity}},
+    journal = {Gen. Relativ. Gravit.},
+    volume = {{\bf 52}},
+    number = {8},
+    pages = {74},
+    year = {2020}
+}
+
+@article{Car1991,
+    author = {Jose F. Cariñena and Michael Crampin and Luis A. Ibort},
+    journal = {Diff. Geom. Appl.},
+    number = {4},
+    pages = {345--374},
+    title = {{On the multisymplectic formalism for first order field theories}},
+    volume = {{\bf 1}},
+    year = {1991}
+}
+
+@article{Car1993,
+    author = {José F. Cariñena and José Fernández-Núñez},
+    title = {{Geometric theory of time-dependent singular Lagrangians}},
+    journal = {Fortschritte der Phys.},
+    volume = {{\bf 41}},
+    number = {6},
+    year = {1993},
+    pages = {517--552}
+}
+
+@article{Car2019,
+    author = {José F. Cariñena and P. Guha},
+    title = {{Nonstandard Hamiltonian structures of the Liénard equation and contact geometry}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 16}},
+    number = {supp01},
+    pages = {1940001},
+    year = {2019}
+}
+
+@book{Car2015,
+    title = {{Geometry from Dynamics, Classical and Quantum}},
+    author = {José F. Cariñena and Alberto Ibort and Giuseppe Marmo and Giuseppe Morandi},
+    publisher = {Springer Netherlands},
+    year = {2015},
+    edition = {1st}
+}
+
+@article{Caw1979,
+    title = {{Determination of the Hamiltonian in the presence of constraints}},
+    journal = {Phys. Rev. Lett.},
+    volume = {{\bf 42}},
+    number = {7},
+    pages = {413--416},
+    year = {1979},
+    author = {Robert Cawley}
+}
+
+
+@book{Cho1978,
+    author = {Yvonne Choquet-Bruhat and Cecile DeWitt-Morette and Margaret Dillard-Bleick},
+    title = {{Analysis, Manifolds and Physics}},
+    year = {1978},
+    publisher = {North Holland Pub Co}
+}
+
+
+@article{Col2010,
+    title = {{Optimal control of underactuated mechanical systems: A geometric approach}},
+    author = {Leonardo Colombo and David {Martín de Diego} and Marcela Zuccalli},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 51}},
+    number = {8},
+    pages = {083519},
+    year = {2010}
+}
+
+@article{Cor2002,
+    title ={{Geometric description of vakonomic and nonholonomic dynamics. Comparison solutions}},
+    journal = {SIAM J. Control Optim.},
+    volume = {{\bf 41}},
+    number = {5},
+    year = {2002},
+    pages = {1389--1412},
+    author = {Jorge Cortés and Manuel de León and David {Martín de Diego} and S. Martínez}
+}
+
+@book{Cra1986,
+    author = {M. Crampin and F.A.E. Pirani},
+    title = {{Applicable Differential Geometry}},
+    publisher = {London Mathematical Society},
+    year = {1986},
+    address = {Cambridge University Press},
+    series = {Lecture Notes Series},
+    volume = {59}
+}
+
+@article{Dar1882,
+    author = {Gaston Darboux},
+    title = {{Sur le problème de Pfaff}},
+    journal = {Bull. des Sci. Math.},
+    volume = {{\bf 6}},
+    year = {1886},
+    number = {1},
+    pages = {14--36}
+}
+
+@article{DeLeo1988b,
+    author = {Manuel de León and Isabel Méndez and Modesto Salgado},
+    title = {{Regular $p$-almost cotangent structures}},
+    journal = {{J. Korean Math. Soc.}},
+    volume = {{\bf 25}},
+    number = {2},
+    year = {1988},
+    pages = {273--287}
+}
+
+@article{DeLeo1997,
+    author = {Manuel de León and Eugenio Merino and J. A. Oubiña and Modesto Salgado},
+    title = {{Stable almost cotangent structures}},
+    journal = {Bolletino dell Unione Mat. Ital. B (7)},
+    volume = {{\bf 11}},
+    number = {3},
+    year = {1997},
+    pages = {509--529}
+}
+
+@article{DeLeo2020,
+    title = {{Unified Lagrangian-Hamiltonian formalism for contact systems}},
+    journal = {Fortschritte der Phys.},
+    volume = {{\bf 68}},
+    number = {8},
+    pages = {2000045},
+    year = {2020},
+    author = {Manuel de León and Jordi Gaset and Manuel Lainz-Valcázar and Xavier Rivas and Narciso Román-Roy}
+}
+
+@article{DeLeo2021,
+    title = {{Higher-order contact mechanics}},
+    journal = {Ann. Phys.},
+    volume = {{\bf 425}},
+    pages = {168396},
+    year = {2021},
+    author = {Manuel de León and Jordi Gaset and Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{DeLeo2021c,
+    title = {{Contact Hamiltonian and Lagrangian systems with nonholonomic constraints}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 13}},
+    number = {1},
+    pages = {25--53},
+    year = {2021},
+    author = {Manuel de León and Víctor M. Jiménez and Manuel Lainz-Valcázar}
+}
+
+@article{DeLeo2019,
+    title = {{Singular Lagrangians and precontact Hamiltonian systems}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 16}},
+    number = {10},
+    pages = {1950158},
+    year = {2019},
+    author = {Manuel de León and Manuel Lainz-Valcázar}
+}
+
+@article{DeLeo2020b,
+    title = {{Infinitesimal symmetries in contact Hamiltonian systems}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 153}},
+    pages = {103651},
+    year = {2020},
+    author = {Manuel de León and Manuel Lainz-Valcázar}
+}
+
+@InProceedings{DeLeo2021b,
+    author = {Manuel de León and Manuel Lainz-Valcázar and Miguel C. Muñoz-Lecanda},
+    editor = {Frank Nielsen and Frédéric Barbaresco},
+    title = {{The Herglotz Principle and Vakonomic Dynamics}},
+    booktitle = {Geometric Science of Information},
+    year = {2021},
+    publisher = {Springer International Publishing},
+    address = {Cham},
+    pages = {183--190},
+    series = {{Lecture Notes in Computer Science}},
+    volume = {12829}
+}
+
+@article{DeLeo1996b,
+    title = {{The constraint algorithm in the jet formalism}},
+    author = {Manuel de León and Jesús Marín-Solano and Juan Carlos Marrero},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 6}},
+    number = {3},
+    year = {1996},
+    pages = {275--300}
+}
+
+
+
+
+
+@InProceedings{DeLeo1996,
+    title = {{A geometrical approach to Classical Field Theories: a constraint algorithm for singular theories}},
+    author = {Manuel de León and Jesús Marín-Solano and Juan Carlos Marrero},
+    year = {1996},
+    booktitle = {New Developments in Differential Geometry},
+    series = {Mathematics and Its Applications},
+    volume = {350},
+    editor = {L. Tamássy and J. Szenthe},
+    publisher = {Springer},
+    address = {Dordrecht},
+    pages = {291--312}
+}
+
+@article{DeLeo2017,
+    title = {{Cosymplectic and contact structures to resolve time-dependent and dissipative Hamiltonian systems}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 50}},
+    number = {25},
+    pages = {255205},
+    year = {2017},
+    author = {Manuel de León and Cristina Sardón}
+}
+
+@article{DeLeo2005,
+    title = {{Pre-multisymplectic constraint algorithm for field theories}},
+    author = {Manuel de León and Jesús Marín-Solano and Juan Carlos Marrero and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 2}},
+    number = {5},
+    pages = {839--871},
+    year = {2005}
+}
+
+@article{DeLeo2003b,
+    author = {Manuel de León and David {Martin de Diego} and Aitor Santamaría-Merino},
+    year = {2003},
+    journal = {Applied Differential Geometry and Mechanic},
+    pages = {21--47},
+    title = {{Tulczyjew triples and Lagrangian submanifolds in classical field theories}},
+    publisher = {Academia Press},
+    address = {Univ. of Gent, Gent}
+}
+
+@unpublished{DeLeo2021d,
+    title = {{Constrained Lagrangian dissipative contact dynamics}},
+    author = {Manuel de León and Manuel Lainz-Valcázar and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
+    year = {2021}
+}
+
+@article{Dir1950,
+    title = {{Generalized Hamiltonian dynamics}},
+    author = {Paul A. M. Dirac},
+    journal = {Can. J. Math.},
+    volume = {{\bf 2}},
+    pages = {129--148},
+    year = {1950}
+}
+
+@book{Dir1964,
+    author = {Paul A. M. Dirac},
+    title = {{Lectures on Quantum Mechanics}},
+    year = {1964},
+    series={Monographs series},
+    publisher={Belfer Graduate School of Science, New York, Yeshiva University}
+}
+
+@article{Ech2004,
+    title = {{Lagrangian--Hamiltonian unified formalism for field theory}},
+    author = {Arturo Echeverría-Enríquez and Carlos López and Jesús Marín-Solano and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 45}},
+    number = {1},
+    pages = {360--385},
+    year = {2004}
+}
+
+@article{Ech1991,
+    title = {{Geometrical setting of time-dependent regular systems. Alternative models}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 3}},
+    number = {3},
+    pages = {301--330},
+    year = {1991}
+}
+
+@article{Ech1996,
+    title = {{Geometry of Lagrangian first-order classical field theories}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Fortschritte der Phys.},
+    volume = {{\bf 44}},
+    number = {3},
+    pages = {235--280},
+    year = {1996}
+}
+
+@article{Ech2000,
+    title = {{Geometry of Multisymplectic Hamiltonian First-order Field Theories}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {11},
+    year = {2000},
+    pages = {7402--7444}
+}
+
+@unpublished{Ese2021,
+    title = {{Contact Dynamics versus Legendrian and Lagrangian Submanifolds}},
+    author = {Oğul Esen and Manuel Lainz-Valcázar and Manuel de León and Juan Carlos Marrero},
+    year = {2021}
+}
+
+@conference{Gar1974,
+    author = {P. L. García},
+    title = {{The Poincaré--Cartan invariant in the calculus of variations}},
+    year = {1974},
+    volume = {14},
+    address = {London},
+    publisher = {Academic Press},
+    pages = {219--246},
+    booktitle = {Symposia Mathematiea},
+    organization = {(Convegno di Geometria Simplettica e Fisica Matematica, INDAM, Rome, 1073)}
+}
+
+@unpublished{Gas2021b,
+    title = {{Application of Herglotz's Variational Principle to Electromagnetic Systems with Dissipation}},
+    author = {Jordi Gaset and Adrià Marín-Salvador},
+    year = {2021}
+}
+
+@article{Gas2018,
+    author = {Jordi Gaset and Narciso Román-Roy},
+    title = {{Multisymplectic unified formalism for Einstein--Hilbert gravity}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 59}},
+    number = {3},
+    year = {2018},
+    pages = {032502}
+}
+
+@phdthesis{Gas2018b,
+    author = {Jordi Gaset},
+    title = {{A multisymplectic approach to gravitational theories}},
+    school = {Technical University of Catalonia (UPC)},
+    year = {2018}
+}
+
+@book{Gei2008,
+    title = {{An Introduction to Contact Topology}},
+    publisher = {Cambridge University Press},
+    year = {2008},
+    author = {Hansjoerg Geiges},
+    series = {Cambridge Studies in Advanced Mathematics},
+    volume = {109}
+}
+
+@article{Geo2002,
+    title = {{First Noether-type theorem for the generalized variational principle of Herglotz}},
+    journal = {Topol. Methods Nonlinear Anal.},
+    volume = {{\bf 20}},
+    number = {2},
+    year = {2002},
+    pages = {261--273},
+    author = {Bogdana Georgieva and Ronald Guenther}
+}
+
+@article{Geo2003,
+    title = {{Generalized variational principle of Herglotz for several independent variables. First Noether-type theorem}},
+    author = {Bogdana Georgieva and Ronald Guenther and Theodore Bodurov},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 44}},
+    number = {9},
+    year = {2003},
+    pages = {3911}
+}
+
+@book{Gia1997,
+    title = {{New Lagrangian and Hamiltonian Methods in Field Theory}},
+    publisher = {World Scientific, River Edge},
+    year = {1997},
+    author = {Giovanni Giachetta and Luigi Mangiarotti and Gennadi A. Sardanashvily}
+}
+
+@book{God1969,
+    title = {{Geometrie Differentielle Et Mecanique Analytique}},
+    author = {Claude Godbillon},
+    series = {Collection methodes},
+    year = {1969},
+    address = {Paris},
+    publisher = {Hermann}
+}
+
+
+@unpublished{Got1999,
+    title = {{Momentum maps and classical relativistic fields. I. Covariant theory}},
+    year = {1999},
+    author = {Mark J. Gotay and J. Isenberg and J. E. Marsden}
+}
+
+@article{Got1980,
+    title = {{Presymplectic Lagrangian systems II: The second-order differential equation problem}},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 32}},
+    number = {1},
+    pages = {1--13},
+    year = {1980},
+    author = {Mark J. Gotay and J. M. Nester}
+}
+
+@article{Got1978,
+    title = {{Presymplectic manifolds and the Diract-Bergmann theory of constraints}},
+    author = {Mark J. Gotay and J. M. Nester and G. Hinds},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 19}},
+    number = {11},
+    pages = {2388--2399},
+    year = {1978}
+}
+
+@article{Gra2000,
+    title = {{Fibre derivatives: Some applications to singular Lagrangians}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 45}},
+    number = {1},
+    pages = {67--84},
+    year = {2000},
+    author = {Xavier Gràcia}
+}
+
+@article{Gra2005,
+    author = {Xavier Gràcia and Rubén Martín},
+    title = {{Geometric aspects of time-dependent singular differential equations}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 2}},
+    number = {4},
+    pages = {597--618},
+    year = {2005}
+}
+
+@article{Gra2009,
+    author = {Xavier Gràcia and Rubén Martín and Narciso Román-Roy},
+    title = {{Constraint algorithm for $k$-presymplectic Hamiltonian systems: application to singular field theories}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 6}},
+    number = {5},
+    year = {2009},
+    pages = {851--872}
+}
+
+@article{Gra2004,
+    title = {{On some aspects of the geometry of differential equations in physics}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 1}},
+    number = {3},
+    pages = {265--284},
+    year = {2004},
+    author = {Xavier Gràcia and Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{Gra1992b,
+    title = {{A generalized geometric framework for constrained systems}},
+    author = {Xavier Gràcia and Josep M. Pons},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 2}},
+    number = {3},
+    pages = {223--247},
+    year = {1992}
+}
+
+@article{Gra1991,
+    title = {{Constrained systems: A unified geometric approach}},
+    author = {Xavier Gràcia and Josep M. Pons},
+    journal = {Int. J. Theor. Phys.},
+    volume = {{\bf 30}},
+    pages = {511--516},
+    year = {1991}
+}
+
+@article{Gra2002,
+    title = {{Symmetries and infinitesimal symmetries of singular differential equations}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 35}},
+    number = {24},
+    year = {2002},
+    pages = {5059--5077},
+    author = {Xavier Gràcia and Josep M. Pons}
+}
+
+@article{Gra1991b,
+    title = {{Higher-order Lagrangian systems: Geometric structures, dynamics and constraints}},
+    author = {Xavier Gràcia and Josep M. Pons and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 32}},
+    number = {10},
+    pages = {2744--2763},
+    year = {1991}
+}
+
+@article{Gra1992,
+    title = {{Higher-order conditions for singular Lagrangian systems}},
+    author = {Xavier Gràcia and Josep M. Pons and Narciso Román-Roy},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {7},
+    pages = {1981--2004},
+    year = {1992}
+}
+
+
+
+@article{Gun1987,
+    author = {Christian Günther},
+    title = {{The polysymplectic Hamiltonian formalism in field theory and calculus of variations I: The local case}},
+    journal = {J. Diff. Geom.},
+    volume = {{\bf 25}},
+    number = {1},
+    pages = {23--53},
+    year = {1987}
+}
+
+@book{Gue1996,
+  title = {{The Herglotz Lectures on Contact Transformations and Hamiltonian systems}},
+  author = {C.M. Guenther and Ronald B. Guenther and J.A. Gottsch and Hans Schwerdtfeger},
+  publisher = {Juliusz Center for Nonlinear Studies, Torun, Poland},
+  series = {Lecture notes in nonlinear analysis},
+  volume = {1},
+  year = {1996},
+  edition = {1st}
+}
+
+@article{Gui2011,
+    author = {Victor Guillemin and Eva Miranda and Ana Rita Pires},
+    title = {{Codimension one symplectic foliations and regular Poisson structures}},
+    journal = {Bull. Braz. Math. Soc., New Series},
+    volume = {{\bf 42}},
+    number = {4},
+    year = {2011},
+    pages = {607--623}
+}
+
+@book{Han1976,
+    author = {Andrew Hanson and Tullio Regge and Claudio Teitelboim},
+    title = {{Constrained Hamiltonian Systems}},
+    publisher = {Accademia Nazionale dei Lincei},
+    year = {1976},
+    address = {Rome}
+}
+
+@book{Hay2018,
+    author = {William H. Hayt and John A. Buck},
+    title = {{Engineering Electromagnetics}},
+    edition = {6th},
+    year = {2018},
+    publisher = {McGraw-Hill Publishing Co., New York}
+}
+
+@article{Hel2004,
+    author = {F. Hélein and J. Kouneiher},
+    title = {{Covariant Hamiltonian formalism for the calculus of variations with several variables: Lepage–Dedecker versus De Donder–Weyl}},
+    journal = {Adv. Theor. Math. Phys.},
+    volume = {{\bf 8}},
+    number = {3},
+    pages = {565--601},
+    year = {2004}
+}
+
+@book{Her1930,
+    author = {G. Herglotz},
+    title = {{Berührungstransformationen}},
+    year = {1930},
+    publisher = {Lectures at the University of Göttingen}
+}
+
+@article{Ibo1992,
+    title = {{A geometric classification of Lagrangian functions and the reduction of evolution space}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {11},
+    pages = {3353--3367},
+    year = {1992},
+    author = {L. Alberto Ibort and Jesús Marín-Solano}
+}
+
+@article{Ibr2004,
+    title = {{Lagrangian Approach to Evolution Equations: Symmetries and Conservation Laws}},
+    journal = {Nonlinear Dyn.},
+    volume = {{\bf 36}},
+    number = {1},
+    pages = {29--40},
+    year = {2004},
+    author = {Nail Ibragimov and Torbjörn Kolsrud}
+}
+
+@book{Itz1980,
+    title = {{Quantum field theory}},
+    author = {Claude Itzykson and Jean-Bernard Zuber},
+    year = {1980},
+    publisher = {McGraw-Hill, New York},
+    series = {International Series In Pure and Applied Physics}
+}
+
+@book{Jac1999,
+    title = {{Classical electrodynamics}},
+    edition = {3rd},
+    author = {J. D. Jackson},
+    publisher = {Wiley},
+    year = {1999}
+}
+
+@article{Kam1982,
+    title = {{Singular Lagrangian and constrained Hamiltonian systems, generalized canonical formalism}},
+    author = {Kiyoshi Kamimura},
+    journal = {Nuovo Cim. B},
+    volume = {{\bf 68}},
+    number = {1},
+    pages = {33--54},
+    year = {1982}
+}
+
+@article{Kan1998,
+    title = {{Canonical structure of classical field theory in the polymomentum phase space}},
+    author = {Igor V. Kanatchikov},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {1},
+    year = {1998},
+    pages = {49--90}
+}
+
+@book{Kho2013,
+    author = {Arkady L. Kholodenko},
+    publisher = {World Scientific},
+    title = {{Applications of Contact Geometry and Topology in Physics}},
+    year = {2013}
+}
+
+@article{Kle1962,
+    title = {{Espaces variationnels et mécanique}},
+    author = {Joseph Klein},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 12}},
+    year = {1962},
+    pages = {1--124}
+}
+
+@article{Kru2002,
+    title = {{Hamiltonian field theory}},
+    author = {Olga Krupkova},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 43}},
+    number = {2--3},
+    pages = {93--132},
+    year = {2002}
+}
+
+@article{Laz2018,
+    title = {{An action principle for action-dependent Lagrangians: Toward an action principle for non-conservative systems}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 59}},
+    number = {3},
+    pages = {032902},
+    year = {2018},
+    author = {Matheus J. Lazo and Juilson Paiva and Jo{\~a}o T. S. Amaral and Gast{\~a}o S. F. Frederico}
+}
+
+@book{Lee2013,
+    title = {{Introduction to Smooth Manifolds}},
+    author = {John M. Lee},
+    isbn = {9780387217529},
+    lccn = {2002070454},
+    series = {Graduate Texts in Mathematics},
+    volume = {218},
+    year = {2013},
+    edition = {2nd},
+    publisher = {Springer New York Heidelberg Dordrecht London}
+}
+
+@book{Lib1987,
+    address = {Reidel, Dordretch},
+    author = {Paulette Libermann and Charles-Michel Marle},
+    doi = {10.1007/978-94-009-3807-6},
+    month = {oct},
+    publisher = {Springer Netherlands},
+    title = {{Symplectic Geometry and Analytical Mechanics}},
+    year = {1987}
+}
+
+@article{Lic1951,
+    title = {{Sur les variétés symplectiques}},
+    author = {André Lichnerowicz},
+    journal = {C. R. Math. Acad. Sci. Paris},
+    volume = {{\bf 233}},
+    year = {1951},
+    pages = {723--725}
+}
+
+@article{Lic1975,
+    title = {{Variété symplectique et dynamique associée à une sous-variété}},
+    author = {André Lichnerowicz},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 280}},
+    year = {1975},
+    pages = {A523--A527}
+}
+
+@article{Liu2018,
+    title = {{Contact Hamiltonian dynamics: variational principles, invariants, completeness and periodic behaviour}},
+    author = {Q. Liu and P. J. Torres and C. Wang},
+    journal = {Ann. Phys.},
+    volume = {{\bf 395}},
+    pages = {26--44},
+    year = {2018}
+}
+
+@book{Man1998,
+    title = {{Gauge mechanics}},
+    author = {Luigi Mangiarotti and Gennadi A. Sardanashvily},
+    year = {1998},
+    publisher = {World Scientific}
+}
+
+@article{Mar1997,
+    title = {{Constrained Hamiltonian systems as implicit differential equations}},
+    author = {Giuseppe Marmo and Giovanna Mendella and Wlodzimierz M. Tulczyjew},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 30}},
+    number = {1},
+    pages = {277--293},
+    year = {1997}
+}
+
+@book{Mar1985,
+    title = {{Dynamical Systems: A Differential Geometric Approach to Symmetry and Reduction}},
+    author = {Giuseppe Marmo and Eugene J. Saletan and Alberto Simoni and Bruno Vitale},
+    publisher = {John Wiley \& Sons Ltd.},
+    edition = {1st},
+    year = {1985}
+}
+
+
+@article{Nor2000,
+    author = {M. McLean and L. K. Norris},
+    title = {{Covariant field theory on frame bundles of fibered manifolds}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {10},
+    year = {2000},
+    pages = {6828}
+}
+
+@article{Mun1992,
+    title = {{Lagrangian theory for presymplectic systems}},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 57}},
+    number = {1},
+    pages = {27--45},
+    year = {1992},
+    author = {Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{Mun2010,
+    title = {{$k$-symplectic and $k$-cosymplectic Lagrangian field theories: some interesting examples and applications}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 7}},
+    number = {4},
+    pages = {669--692},
+    year = {2010},
+    author = {Miguel C. Muñoz-Lecanda and Modesto Salgado and Silvia Vilariño}
+}
+
+@inproceedings{Nor1993,
+    author = {L. K. Norris},
+    title = {Generalized symplectic geometry on the frame bundle of a manifold},
+    booktitle = {Proc. Symp. Pure Math. 54, Part 2 (Amer. Math. Soc., Providence RI)},
+    year = {1993},
+    pages = {435--465}
+}
+
+@book{Olv1986,
+    title = {{Applications of Lie Groups to Differential Equations}},
+    publisher = {Springer-Verlag New York},
+    year = {1993},
+    edition = {2nd},
+    series = {Graduate Texts in Mathematics},
+    volume = {107},
+    author = {Peter J. Olver}
+}
+
+@book{Pan1962,
+    title = {{Classical Electricity and Magnetism}},
+    publisher = {Addison--Wesley, Reading MA},
+    author = {Wolfgang K. H. Panofsky and Melba Phillips},
+    year = {1962},
+    edition = {2nd}
+}
+
+@article{Pau2002,
+    title = {{Geometry of Hamiltonian $n$-vector fields in multisymplectic field theory}},
+    author = {Cornelius Paufler and Hartmann Römer},
+    journal = {J. Geom. Phys},
+    volume = {{\bf 44}},
+    number = {1},
+    pages = {52--69},
+    year = {2002}
+}
+
+
+
+@article{Pri2012,
+    title = {{Unified formalism for higher-order non-autonomous dynamical systems}},
+    author = {Pere Daniel Prieto-Martínez and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 53}},
+    number = {3},
+    pages = {032901},
+    year = {2012}
+}
+
+@article{Pri2015,
+    title = {{A new multisymplectic unified formalism for second order classical field theories}},
+    author = {Pere Daniel Prieto-Martínez and Narciso Román-Roy},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 7}},
+    number = {2},
+    pages = {203--253},
+    year = {2015}
+}
+
+
+@article{Rey2005,
+    title = {{Günther formalism ($k$-symplectic formalism) in classical field theory: Skinner--Rusk approach and the evolution operator}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 46}},
+    number = {5},
+    pages = {052901},
+    year = {2005},
+    author = {A. M. Rey and Narciso Román-Roy and Modesto Salgado}
+}
+
+@article{Rey2012,
+    title = {{$k$-cosymplectic classical field theories: Tulczyjew and Skinner--Rusk formulations}},
+    journal = {Math. Phys. Anal. Geom.},
+    volume = {{\bf 15}},
+    number = {2},
+    pages = {85--119},
+    year = {2012},
+    author = {A. M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño}
+}
+
+@article{Rom2009,
+    title = {{Multisymplectic Lagrangian and Hamiltonian Formalisms of classical field theories}},
+    author = {Narciso Román-Roy},
+    journal = {Symmetry Integr. Geom.: Methods Appl. (SIGMA)},
+    volume = {{\bf 5}},
+    number = {100},
+    year = {2009}
+}
+
+@article{Rom2020,
+    title = {{A summary on symmetries and conserved quantities of autonomous Hamiltonian systems}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 12}},
+    number = {3},
+    year = {2020},
+    pages = {541--551},
+    author = {Narciso Román-Roy}
+}
+
+@article{Rom2007,
+    title = {{Symmetries and conservation laws in the Günther $k$-symplectic formalism of field theories}},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 19}},
+    number = {10},
+    pages = {1117--1147},
+    year = {2007},
+    author = {Narciso Román-Roy and Modesto Salgado and Silvia Vilariño}
+}
+
+
+@book{Sal2015,
+    title = {{Partial Differential Equations in Action: From Modelling to Theory}},
+    series = {Unitext},
+    volume = {86},
+    edition = {2nd},
+    publisher = {Springer International Publishing},
+    year = {2015},
+    author = {Sandro Salsa}
+}
+
+@book{Sar1995,
+    title = {{Generalized Hamiltonian formalism for field theory. Constraint systems}},
+    author = {Gennadi A. Sardanashvily},
+    year = {1995},
+    publisher={World Scientific Publishing Company},
+    address = {River Edge, NJ}
+}
+
+@book{Sau1989,
+    title = {{The geometry of jet bundles}},
+    author = {D. J. Saunders},
+    year = {1989},
+    publisher = {Cambridge University Press},
+    series = {London Mathematical Society Lecture Notes Series},
+    volume = {142}
+}
+
+
+@article{Ski1983,
+    title = {{Generalized Hamiltonian dynamics I: Formulation on $\T^\ast Q\otimes\T Q$}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 24}},
+    number = {11},
+    pages = {2589--2594},
+    year = {1983},
+    author = {Ray Skinner and Raymond Rusk}
+}
+
+@book{Sou1970,
+    title = {{Structure des systèmes dynamiques}},
+    author = {Jean Marie Souriau},
+    publisher = {Dunod},
+    year = {1970},
+    address = {Paris},
+    series = {Maîtrises de mathématiques}
+}
+
+
+@article{Tul1976,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {{Les sous-variétés lagrangiennes et la dynamique hamiltonienne}},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 283}},
+    number = {1},
+    pages = {A15--A18},
+    year = {1976}
+}
+
+@article{Tul1976b,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {{Les sous-variétés lagrangiennes et la dynamique lagrangienne}},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 283}},
+    number = {8},
+    pages = {A675--A678},
+    year = {1976}
+}
+
+@article{Tul1977,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {The Legendre transformation},
+    journal = {Ann. Inst. H. Poincaré Sect. A (N.S.)},
+    volume = {{\bf 27}},
+    number = {1},
+    pages = {101--114},
+    year = {1977}
+}
+
+@article{Vig2000,
+    title = {{A new presymplectic framework for time-dependent Lagrangian systems: the constraint algorithm and the second-order differential equation problem}},
+    author = {S. Vignolo},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 33}},
+    number = {28},
+    pages = {5117--5135},
+    year = {2000}
+}
+
+@article{Vit2010,
+    title = {{The Lagrangian--Hamiltonian formalism for higher order field theories}},
+    author = {Luca Vitagliano},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 60}},
+    number = {6--8},
+    pages = {857--873},
+    year = {2010}
+}
+
+@article{Mar2009,
+    title = {The Inception of Symplectic Geometry: the Works of Lagrange and Poisson During the Years 1808–1810},
+    author = {Charles-Michel Marle},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 90}},
+    number = {3},
+    year = {2009}
+}
+
+@article{Yos2007,
+    title = {{Reduction of Dirac structures and the Hamilton--Pontryagin principle}},
+    author = {HiroakiYoshimura and Jerrold E.Marsden},
+    year = {2007},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 60}},
+    number = {3},
+    pages = {381--426}
+}
+
+@article{Ech1999,
+    title = {{Reduction of presymplectic manifolds with symmetry}},
+    author = {A. Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 11}},
+    number = {10},
+    year = {1999},
+    pages = {1209--1247}
+}
+
+@article{Ste1974,
+    title = {{Accessibility and foliations with singularities}},
+    author = {P. Stefan},
+    journal = {Bull. Am. Math. Soc.},
+    volume = {{\bf 80}},
+    number = {6},
+    pages = {1142--1145},
+    year = {1974}
+}
+
+@article{Ste1974b,
+    title = {{Accessible sets, orbits, and foliations with singularities}},
+    author = {P. Stefan},
+    journal = {Proc. Lond. Math. Soc.},
+    volume = {{\bf s3-29}},
+    number = {4},
+    pages = {699--713},
+    year = {1974}
+}
+
+@book{Vais1994,
+    title = {{Lectures on the Geometry of Poisson Manifolds}},
+    author = {Izu Vaisman},
+    year = {1994},
+    publisher = {Birkhäuser, Basel},
+    volume = {118},
+    series = {Progress in Mathematics}
+}
+
+@article{Hol1985,
+    title = {{Nonlinear stability of fluid and plasma equilibria}},
+    author = {Darryl D. Holm and Jerrold E. Marsden and Tudor Ratiu and Alan Weinstein},
+    journal = {Phys. Rep.},
+    volume = {{\bf 123}},
+    number = {1--2},
+    pages = {1--116},
+    year = {1985}
+}
+
+@article{Cap2013,
+    title = {{A survey on cosymplectic geometry}},
+    author = {Beniamino Cappelletti-Montano and Antonio de Nicola and Ivan Yudin},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 25}},
+    number = {10},
+    pages = {1343002},
+    year = {2013}
+}
+
+
+@article{Arm1990,
+    title = {{Geometric and algebraic reduction for singular momentum maps}},
+    author = {Judith M. Arms and Mark J. Gotay and George Jennings},
+    journal = {Adv. Math.},
+    year = {1990},
+    volume = {{\bf 79}},
+    number = {1},
+    pages = {43--103}
+}
+@book{Abr1988,
+    author = {Ralph Abraham and Jerrold E. Marsden and Tudor Ratiu},
+    title = {{Manifolds, Tensor Analysis and Applications}},
+    series = {Applied Mathematical Sciences},
+    volume = {75},
+    year = {1988},
+    publisher = {Springer-Verlag},
+    address = {New York},
+    edition = {2nd}
+}
+
+@article{Ald1980,
+    title = {{Geometric formulation of classical mechanics and field theory}},
+    author = {V. Aldaya and J. A. de Azcárraga},
+    journal = {Riv. Nuovo Cim.},
+    volume = {{\bf 3}},
+    number = {1},
+    year = {1980},
+    pages = {1-66}
+}
+
+@article{And1951,
+    title = {{Constraints in covariant field theories}},
+    author = {J. L. Anderson and P. G. Bergmann},
+    journal = {Phys. Rev.},
+    volume = {{\bf 83}},
+    number = {5},
+    pages = {1018--1025},
+    year = {1951}
+
+}
+
+@book{Arn1989,
+    address = {New York},
+    author = {Vladimir I. Arnold},
+    edition = {2nd},
+    isbn = {0387968903},
+    publisher = {Springer},
+    series = {Graduate Texts in Mathematics},
+    title = {{Mathematical Methods of Classical Mechanics}},
+    volume = {60},
+    year = {1989}
+}
+
+@article{Awa1992,
+    title = {{$k$-symplectic structures}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 33}},
+    number = {12},
+    pages = {4046},
+    year = {1992},
+    author = {Azzouz Awane}
+}
+
+@book{Awa2000,
+    title = {{Pfaffian systems, $k$-symplectic systems}},
+    author = {Azzouz Awane and Michel Goze},
+    publisher = {Springer},
+    address = {Dordrecht},
+    edition = {1st},
+    year = {2000}
+}
+
+@book{Ban2016,
+    address = {Singapore},
+    author = {Augustin Banyaga and Djideme F Houenou},
+    doi = {10.1142/9667},
+    publisher = {World Scientific Publishing Co. Pte. Ltd.},
+    title = {{A brief introduction to symplectic and contact manifolds}},
+    volume = {15},
+    year = {2016}
+}
+
+@article{Bar2007,
+    title = {{Skinner--Rusk unified formalism for optimal control systems and applications}},
+    author = {María Barbero-Liñán and Arturo Echeverría-Enríquez and David {Martín de Diego} and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 40}},
+    number = {40},
+    year = {2007},
+    pages = {12071--12093}
+}
+
+@article{Bar2008,
+    title = {{Unified formalism for non-autonomous mechanical systems}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 49}},
+    number = {6},
+    pages = {062902},
+    year = {2008},
+    author = {María Barbero-Liñán and Arturo Echeverría-Enríquez and David {Martín de Diego} and Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{Bat1915,
+    title = {{Some Recent Researches on the Motion of Fluids}},
+    journal = {Mon. Weather Rev.},
+    volume = {{\bf 43}},
+    pages = {163--170},
+    year = {1915},
+    author = {Harry Bateman}
+}
+
+@article{Bat1986,
+    title = {{Equivalence between the Lagrangian and Hamiltonian formalism for constrained systems}},
+    author = {Carles Batlle and Joaquim Gomis and Josep M. Pons and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 27}},
+    number = {12},
+    pages = {2953--2962},
+    year = {1968}
+}
+
+
+
+@article{Bra2020,
+    title = {{Invariant measures for contact Hamiltonian systems: symplectic sandwiches with contact bread}},
+    author = {Alessandro Bravetti and Manuel de León and Juan Carlos Marrero and Edith Padrón},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 53}},
+    pages = {455205},
+    year = {2020}
+}
+
+@book{Bry1991,
+    author = {Robert L. Bryant and S. S. Chern and Robert B. Gardner and Hubert L. Goldshmidt and P. A. Griffith},
+    title = {{Exterior Differential Systems}},
+    publisher = {Springer-Verlag},
+    year = {1991},
+    address = {New York},
+    series = {Mathematical Sciences Research Institute Publications},
+    volume = {18},
+    edition = {1st}
+}
+
+@article{Bua2015,
+    title = {{Symmetries in Lagrangian field theory}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 75}},
+    number = {3},
+    pages = {333--357},
+    year = {2015},
+    author = {Lucia Búa and Ioan Bucataru and Manuel de León and Modesto Salgado and Silvia Vilariño}
+}
+
+@article{Cam2009,
+    title = {{Unambiguous formalism for higher order Lagrangian field theories}},
+    author = {Cédric M. Campos and Manuel de León and David {Martín de Diego} and Joris Vankerschaver},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 42}},
+    number = {47},
+    year = {2009},
+    pages = {475207}
+}
+
+@article{Can2002,
+    title = {{Skinner--Rusk approach to time-dependent mechanics}},
+    journal = {Phys. Lett.},
+    volume = {{\bf 300}},
+    number = {2--3},
+    pages = {250--258},
+    year = {2002},
+    author = {Frans Cantrijn and Jorge Cortés and Sonia Martínez}
+}
+
+@article{Can1999,
+    author = {Frans Cantrijn and Luis A. Ibort and Manuel de León},
+    title = {{On the geometry of multisymplectic manifolds}},
+    journal = {J. Austral. Math. Soc. Ser. A},
+    volume = {{\bf 66}},
+    year = {1999},
+    pages = {303--330}
+}
+
+@article{Cap2018,
+    author = {Santiago Capriotti},
+    title = {{Unified formalism for Palatini gravity}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 15}},
+    number = {3},
+    pages = {1850044},
+    year = {2018}
+}
+
+@article{Cap2020,
+    author = {Santiago Capriotti and Jordi Gaset and Narciso Román-Roy and L. Salomone},
+    title = {{Griffiths variational multisymplectic formulation for Lovelock gravity}},
+    journal = {Gen. Relativ. Gravit.},
+    volume = {{\bf 52}},
+    number = {8},
+    pages = {74},
+    year = {2020}
+}
+
+@article{Car1991,
+    author = {Jose F. Cariñena and Michael Crampin and Luis A. Ibort},
+    journal = {Diff. Geom. Appl.},
+    number = {4},
+    pages = {345--374},
+    title = {{On the multisymplectic formalism for first order field theories}},
+    volume = {{\bf 1}},
+    year = {1991}
+}
+
+@article{Car1993,
+    author = {José F. Cariñena and José Fernández-Núñez},
+    title = {{Geometric theory of time-dependent singular Lagrangians}},
+    journal = {Fortschritte der Phys.},
+    volume = {{\bf 41}},
+    number = {6},
+    year = {1993},
+    pages = {517--552}
+}
+
+@article{Car2019,
+    author = {José F. Cariñena and P. Guha},
+    title = {{Nonstandard Hamiltonian structures of the Liénard equation and contact geometry}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 16}},
+    number = {supp01},
+    pages = {1940001},
+    year = {2019}
+}
+
+@book{Car2015,
+    title = {{Geometry from Dynamics, Classical and Quantum}},
+    author = {José F. Cariñena and Alberto Ibort and Giuseppe Marmo and Giuseppe Morandi},
+    publisher = {Springer Netherlands},
+    year = {2015},
+    edition = {1st}
+}
+
+@article{Caw1979,
+    title = {{Determination of the Hamiltonian in the presence of constraints}},
+    journal = {Phys. Rev. Lett.},
+    volume = {{\bf 42}},
+    number = {7},
+    pages = {413--416},
+    year = {1979},
+    author = {Robert Cawley}
+}
+
+
+@book{Cho1978,
+    author = {Yvonne Choquet-Bruhat and Cecile DeWitt-Morette and Margaret Dillard-Bleick},
+    title = {{Analysis, Manifolds and Physics}},
+    year = {1978},
+    publisher = {North Holland Pub Co}
+}
+
+
+@article{Col2010,
+    title = {{Optimal control of underactuated mechanical systems: A geometric approach}},
+    author = {Leonardo Colombo and David {Martín de Diego} and Marcela Zuccalli},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 51}},
+    number = {8},
+    pages = {083519},
+    year = {2010}
+}
+
+@article{Cor2002,
+    title ={{Geometric description of vakonomic and nonholonomic dynamics. Comparison solutions}},
+    journal = {SIAM J. Control Optim.},
+    volume = {{\bf 41}},
+    number = {5},
+    year = {2002},
+    pages = {1389--1412},
+    author = {Jorge Cortés and Manuel de León and David {Martín de Diego} and S. Martínez}
+}
+
+@book{Cra1986,
+    author = {M. Crampin and F.A.E. Pirani},
+    title = {{Applicable Differential Geometry}},
+    publisher = {London Mathematical Society},
+    year = {1986},
+    address = {Cambridge University Press},
+    series = {Lecture Notes Series},
+    volume = {59}
+}
+
+@article{Dar1882,
+    author = {Gaston Darboux},
+    title = {{Sur le problème de Pfaff}},
+    journal = {Bull. des Sci. Math.},
+    volume = {{\bf 6}},
+    year = {1886},
+    number = {1},
+    pages = {14--36}
+}
+
+@article{DeLeo1988b,
+    author = {Manuel de León and Isabel Méndez and Modesto Salgado},
+    title = {{Regular $p$-almost cotangent structures}},
+    journal = {{J. Korean Math. Soc.}},
+    volume = {{\bf 25}},
+    number = {2},
+    year = {1988},
+    pages = {273--287}
+}
+
+@article{DeLeo1997,
+    author = {Manuel de León and Eugenio Merino and J. A. Oubiña and Modesto Salgado},
+    title = {{Stable almost cotangent structures}},
+    journal = {Bolletino dell Unione Mat. Ital. B (7)},
+    volume = {{\bf 11}},
+    number = {3},
+    year = {1997},
+    pages = {509--529}
+}
+
+@article{DeLeo1996b,
+    title = {{The constraint algorithm in the jet formalism}},
+    author = {Manuel de León and Jesús Marín-Solano and Juan Carlos Marrero},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 6}},
+    number = {3},
+    year = {1996},
+    pages = {275--300}
+}
+
+
+
+@InProceedings{DeLeo1996,
+    title = {{A geometrical approach to Classical Field Theories: a constraint algorithm for singular theories}},
+    author = {Manuel de León and Jesús Marín-Solano and Juan Carlos Marrero},
+    year = {1996},
+    booktitle = {New Developments in Differential Geometry},
+    series = {Mathematics and Its Applications},
+    volume = {350},
+    editor = {L. Tamássy and J. Szenthe},
+    publisher = {Springer},
+    address = {Dordrecht},
+    pages = {291--312}
+}
+
+@article{DeLeo2017,
+    title = {{Cosymplectic and contact structures to resolve time-dependent and dissipative Hamiltonian systems}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 50}},
+    number = {25},
+    pages = {255205},
+    year = {2017},
+    author = {Manuel de León and Cristina Sardón}
+}
+
+@article{DeLeo2005,
+    title = {{Pre-multisymplectic constraint algorithm for field theories}},
+    author = {Manuel de León and Jesús Marín-Solano and Juan Carlos Marrero and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 2}},
+    number = {5},
+    pages = {839--871},
+    year = {2005}
+}
+
+@article{DeLeo2003b,
+    author = {Manuel de León and David {Martin de Diego} and Aitor Santamaría-Merino},
+    year = {2003},
+    journal = {Applied Differential Geometry and Mechanic},
+    pages = {21--47},
+    title = {{Tulczyjew triples and Lagrangian submanifolds in classical field theories}},
+    publisher = {Academia Press},
+    address = {Univ. of Gent, Gent}
+}
+
+@unpublished{DeLeo2021d,
+    title = {{Constrained Lagrangian dissipative contact dynamics}},
+    author = {Manuel de León and Manuel Lainz-Valcázar and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
+    year = {2021}
+}
+
+@article{Dir1950,
+    title = {{Generalized Hamiltonian dynamics}},
+    author = {Paul A. M. Dirac},
+    journal = {Can. J. Math.},
+    volume = {{\bf 2}},
+    pages = {129--148},
+    year = {1950}
+}
+
+@book{Dir1964,
+    author = {Paul A. M. Dirac},
+    title = {{Lectures on Quantum Mechanics}},
+    year = {1964},
+    series={Monographs series},
+    publisher={Belfer Graduate School of Science, New York, Yeshiva University}
+}
+
+@article{Ech2004,
+    title = {{Lagrangian--Hamiltonian unified formalism for field theory}},
+    author = {Arturo Echeverría-Enríquez and Carlos López and Jesús Marín-Solano and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 45}},
+    number = {1},
+    pages = {360--385},
+    year = {2004}
+}
+
+@article{Ech1991,
+    title = {{Geometrical setting of time-dependent regular systems. Alternative models}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 3}},
+    number = {3},
+    pages = {301--330},
+    year = {1991}
+}
+
+@article{Ech1996,
+    title = {{Geometry of Lagrangian first-order classical field theories}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Fortschritte der Phys.},
+    volume = {{\bf 44}},
+    number = {3},
+    pages = {235--280},
+    year = {1996}
+}
+
+@article{Ech2000,
+    title = {{Geometry of Multisymplectic Hamiltonian First-order Field Theories}},
+    author = {Arturo Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {11},
+    year = {2000},
+    pages = {7402--7444}
+}
+
+@unpublished{Ese2021,
+    title = {{Contact Dynamics versus Legendrian and Lagrangian Submanifolds}},
+    author = {Oğul Esen and Manuel Lainz-Valcázar and Manuel de León and Juan Carlos Marrero},
+    year = {2021}
+}
+
+@conference{Gar1974,
+    author = {P. L. García},
+    title = {{The Poincaré--Cartan invariant in the calculus of variations}},
+    year = {1974},
+    volume = {14},
+    address = {London},
+    publisher = {Academic Press},
+    pages = {219--246},
+    booktitle = {Symposia Mathematiea},
+    organization = {(Convegno di Geometria Simplettica e Fisica Matematica, INDAM, Rome, 1073)}
+}
+
+@unpublished{Gas2021b,
+    title = {{Application of Herglotz's Variational Principle to Electromagnetic Systems with Dissipation}},
+    author = {Jordi Gaset and Adrià Marín-Salvador},
+    year = {2021}
+}
+
+@article{Gas2018,
+    author = {Jordi Gaset and Narciso Román-Roy},
+    title = {{Multisymplectic unified formalism for Einstein--Hilbert gravity}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 59}},
+    number = {3},
+    year = {2018},
+    pages = {032502}
+}
+
+@phdthesis{Gas2018b,
+    author = {Jordi Gaset},
+    title = {{A multisymplectic approach to gravitational theories}},
+    school = {Technical University of Catalonia (UPC)},
+    year = {2018}
+}
+
+@book{Gei2008,
+    title = {{An Introduction to Contact Topology}},
+    publisher = {Cambridge University Press},
+    year = {2008},
+    author = {Hansjoerg Geiges},
+    series = {Cambridge Studies in Advanced Mathematics},
+    volume = {109}
+}
+
+@article{Geo2002,
+    title = {{First Noether-type theorem for the generalized variational principle of Herglotz}},
+    journal = {Topol. Methods Nonlinear Anal.},
+    volume = {{\bf 20}},
+    number = {2},
+    year = {2002},
+    pages = {261--273},
+    author = {Bogdana Georgieva and Ronald Guenther}
+}
+
+@article{Geo2003,
+    title = {{Generalized variational principle of Herglotz for several independent variables. First Noether-type theorem}},
+    author = {Bogdana Georgieva and Ronald Guenther and Theodore Bodurov},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 44}},
+    number = {9},
+    year = {2003},
+    pages = {3911}
+}
+
+@book{Gia1997,
+    title = {{New Lagrangian and Hamiltonian Methods in Field Theory}},
+    publisher = {World Scientific, River Edge},
+    year = {1997},
+    author = {Giovanni Giachetta and Luigi Mangiarotti and Gennadi A. Sardanashvily}
+}
+
+@book{God1969,
+    title = {{Geometrie Differentielle Et Mecanique Analytique}},
+    author = {Claude Godbillon},
+    series = {Collection methodes},
+    year = {1969},
+    address = {Paris},
+    publisher = {Hermann}
+}
+
+@unpublished{Got1999,
+    title = {{Momentum maps and classical relativistic fields. I. Covariant theory}},
+    year = {1999},
+    author = {Mark J. Gotay and J. Isenberg and J. E. Marsden}
+}
+
+@article{Got1980,
+    title = {{Presymplectic Lagrangian systems II: The second-order differential equation problem}},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 32}},
+    number = {1},
+    pages = {1--13},
+    year = {1980},
+    author = {Mark J. Gotay and J. M. Nester}
+}
+
+@article{Got1978,
+    title = {{Presymplectic manifolds and the Diract-Bergmann theory of constraints}},
+    author = {Mark J. Gotay and J. M. Nester and G. Hinds},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 19}},
+    number = {11},
+    pages = {2388--2399},
+    year = {1978}
+}
+
+
+@article{Gra2000,
+    title = {{Fibre derivatives: Some applications to singular Lagrangians}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 45}},
+    number = {1},
+    pages = {67--84},
+    year = {2000},
+    author = {Xavier Gràcia}
+}
+
+@article{Gra2005,
+    author = {Xavier Gràcia and Rubén Martín},
+    title = {{Geometric aspects of time-dependent singular differential equations}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 2}},
+    number = {4},
+    pages = {597--618},
+    year = {2005}
+}
+
+@article{Gra2009,
+    author = {Xavier Gràcia and Rubén Martín and Narciso Román-Roy},
+    title = {{Constraint algorithm for $k$-presymplectic Hamiltonian systems: application to singular field theories}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 6}},
+    number = {5},
+    year = {2009},
+    pages = {851--872}
+}
+
+@article{Gra2004,
+    title = {{On some aspects of the geometry of differential equations in physics}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 1}},
+    number = {3},
+    pages = {265--284},
+    year = {2004},
+    author = {Xavier Gràcia and Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{Gra1992b,
+    title = {{A generalized geometric framework for constrained systems}},
+    author = {Xavier Gràcia and Josep M. Pons},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 2}},
+    number = {3},
+    pages = {223--247},
+    year = {1992}
+}
+
+@article{Gra1991,
+    title = {{Constrained systems: A unified geometric approach}},
+    author = {Xavier Gràcia and Josep M. Pons},
+    journal = {Int. J. Theor. Phys.},
+    volume = {{\bf 30}},
+    pages = {511--516},
+    year = {1991}
+}
+
+@article{Gra2002,
+    title = {{Symmetries and infinitesimal symmetries of singular differential equations}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 35}},
+    number = {24},
+    year = {2002},
+    pages = {5059--5077},
+    author = {Xavier Gràcia and Josep M. Pons}
+}
+
+@article{Gra1991b,
+    title = {{Higher-order Lagrangian systems: Geometric structures, dynamics and constraints}},
+    author = {Xavier Gràcia and Josep M. Pons and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 32}},
+    number = {10},
+    pages = {2744--2763},
+    year = {1991}
+}
+
+@article{Gra1992,
+    title = {{Higher-order conditions for singular Lagrangian systems}},
+    author = {Xavier Gràcia and Josep M. Pons and Narciso Román-Roy},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {7},
+    pages = {1981--2004},
+    year = {1992}
+}
+
+
+@article{Gun1987,
+    author = {Christian Günther},
+    title = {{The polysymplectic Hamiltonian formalism in field theory and calculus of variations I: The local case}},
+    journal = {J. Diff. Geom.},
+    volume = {{\bf 25}},
+    number = {1},
+    pages = {23--53},
+    year = {1987}
+}
+
+@book{Gue1996,
+  title = {{The Herglotz Lectures on Contact Transformations and Hamiltonian systems}},
+  author = {C.M. Guenther and Ronald B. Guenther and J.A. Gottsch and Hans Schwerdtfeger},
+  publisher = {Juliusz Center for Nonlinear Studies, Torun, Poland},
+  series = {Lecture notes in nonlinear analysis},
+  volume = {1},
+  year = {1996},
+  edition = {1st}
+}
+
+@article{Gui2011,
+    author = {Victor Guillemin and Eva Miranda and Ana Rita Pires},
+    title = {{Codimension one symplectic foliations and regular Poisson structures}},
+    journal = {Bull. Braz. Math. Soc., New Series},
+    volume = {{\bf 42}},
+    number = {4},
+    year = {2011},
+    pages = {607--623}
+}
+
+@book{Han1976,
+    author = {Andrew Hanson and Tullio Regge and Claudio Teitelboim},
+    title = {{Constrained Hamiltonian Systems}},
+    publisher = {Accademia Nazionale dei Lincei},
+    year = {1976},
+    address = {Rome}
+}
+
+@book{Hay2018,
+    author = {William H. Hayt and John A. Buck},
+    title = {{Engineering Electromagnetics}},
+    edition = {6th},
+    year = {2018},
+    publisher = {McGraw-Hill Publishing Co., New York}
+}
+
+@article{Hel2004,
+    author = {F. Hélein and J. Kouneiher},
+    title = {{Covariant Hamiltonian formalism for the calculus of variations with several variables: Lepage–Dedecker versus De Donder–Weyl}},
+    journal = {Adv. Theor. Math. Phys.},
+    volume = {{\bf 8}},
+    number = {3},
+    pages = {565--601},
+    year = {2004}
+}
+
+@book{Her1930,
+    author = {G. Herglotz},
+    title = {{Berührungstransformationen}},
+    year = {1930},
+    publisher = {Lectures at the University of Göttingen}
+}
+
+@article{Ibo1992,
+    title = {{A geometric classification of Lagrangian functions and the reduction of evolution space}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {11},
+    pages = {3353--3367},
+    year = {1992},
+    author = {L. Alberto Ibort and Jesús Marín-Solano}
+}
+
+@article{Ibr2004,
+    title = {{Lagrangian Approach to Evolution Equations: Symmetries and Conservation Laws}},
+    journal = {Nonlinear Dyn.},
+    volume = {{\bf 36}},
+    number = {1},
+    pages = {29--40},
+    year = {2004},
+    author = {Nail Ibragimov and Torbjörn Kolsrud}
+}
+
+@book{Itz1980,
+    title = {{Quantum field theory}},
+    author = {Claude Itzykson and Jean-Bernard Zuber},
+    year = {1980},
+    publisher = {McGraw-Hill, New York},
+    series = {International Series In Pure and Applied Physics}
+}
+
+@book{Jac1999,
+    title = {{Classical electrodynamics}},
+    edition = {3rd},
+    author = {J. D. Jackson},
+    publisher = {Wiley},
+    year = {1999}
+}
+
+@article{Kam1982,
+    title = {{Singular Lagrangian and constrained Hamiltonian systems, generalized canonical formalism}},
+    author = {Kiyoshi Kamimura},
+    journal = {Nuovo Cim. B},
+    volume = {{\bf 68}},
+    number = {1},
+    pages = {33--54},
+    year = {1982}
+}
+
+@article{Kan1998,
+    title = {{Canonical structure of classical field theory in the polymomentum phase space}},
+    author = {Igor V. Kanatchikov},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {1},
+    year = {1998},
+    pages = {49--90}
+}
+
+@book{Kho2013,
+    author = {Arkady L. Kholodenko},
+    publisher = {World Scientific},
+    title = {{Applications of Contact Geometry and Topology in Physics}},
+    year = {2013}
+}
+
+
+@article{Kle1962,
+    title = {{Espaces variationnels et mécanique}},
+    author = {Joseph Klein},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 12}},
+    year = {1962},
+    pages = {1--124}
+}
+
+@article{Kru2002,
+    title = {{Hamiltonian field theory}},
+    author = {Olga Krupkova},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 43}},
+    number = {2--3},
+    pages = {93--132},
+    year = {2002}
+}
+
+@article{Laz2018,
+    title = {{An action principle for action-dependent Lagrangians: Toward an action principle for non-conservative systems}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 59}},
+    number = {3},
+    pages = {032902},
+    year = {2018},
+    author = {Matheus J. Lazo and Juilson Paiva and Jo{\~a}o T. S. Amaral and Gast{\~a}o S. F. Frederico}
+}
+
+@book{Lee2013,
+    title = {{Introduction to Smooth Manifolds}},
+    author = {John M. Lee},
+    isbn = {9780387217529},
+    lccn = {2002070454},
+    series = {Graduate Texts in Mathematics},
+    volume = {218},
+    year = {2013},
+    edition = {2nd},
+    publisher = {Springer New York Heidelberg Dordrecht London}
+}
+
+@book{Lib1987,
+    address = {Reidel, Dordretch},
+    author = {Paulette Libermann and Charles-Michel Marle},
+    doi = {10.1007/978-94-009-3807-6},
+    month = {oct},
+    publisher = {Springer Netherlands},
+    title = {{Symplectic Geometry and Analytical Mechanics}},
+    year = {1987}
+}
+
+@article{Lic1951,
+    title = {{Sur les variétés symplectiques}},
+    author = {André Lichnerowicz},
+    journal = {C. R. Math. Acad. Sci. Paris},
+    volume = {{\bf 233}},
+    year = {1951},
+    pages = {723--725}
+}
+
+@article{Lic1975,
+    title = {{Variété symplectique et dynamique associée à une sous-variété}},
+    author = {André Lichnerowicz},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 280}},
+    year = {1975},
+    pages = {A523--A527}
+}
+
+@article{Liu2018,
+    title = {{Contact Hamiltonian dynamics: variational principles, invariants, completeness and periodic behaviour}},
+    author = {Q. Liu and P. J. Torres and C. Wang},
+    journal = {Ann. Phys.},
+    volume = {{\bf 395}},
+    pages = {26--44},
+    year = {2018}
+}
+
+@book{Man1998,
+    title = {{Gauge mechanics}},
+    author = {Luigi Mangiarotti and Gennadi A. Sardanashvily},
+    year = {1998},
+    publisher = {World Scientific}
+}
+
+@article{Mar1997,
+    title = {{Constrained Hamiltonian systems as implicit differential equations}},
+    author = {Giuseppe Marmo and Giovanna Mendella and Wlodzimierz M. Tulczyjew},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 30}},
+    number = {1},
+    pages = {277--293},
+    year = {1997}
+}
+
+@book{Mar1985,
+    title = {{Dynamical Systems: A Differential Geometric Approach to Symmetry and Reduction}},
+    author = {Giuseppe Marmo and Eugene J. Saletan and Alberto Simoni and Bruno Vitale},
+    publisher = {John Wiley \& Sons Ltd.},
+    edition = {1st},
+    year = {1985}
+}
+
+@article{Nor2000,
+    author = {M. McLean and L. K. Norris},
+    title = {{Covariant field theory on frame bundles of fibered manifolds}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {10},
+    year = {2000},
+    pages = {6828}
+}
+
+@article{Mun1992,
+    title = {{Lagrangian theory for presymplectic systems}},
+    journal = {Ann. Inst. H. Poincaré},
+    volume = {{\bf 57}},
+    number = {1},
+    pages = {27--45},
+    year = {1992},
+    author = {Miguel C. Muñoz-Lecanda and Narciso Román-Roy}
+}
+
+@article{Mun2010,
+    title = {{$k$-symplectic and $k$-cosymplectic Lagrangian field theories: some interesting examples and applications}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 7}},
+    number = {4},
+    pages = {669--692},
+    year = {2010},
+    author = {Miguel C. Muñoz-Lecanda and Modesto Salgado and Silvia Vilariño}
+}
+
+@inproceedings{Nor1993,
+    author = {L. K. Norris},
+    title = {Generalized symplectic geometry on the frame bundle of a manifold},
+    booktitle = {Proc. Symp. Pure Math. 54, Part 2 (Amer. Math. Soc., Providence RI)},
+    year = {1993},
+    pages = {435--465}
+}
+
+@book{Olv1986,
+    title = {{Applications of Lie Groups to Differential Equations}},
+    publisher = {Springer-Verlag New York},
+    year = {1993},
+    edition = {2nd},
+    series = {Graduate Texts in Mathematics},
+    volume = {107},
+    author = {Peter J. Olver}
+}
+
+@book{Pan1962,
+    title = {{Classical Electricity and Magnetism}},
+    publisher = {Addison--Wesley, Reading MA},
+    author = {Wolfgang K. H. Panofsky and Melba Phillips},
+    year = {1962},
+    edition = {2nd}
+}
+
+@article{Pau2002,
+    title = {{Geometry of Hamiltonian $n$-vector fields in multisymplectic field theory}},
+    author = {Cornelius Paufler and Hartmann Römer},
+    journal = {J. Geom. Phys},
+    volume = {{\bf 44}},
+    number = {1},
+    pages = {52--69},
+    year = {2002}
+}
+
+
+
+@article{Pri2012,
+    title = {{Unified formalism for higher-order non-autonomous dynamical systems}},
+    author = {Pere Daniel Prieto-Martínez and Narciso Román-Roy},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 53}},
+    number = {3},
+    pages = {032901},
+    year = {2012}
+}
+
+@article{Pri2015,
+    title = {{A new multisymplectic unified formalism for second order classical field theories}},
+    author = {Pere Daniel Prieto-Martínez and Narciso Román-Roy},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 7}},
+    number = {2},
+    pages = {203--253},
+    year = {2015}
+}
+
+@article{Rey2005,
+    title = {{Günther formalism ($k$-symplectic formalism) in classical field theory: Skinner--Rusk approach and the evolution operator}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 46}},
+    number = {5},
+    pages = {052901},
+    year = {2005},
+    author = {A. M. Rey and Narciso Román-Roy and Modesto Salgado}
+}
+
+@article{Rey2012,
+    title = {{$k$-cosymplectic classical field theories: Tulczyjew and Skinner--Rusk formulations}},
+    journal = {Math. Phys. Anal. Geom.},
+    volume = {{\bf 15}},
+    number = {2},
+    pages = {85--119},
+    year = {2012},
+    author = {A. M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño}
+}
+
+@article{Rom2009,
+    title = {{Multisymplectic Lagrangian and Hamiltonian Formalisms of classical field theories}},
+    author = {Narciso Román-Roy},
+    journal = {Symmetry Integr. Geom.: Methods Appl. (SIGMA)},
+    volume = {{\bf 5}},
+    number = {100},
+    year = {2009}
+}
+
+@article{Rom2020,
+    title = {{A summary on symmetries and conserved quantities of autonomous Hamiltonian systems}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 12}},
+    number = {3},
+    year = {2020},
+    pages = {541--551},
+    author = {Narciso Román-Roy}
+}
+
+@article{Rom2007,
+    title = {{Symmetries and conservation laws in the Günther $k$-symplectic formalism of field theories}},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 19}},
+    number = {10},
+    pages = {1117--1147},
+    year = {2007},
+    author = {Narciso Román-Roy and Modesto Salgado and Silvia Vilariño}
+}
+
+@book{Sal2015,
+    title = {{Partial Differential Equations in Action: From Modelling to Theory}},
+    series = {Unitext},
+    volume = {86},
+    edition = {2nd},
+    publisher = {Springer International Publishing},
+    year = {2015},
+    author = {Sandro Salsa}
+}
+
+@book{Sar1995,
+    title = {{Generalized Hamiltonian formalism for field theory. Constraint systems}},
+    author = {Gennadi A. Sardanashvily},
+    year = {1995},
+    publisher={World Scientific Publishing Company},
+    address = {River Edge, NJ}
+}
+
+@book{Sau1989,
+    title = {{The geometry of jet bundles}},
+    author = {D. J. Saunders},
+    year = {1989},
+    publisher = {Cambridge University Press},
+    series = {London Mathematical Society Lecture Notes Series},
+    volume = {142}
+}
+
+
+@article{Ski1983,
+    title = {{Generalized Hamiltonian dynamics I: Formulation on $\T^\ast Q\otimes\T Q$}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 24}},
+    number = {11},
+    pages = {2589--2594},
+    year = {1983},
+    author = {Ray Skinner and Raymond Rusk}
+}
+
+@book{Sou1970,
+    title = {{Structure des systèmes dynamiques}},
+    author = {Jean Marie Souriau},
+    publisher = {Dunod},
+    year = {1970},
+    address = {Paris},
+    series = {Maîtrises de mathématiques}
+}
+
+
+@article{Tul1976,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {{Les sous-variétés lagrangiennes et la dynamique hamiltonienne}},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 283}},
+    number = {1},
+    pages = {A15--A18},
+    year = {1976}
+}
+
+@article{Tul1976b,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {{Les sous-variétés lagrangiennes et la dynamique lagrangienne}},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 283}},
+    number = {8},
+    pages = {A675--A678},
+    year = {1976}
+}
+
+@article{Tul1977,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {The Legendre transformation},
+    journal = {Ann. Inst. H. Poincaré Sect. A (N.S.)},
+    volume = {{\bf 27}},
+    number = {1},
+    pages = {101--114},
+    year = {1977}
+}
+
+@article{Vig2000,
+    title = {{A new presymplectic framework for time-dependent Lagrangian systems: the constraint algorithm and the second-order differential equation problem}},
+    author = {S. Vignolo},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 33}},
+    number = {28},
+    pages = {5117--5135},
+    year = {2000}
+}
+
+@article{Vit2010,
+    title = {{The Lagrangian--Hamiltonian formalism for higher order field theories}},
+    author = {Luca Vitagliano},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 60}},
+    number = {6--8},
+    pages = {857--873},
+    year = {2010}
+}
+
+@article{Mar2009,
+    title = {The Inception of Symplectic Geometry: the Works of Lagrange and Poisson During the Years 1808–1810},
+    author = {Charles-Michel Marle},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 90}},
+    number = {3},
+    year = {2009}
+}
+
+@article{Yos2007,
+    title = {{Reduction of Dirac structures and the Hamilton--Pontryagin principle}},
+    author = {Hiroaki Yoshimura and Jerrold E.Marsden},
+    year = {2007},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 60}},
+    number = {3},
+    pages = {381--426}
+}
+
+@article{Ech1999,
+    title = {{Reduction of presymplectic manifolds with symmetry}},
+    author = {A. Echeverría-Enríquez and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 11}},
+    number = {10},
+    year = {1999},
+    pages = {1209--1247}
+}
+
+
+@article{Ste1974,
+    title = {{Accessibility and foliations with singularities}},
+    author = {P. Stefan},
+    journal = {Bull. Am. Math. Soc.},
+    volume = {{\bf 80}},
+    number = {6},
+    pages = {1142--1145},
+    year = {1974}
+}
+
+@article{Ste1974b,
+    title = {{Accessible sets, orbits, and foliations with singularities}},
+    author = {P. Stefan},
+    journal = {Proc. Lond. Math. Soc.},
+    volume = {{\bf s3-29}},
+    number = {4},
+    pages = {699--713},
+    year = {1974}
+}
+
+@book{Vais1994,
+    title = {{Lectures on the Geometry of Poisson Manifolds}},
+    author = {Izu Vaisman},
+    year = {1994},
+    publisher = {Birkhäuser, Basel},
+    volume = {118},
+    series = {Progress in Mathematics}
+}
+
+@article{Hol1985,
+    title = {{Nonlinear stability of fluid and plasma equilibria}},
+    author = {Darryl D. Holm and Jerrold E. Marsden and Tudor Ratiu and Alan Weinstein},
+    journal = {Phys. Rep.},
+    volume = {{\bf 123}},
+    number = {1--2},
+    pages = {1--116},
+    year = {1985}
+}
+
+@article{Cap2013,
+    title = {{A survey on cosymplectic geometry}},
+    author = {Beniamino Cappelletti-Montano and Antonio de Nicola and Ivan Yudin},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 25}},
+    number = {10},
+    pages = {1343002},
+    year = {2013}
+}
+
+@article{Arm1990,
+    title = {{Geometric and algebraic reduction for singular momentum maps}},
+    author = {Judith M. Arms and Mark J. Gotay and George Jennings},
+    journal = {Adv. Math.},
+    year = {1990},
+    volume = {{\bf 79}},
+    number = {1},
+    pages = {43--103}
+}
+
+@article{LGMRR-2022,
+    author = {M. de León and J. Gaset and M.C. Muñoz-Lecanda and X. Rivas and and N. Román-Roy},
+    title = {{Multicontact formulation for non-conservative field theories}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 56}},
+    number = {2},
+    pages = {025201},
+    year = {2023},
+    note = {\href{https://doi.org/10.1088/1751-8121/acb575}{10.1088/1751-8121/acb575}}
+}
+
+
+
+@article{LRVZ-23,
+    title = {{On $k$-polycosymplectic Marsden--Weinstein reductions}},
+    author = {Javier de Lucas and Xavier Rivas and Silvia Vilariño and Bartoz M. Zawora},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 191}},
+    pages = {104899},
+    year = {2023}
+}
+
+@incollection{Me73,
+    author = {Kenneth R. Meyer},
+    title = {Symmetries and Integrals in Mechanics},
+    editor = {M.M. Peixoto},
+    booktitle = {Dynamical Systems},
+    publisher = {Academic Press},
+    pages = {259--272},
+    year = {1973}
+}
+
+@article{SL91,
+    author = {R.~Sjamaar and E.~Lerman},
+    title = {{Stratified symplectic spaces and reduction}},
+    journal = {Ann. Math.},
+    volume = {{\bf 134}},
+    number = {2},
+    pages = {375--422},
+    year = {1991},
+    note = {\href{https://doi.org/10.2307/2944350}{10.2307/2944350}}
+}
+
+@article{GB86,
+    author = {M.~J. Gotay and L.~Bos},
+    title = {{Singular angular momentum mappings}},
+    journal = {J. Diff. Geom.},
+    volume = {{\bf 24}},
+    number = {2},
+    pages = {181--203},
+    year = {1986},
+    note = {\href{https://doi.org/10.4310/jdg/1214440434}{10.4310/jdg/1214440434}}
+}
+
+@article{HSS15,
+    author = {H.-C. Herbig and G.~W. Schwarz and C.~Seaton},
+    title = {{When is a symplectic quotient an orbifold?}},
+    journal = {Adv. Math.},
+    year = {2015},
+    volume = {{\bf 280}},
+    pages = {208--224},
+    note = {\href{https://doi.org/10.1016/j.aim.2015.04.016}{10.1016/j.aim.2015.04.016}}
+}
+
+@inbook{LMS93,
+    place={Cambridge},
+    series={London Mathematical Society Lecture Note Series},
+    title={Examples of singular reduction},
+    DOI={10.1017/CBO9780511526343.008},
+    booktitle={Symplectic Geometry},
+    publisher={Cambridge University Press},
+    author={Lerman, Eugene and Montgomery, Richard and Sjamaar, Reyer},
+    year={1994},
+    pages={127--156},
+    collection={London Mathematical Society Lecture Note Series}
+}
+
+@article{CCCI86,
+    author = {F.~Cantrijn and J.~Cariñena and M.~Crampin and L.~Ibort},
+    title = {{Reduction of degenerate lagrangian systems}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 3}},
+    number = {3},
+    pages = {353--400},
+    year = {1986},
+    note = {\href{https://doi.org/10.1016/0393-0440(86)90014-8}{10.1016/0393-0440(86)90014-8}}
+}
+
+@article{HR01,
+    author = {S.~Haller and T.~Rybicki},
+    title = {{Reduction for locally conformal symplectic manifolds}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 37}},
+    number = {3},
+    pages = {262--271},
+    year = {2001},
+    note = {\href{https://doi.org/10.1016/S0393-0440(00)00050-4}{10.1016/S0393-0440(00)00050-4}}
+}
+
+@book{CF06,
+    author = {I.~Calvo and F.~Falceto},
+    title = {{Reduction and projection of Dirac structures}},
+    booktitle = {Groups, geometry and physics},
+    volume = {29},
+    series = {Monogr. Real Acad. Ci. Exact. Fís. Quím. Nat. Zaragoza},
+    pages = {49--56},
+    address = {Spain},
+    year = {2006}
+}
+
+@article{CFZ10b,
+    author = {I.~Calvo and F.~Falceto and M.~Zamb\'on},
+    title = {{Deformation of dirac structures along isotropic subbundles}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 65}},
+    number = {2},
+    pages = {259--269},
+    year = {2010},
+    note = {\href{https://doi.org/10.1016/S0034-4877(10)80020-5}{10.1016/S0034-4877(10)80020-5}}
+}
+
+
+@article{Co90,
+    author = {T.~J. Courant},
+    title = {{Dirac manifolds}},
+    journal = {Trans. Amer. Math. Soc.},
+    volume = {{\bf 319}},
+    number = {2},
+    pages = {631--661},
+    year = {1990},
+    note = {\href{https://doi.org/10.1090/S0002-9947-1990-0998124-1}{10.1090/S0002-9947-1990-0998124-1}}
+}
+
+
+@article{MRSV10,
+    author = {Marrero, Juan Carlos and Román‐Roy, Narciso and Salgado, Modesto and Vilariño, Silvia},
+    title = {{Symmetries, Noether’s theorem and reduction in k‐cosymplectic field theories}},
+    journal = {AIP Conference Proceedings},
+    volume = {1260},
+    number = {1},
+    pages = {173-179},
+    year = {2010},
+    month = {07},
+    note = {\href{https://doi.org/10.1063/1.3479319}{10.1063/1.3479319}},
+}
+
+@incollection {Bl89,
+    AUTHOR = {Blaga, Adara M.},
+     TITLE = {The reduction of the standard {$k$}-cosymplectic manifold associated to a regular {L}agrangian},
+ BOOKTITLE = {Geometry and topology of manifolds},
+    SERIES = {Banach Center Publ.},
+    VOLUME = {76},
+     PAGES = {491--495},
+ PUBLISHER = {Polish Acad. Sci. Inst. Math., Warsaw},
+      YEAR = {2007},
+   MRCLASS = {53D20 (37J15 70S05)},
+  MRNUMBER = {2346975},
+MRREVIEWER = {Manuel de Le\'{o}n},
+       DOI = {10.4064/bc76-0-24},
+       URL = {https://doi.org/10.4064/bc76-0-24},
+}
+
+@article{BG15,
+    author = {G.~Bazzoni and O.~Goertsches},
+    title = {{$k$-cosymplectic manifolds}},
+    journal = {Ann. Global Anal. Geom.},
+    volume = {{\bf 47}},
+    number = {3},
+    pages = {239--270},
+    year = {2015},
+    note = {\href{https://doi.org/10.1007/s10455-014-9444-y}{10.1007/s10455-014-9444-y}}
+}
+
+@article{GM23,
+    author = {Eduardo García-Toraño and Tom Mestdag},
+    title = {{Conditions for symmetry reduction of polysymplectic and polycosymplectic structures}},
+    year = {2023},
+    journal = {\href{https://arxiv.org/abs/2303.16037}{arXiv:2303.16037}}
+}
+
+@article{BC23,
+    title = {{Poisson--Poincaré reduction for field theories}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 191}},
+    pages = {104879},
+    year = {2023},
+    author = {Miguel Ángel Berbel and Marco {Castrillón López}},
+    note = {{\sc doi:} \href{https://doi.org/10.1016/j.geomphys.2023.104879}{10.1016/j.geomphys.2023.104879}}
+}
+
+@article{GG22,
+   author = {Grabowska, Katarzyna and Grabowski, Janusz},
+    title = {{A geometric approach to contact Hamiltonians and contact Hamilton--Jacobi theory}},
+  journal = {J. Phys. A: Math. Theor.},
+  VOLUME = {55},
+  PAGES = {435204},
+YEAR = {2022},
+note = {{\sc doi:} \href{https://doi.org/10.1088/1751-8121/ac9adb}{10.1088/1751-8121/ac9adb}}
+}
+
+@article{BP93,
+    author = {Banach, Z. and Piekarski, S.},
+    title = {{Non-equilibrium thermodynamics and dissipative fluid theories}},
+    journal = {Il Nuovo Cimento D},
+    volume = {{\bf 15}},
+    pages = {1063--1086},
+    year = {1993},
+    note = {{\sc doi:} \href{https://doi.org/10.1007/BF02451879}{10.1007/BF02451879}}
+}
+
+@article{Sn04,
+    title = {{Multisymplectic Reduction for Proper Actions}},
+    volume = {{\bf 56}},
+    DOI={10.4153/CJM-2004-029-8},
+    number = {3},
+    journal = {Can. J. Math.},
+    publisher = {Cambridge University Press},
+    author = {Śniatycki, Jędrzej},
+    year = {2004},
+    pages = {638--654},
+    note = {{\sc doi:} \href{https://doi.org/10.4153/CJM-2004-029-8}{10.4153/CJM-2004-029-8}}
+}
+
+@book{BSF00,
+    title = {{Geometry of Classical Fields}},
+    author = {E. Binz and J. Sniatycki and H.R. Fischer},
+    year = {2000},
+    publisher = {North Holland},
+    series = {Mathematics Studies},
+    volume = {154}
+}
+
+@article{GLRR23,
+    title = {{On Darboux theorems for geometric structures induced by closed forms}},
+    author = {Xavier Gràcia and Javier de Lucas and Xavier Rivas and Narciso Román-Roy},
+    journal = {On Darboux theorems for geometric structures induced by closed forms (Preprint)},
+    year = {2023}
+}
+
+@article{LLZ23,
+    title = {{Dissipation, stability, and contact Hamiltonian systems}},
+    author = {Javier de Lucas and Asier L\'opez-Gord\'on and Bartosz M. Zawora},
+    journal = {In preparation},
+    year = {2023}
+}
+
+@article{LRV23,
+    title = {{Multisymplectic reductions induced by polycosymplectic structures}},
+    author = {Javier de Lucas and Xavier Rivas and Silvia Vilariño},
+    journal = {In preparation},
+    year = {2023}
+}
+
+@article{CLRZ23,
+    title = {{An energy-momentum method for ordinary differential equations with an underlying k-symplectic structure}},
+    author = {L. Colombo and J. de Lucas and X. Rivas and B. Zawora},
+    journal = {In preparation},
+    year = {2023}
+}
+
+@article{LG23,
+    title = {{Variational multisymplectic reductions}},
+    author = {Javier de Lucas and Jordi Gaset},
+    journal = {In preparation},
+    year = {2023}
+}
+
+@article{LMZ23,
+    title = {{A cosymplectic energy-momentum method with applications}},
+    author = {J. de Lucas, A. Maskalaniec, B. M. Zawora},
+    journal = {arXiv:2302.05827},
+    year = {2023}
+}
+
+@article{GM22,
+    author = {Jordi Gaset and Adrià Marín-Salvador},
+    title = {{Application of Herglotz’s variational principle to electromagnetic systems with dissipation}},
+    journal = {Int. J. Geom. Meth. Mod. Phys.},
+    volume = {{\bf 19}},
+    number = {10},
+    pages = {2250156},
+    year = {2022}
+}
+
+@article{LPR94,
+    author = {de León, M. and Pitanga, Paulo and Rodrigues, P. R.},
+    title = "{Symplectic reduction of higher order Lagrangian systems with symmetry}",
+    journal = {J. Math. Phys.},
+    volume = {{\bf 35}},
+    number = {12},
+    pages = {6546--6556},
+    year = {1994},
+    month = {12},
+    doi = {10.1063/1.530890},
+}
+
+@article{GLMR-2022,
+    author = {J. Gaset and M. La\'inz and A. Mas and X. Rivas},
+    title = {{The Herglotz variational principle for dissipative field theories}},
+    journal = {Preprint},
+    note = {\href{https://arxiv.org/abs/2211.17058}{arXiv:2211.17058}},
+    year = {2022}
+}
+
+@article{PLZ22,
+    author = {J. Paiva and M.J. Lazo and V.T. Zanchin},
+    title = {{Generalized nonconservative gravitational field equations from Herglotz action principle}},
+    journal = {Phys. Rev. D},
+    volume = {{\bf 105}},
+    number = {12},
+    year = {2022},
+    doi = {10.1103/PhysRevD.105.124023}
+}
