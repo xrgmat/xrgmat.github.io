@@ -1,3 +1,14 @@
+@article{Alb1989,
+    author = {Claude Albert},
+    title = {{Le théorème de réduction de Marsden--Weinstein en géométrie cosymplectique et de contact}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 6}},
+    number = {4},
+    pages = {627--649},
+    year = {1989},
+    note = {\href{https://doi.org/10.1016/0393-0440(89)90029-6}{10.1016/0393-0440(89)90029-6}}
+}
+
 @book{Arn_89,
     author = {Vladimir I. Arnold},
     title = {{Mathematical Methods of Classical Mechanics}},
@@ -9,6 +20,17 @@
     volume = {60},
     year = {1989},
     note = {\href{https://doi.org/10.1007/978-1-4757-1693-1}{10.1007/978-1-4757-1693-1}}
+}
+
+@article{Awa_20,
+    author = {Azzouz Awane},
+    title = {{Polarized symplectic structures}},
+    journal = {Balk. J. Geom. Appl.},
+    volume = {{\bf 25}},
+    number = {1},
+    pages = {1-18},
+    year = {2020},
+    note = {\url{http://www.mathem.pub.ro/bjga/v25n1/B25-1aw-ZBG99.pdf}}
 }
 
 @article{Awa_92,
@@ -85,7 +107,18 @@
     volume = {{\bf 43}},
     pages = {163--170},
     year = {1915},
-    note = {\href{https://doi.org/10.1175/1520-0493(1915)43<163:SRROTM>2.0.CO;2}{10.1175/1520-0493(1915)43<163:SRROTM>2.0.CO;2}}
+    note = {\href{https://doi.org/10.1175/1520-0493(1915)43%3C163:SRROTM%3E2.0.CO;2}{10.1175/1520-0493(1915)43\textless 163:SRROTM\textgreater 2.0.CO;2}}
+}
+
+@article{Bla_09,
+    title = {{Connections on $k$-symplectic manifolds}},
+    author = {Adara M. Blaga},
+    journal = {Balk. J. Geom. Appl.},
+    volume = {{\bf 14}},
+    number = {2},
+    year = {2009},
+    pages = {28--33},
+    note = {\url{https://www.emis.de/journals/BJGA/v14n2/B14-2-bl.pdf}}
 }
 
 @article{Bra_17,
@@ -131,6 +164,17 @@
     volume = {18},
     edition = {1st},
     note = {\href{https://doi.org/10.1007/978-1-4613-9714-4}{10.1007/978-1-4613-9714-4}}
+}
+
+@article{BCGRS,
+    author = {Pierre Bieliavsky and Michel Cahen and Simone Gutt and John Rawnsley and Lorenz Schwachhöfer},
+    title = {Symplectic connections},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 3}},
+    number = {3},
+    pages = {375--420},
+    year = {2006},
+    note = {\href{https://doi.org/10.1142/S021988780600117X}{10.1142/S021988780600117X}}
 }
 
 @article{BCT_17,
@@ -197,6 +241,17 @@
     note = {\href{https://doi.org/10.1088/1751-8121/abbaaa}{10.1088/1751-8121/abbaaa}}
 }
 
+@book{Can_01,
+    author = {Cannas da Silva, Ana},
+    title = {{Lectures on symplectic geometry}},
+    series = {Lecture Notes in Mathematics},
+    volume = {1764},
+    publisher = {Springer-Verlag},
+    address = {Berlin},
+    year = {2001},
+    note = {\href{https://doi.org/10.1007/978-3-540-45330-7}{10.1007/978-3-540-45330-7}},
+}
+
 @article{Cap_18,
     author = {Santiago Capriotti},
     title = {{Unified formalism for Palatini gravity}},
@@ -217,6 +272,17 @@
     pages = {413--416},
     year = {1979},
     note = {\href{https://doi.org/10.1103/PhysRevLett.42.413}{10.1103/PhysRevLett.42.413}}
+}
+
+@article{CB_08,
+    title = {{Some geometric structures associated with a $k$-symplectic structure}},
+    author = {Beniamino {Cappelletti Montano} and Adara M. Blaga},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 41}},
+    year = {2008},
+    number = {10},
+    pages = {105204},
+    note = {\href{https://doi.org/10.1088/1751-8113/41/10/105204}{10.1088/1751-8113/41/10/105204}}
 }
 
 @article{CCI_91,
@@ -291,6 +357,17 @@
     note = {\href{https://doi.org/10.1007/s10714-020-02725-8}{10.1007/s10714-020-02725-8}}
 }
 
+@article{CIL_96,
+    author = {Frans Cantrijn and Alberto Ibort and Manuel de León},
+    title = {{Hamiltonian structures on multisymplectic manifolds}},
+    journal = {Rend. Sem. Mat. Univ. Pol. Torino},
+    volume = {{\bf 54}},
+    number = {3},
+    year = {1996},
+    pages = {225--236},
+    note = {\url{http://www.seminariomatematico.polito.it/rendiconti/cartaceo/54-3/225.pdf}}
+}
+
 @article{CIL_99,
     author = {Frans Cantrijn and Luis A. Ibort and Manuel de León},
     title = {{On the geometry of multisymplectic manifolds}},
@@ -309,6 +386,17 @@
     year = {2015},
     edition = {1st},
     note = {\href{https://doi.org/10.1007/978-94-017-9220-2}{10.1007/978-94-017-9220-2}}
+}
+
+@article{CLL_92,
+    author = {Frans Cantrijn and Manuel de León and Ernesto Lacomba},
+    title = {{Gradient vector fields and cosymplectic manifolds}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {1},
+    pages = {175--188},
+    year = {1992},
+    note = {\href{https://doi.org/10.1088/0305-4470/25/1/022}{10.1088/0305-4470/25/1/022}}
 }
 
 @article{CLM_94,
@@ -344,6 +432,16 @@
     note = {\href{https://doi.org/10.1088/1751-8113/42/47/475207}{10.1088/1751-8113/42/47/475207}}
 }
 
+@article{CM_18,
+    author = {Robert Cardona and Eva Miranda},
+    title = {{Integrable systems and closed one forms}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 131}},
+    year = {2018},
+    pages = {204--209},
+    note = {\href{https://doi.org/10.1016/j.geomphys.2018.05.013}{10.1016/j.geomphys.2018.05.013}},
+}
+
 @article{CMZ_10,
     author = {Leonardo Colombo and David {Martín de Diego} and Marcela Zuccalli},
     title = {{Optimal control of underactuated mechanical systems: A geometric approach}},
@@ -373,7 +471,133 @@
     volume = {{\bf 6}},
     year = {1886},
     number = {1},
-    pages = {14--36}
+    pages = {14--36},
+    note = {\url{http://www.numdam.org/item/BSMA_1882_2_6_1_14_1.pdf}}
+}
+
+@article{EIMR_12,
+    author = {Arturo Echeverría-Enríquez and Alberto Ibort and Miguel C. Muñoz-Lecanda and Narciso Román-Roy},
+    title = {{Invariant forms and automorphisms of locally homogeneous multisymplectic manifolds}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 4}},
+    number = {4},
+    year = {2012},
+    pages = {397-419},
+    note = {\href{https://doi.org/10.3934/jgm.2012.4.397}{10.3934/jgm.2012.4.397}}
+}
+
+@article {FG_13,
+    author = {Forger, Michael and Gomes, Leandro G.},
+    title = {{Multisymplectic and polysymplectic structures on fiber bundles}},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 25}},
+    year = {2013},
+    number = {9},
+    pages = {1350018},
+    note = {\href{https://doi.org/10.1142/S0129055X13500189}{10.1142/S0129055X13500189}},
+}
+
+@article{FY_13,
+    author = {Michael Forger and Sandra Z. Yepes},
+    title = {{Lagrangian distributions and connections in multisymplectic and polysymplectic geometry}},
+    journal = {Differ. Geom. Appl.},
+    volume = {{\bf 31}},
+    number = {6},
+    year = {2013},
+    pages = {775--807},
+    note = {\href{https://doi.org/10.1016/j.difgeo.2013.09.004}{10.1016/j.difgeo.2013.09.004}},
+}
+
+@conference{Gar_74,
+    author = {Pedro Luís García},
+    title = {{The Poincaré--Cartan invariant in the calculus of variations}},
+    year = {1974},
+    volume = {14},
+    address = {London},
+    publisher = {Academic Press},
+    pages = {219--246},
+    booktitle = {Symposia Mathematiea},
+    organization = {(Convegno di Geometria Simplettica e Fisica Matematica, INDAM, Rome, 1973)}
+}
+
+@book{Gei_08,
+    title = {{An Introduction to Contact Topology}},
+    publisher = {Cambridge University Press},
+    year = {2008},
+    author = {Hansjoerg Geiges},
+    series = {Cambridge Studies in Advanced Mathematics},
+    volume = {109},
+    note = {\href{https://doi.org/10.1017/CBO9780511611438}{10.1017/CBO9780511611438}}
+}
+
+@article{Gun_87,
+    author = {Christian Günther},
+    title = {{The polysymplectic Hamiltonian formalism in field theory and calculus of variations I: The local case}},
+    journal = {J. Diff. Geom.},
+    volume = {{\bf 25}},
+    number = {1},
+    pages = {23--53},
+    year = {1987},
+    note = {\href{https://doi.org/10.4310/jdg/1214440723}{10.4310/jdg/1214440723}}
+}
+
+@unpublished{GM_23,
+    title = {{Conditions for symmetry reduction of polysymplectic and polycosymplectic structures}},
+    author = {Eduardo García-Toraño and Tom Mestdag},
+    note = {\href{https://arxiv.org/abs/2303.16037}{2303.16037}},
+    year = {2023}
+}
+
+@article{GMR_09,
+    author = {Xavier Gràcia and Rubén Martín and Narciso Román-Roy},
+    title = {{Constraint algorithm for $k$-presymplectic Hamiltonian systems: application to singular field theories}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 6}},
+    number = {5},
+    year = {2009},
+    pages = {851--872},
+    note = {\href{https://doi.org/10.1142/S0219887809003795}{10.1142/S0219887809003795}}
+}
+
+@book{GMS_97,
+    author = {Giovanni Giachetta and Luigi Mangiarotti and Gennadi A. Sardanashvily},
+    title = {{New Lagrangian and Hamiltonian Methods in Field Theory}},
+    publisher = {World Scientific, River Edge},
+    year = {1997},
+    note = {\href{https://doi.org/10.1142/2199}{10.1142/2199}}
+}
+
+@article{GRR_20,
+    title = {{Constraint algorithm for singular field theories in the $k$-cosymplectic framework}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 12}},
+    pages = {1--23},
+    year = {2020},
+    author = {Xavier Gràcia and Xavier Rivas and Narciso Román-Roy},
+    note = {\href{https://doi.org/10.3934/jgm.2020002}{10.3934/jgm.2020002}}
+}
+
+
+@article{GRS_98,
+    author = {Israel Gelfand and Vladimir Retakh and Mukhail Shubin},
+    title = {{Fedosov manifolds}},
+    journal = {Adv. Math.},
+    volume = {{\bf 104}},
+    number = {1},
+    pages = {104--140},
+    year = {1998},
+    note = {\href{https://doi.org/10.1006/aima.1998.1727}{10.1006/aima.1998.1727}}
+}
+
+@article{GS_73,
+    title = {{The Hamilton-Cartan formalism in the calculus of variations}},
+    author = {Hubert Goldschmidt and Shlomo Sternberg},
+    journal = {Ann. Inst. Fourier},
+    volume = {{\bf 23}},
+    number = {1},
+    year = {1973},
+    pages = {203--267},
+    note = {\href{https://doi.org/10.5802/aif.451}{10.5802/aif.451}}
 }
 
 @article{HLT_17,
@@ -385,6 +609,53 @@
     number = {49},
     pages = {495201},
     note = {\href{https://doi.org/10.1088/1751-8121/aa918f}{10.1088/1751-8121/aa918f}}
+}
+
+@article{Kan_98,
+    author = {Igor V. Kanatchikov},
+    title = {{Canonical structure of classical field theory in the polymomentum phase space}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {1},
+    year = {1998},
+    pages = {49--90},
+    note = {\href{https://doi.org/10.1016/S0034-4877(98)80182-1}{10.1016/S0034-4877(98)80182-1}}
+}
+
+@article{Kij_73,
+    author = {Jerzy Kijowski},
+    title = {{A finite-dimensional canonical formalism in the classical field theory}},
+    journal = {Comm. Math. Phys.},
+    number = {2},
+    pages = {99--128},
+    volume = {{\bf 30}},
+    year = {1973},
+    note = {\href{https://doi.org/10.1007/BF01645975}{10.1007/BF01645975}}
+}
+
+@book{KT_79,
+    title = {{A symplectic framework for field theories}},
+    author = {Jerzy Kijowski and Wlodzimierz M. Tulczyjew},
+    year = {1979},
+    volume = {107},
+    series = {Lecture Notes in Physics},
+    publisher = {Springer-Verlag},
+    address = {Berlin Heidelberg},
+    edition = {1st},
+    note = {\href{https://doi.org/10.1007/3-540-09538-1}{10.1007/3-540-09538-1}}
+}
+
+@book{Lee_13,
+    title = {{Introduction to Smooth Manifolds}},
+    author = {John M. Lee},
+    isbn = {9780387217529},
+    lccn = {2002070454},
+    series = {Graduate Texts in Mathematics},
+    volume = {218},
+    year = {2013},
+    edition = {2nd},
+    publisher = {Springer New York Heidelberg Dordrecht London},
+    note = {\href{http://doi.org/10.1007/978-1-4419-9982-5}{10.1007/978-1-4419-9982-5}}
 }
 
 @article{LGLRR_20,
@@ -483,9 +754,20 @@
     publisher = {Springer International Publishing},
     address = {Cham},
     pages = {183--190},
-    note = {\href{https://doi.org/10.1007/978-3-030-80209-7_21}{10.1007/978-3-030-80209-7_21}},
+    note = {\href{https://doi.org/10.1007/978-3-030-80209-7\_21}{10.1007/978-3-030-80209-7\_21}},
     series = {{Lecture Notes in Computer Science}},
     volume = {12829}
+}
+
+@book{LM_87,
+    author = {Paulette Libermann and Charles-Michel Marle},
+    doi = {10.1007/978-94-009-3807-6},
+    publisher = {Springer Dordrecht},
+    title = {{Symplectic Geometry and Analytical Mechanics}},
+    year = {1987},
+    volume = {35},
+    series = {Mathematics and Its Applications},
+    note = {\href{http://doi.org/10.1007/978-94-009-3807-6}{10.1007/978-94-009-3807-6}}
 }
 
 @article{LMM_96,
@@ -507,7 +789,7 @@
     address = {Inst. of Math., Polish Acad. Sci., Warsawa},
     year = {2003},
     volume = {{\bf 59}},
-    pages = {189--209}
+    pages = {189--209},
     note = {\href{https://doi.org/10.4064/bc59-0-10}{10.4064/bc59-0-10}}
 }
 
@@ -519,7 +801,8 @@
     number = {2},
     pages = {105--169},
     year = {2002},
-    note = {\href{https://doi.org/10.1002/1521-3978(200203)50:2<105::AID-PROP105>3.0.CO;2-N}{10.1002/1521-3978(200203)50:2<105::AID-PROP105>3.0.CO;2-N}},
+    note = {\href{https://doi.org/10.1002/1521-3978(200203)50:2%3C105::AID-PROP105%3E3.0.CO;2-N}
+    {10.1002/1521-3978(200203)50:2\textless 105::AID-PROP105\textgreater 3.0.CO;2-N}},
 }
 
 @article{LMORS_98,
@@ -536,7 +819,7 @@
 @article{LMOS_97,
     author = {Manuel de León and Eugenio Merino and J. A. Oubiña and Modesto Salgado},
     title = {{Stable almost cotangent structures}},
-    journal = {Bolletino dell Unione Mat. Ital. B (7)},
+    journal = {Bolletino Unione Mat. Ital. B (7)},
     volume = {{\bf 11}},
     number = {3},
     year = {1997},
@@ -561,7 +844,8 @@
     volume = {{\bf 25}},
     number = {2},
     year = {1988},
-    pages = {273--287}
+    pages = {273--287},
+    note = {\url{https://jkms.kms.or.kr/journal/view.html?spage=273&volume=25&number=2}}
 }
 
 @article{LMS_01,
@@ -573,6 +857,16 @@
     year = {2001},
     author = {Manuel de León and Eugenio Merino and Modesto Salgado},
     note = {\href{https://doi.org/10.1063/1.1360997}{10.1063/1.1360997}},
+}
+
+@incollection{LMS_03,
+    author = {Manuel de León and David {Martín de Diego} and Aitor Santamaría-Merino},
+    year = {2003},
+    journal = {Applied Differential Geometry and Mechanic},
+    pages = {21--47},
+    title = {{Tulczyjew triples and Lagrangian submanifolds in classical field theories}},
+    publisher = {Univ. of Gent, Academia Press},
+    address = {Gent}
 }
 
 @article{LMV_17,
@@ -614,6 +908,69 @@
     note = {\href{https://doi.org/10.1142/9693}{10.1142/9693}}
 }
 
+@article{Mar_09,
+    author = {Charles-Michel Marle},
+    title = {{The Inception of Symplectic Geometry: the Works of Lagrange and Poisson During the Years 1808–1810}},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 90}},
+    pages = {3--21},
+    year = {2009},
+    note = {\href{https://doi.org/10.1007/s11005-009-0347-y}{10.1007/s11005-009-0347-y}}
+}
+
+@article{Mar_72,
+    author = {Jerrold Marsden},
+    title = {{Darboux's Theorem Fails for Weak Symplectic Forms}},
+    journal = {Proc. Am. Math. Soc.},
+    year = {1972},
+    volume = {{\bf 32}},
+    number = {2},
+    pages = {590--592},
+    note = {\href{https://doi.org/10.2307/2037864}{10.2307/2037864}} 
+}
+
+@article{Mar_88,
+    author = {Geoffrey Martin},
+    title = {{A Darboux theorem for multi-symplectic manifolds}},
+    year = {1988},
+    pages = {133--138},
+    volume = {{\bf 16}},
+    journal = {Lett. Math. Phys.},
+    note = {\href{https://doi.org/10.1007/BF00402020}{10.1007/BF00402020}}
+}
+
+@article{Mil_58,
+    title = {{On the existence of a connection with curvature zero}},
+    author = {John Milnor},
+    year = {1958},
+    journal = {Comm. Math. Helv.},
+    volume = {{\bf 32}},
+    pages = {215--223},
+    note = {\href{https://doi.org/10.1007/BF02564579}{10.1007/BF02564579}}
+}
+
+@article{MN_00,
+    author = {M. McLean and L. K. Norris},
+    title = {{Covariant field theory on frame bundles of fibered manifolds}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 41}},
+    number = {10},
+    year = {2000},
+    pages = {6808--6823},
+    note = {\href{https://doi.org/10.1063/1.1288797}{10.1063/1.1288797}}
+}
+
+@inproceedings{Nor_93,
+    author = {L. K. Norris},
+    title = {{Generalized symplectic geometry on the frame bundle of a manifold}},
+    booktitle = {Proc. Symp. Pure Math.},
+    publisher = {Amer. Math. Soc., Providence RI},
+    volume = {54.2},
+    year = {1993},
+    pages = {435--465},
+    note = {\href{https://doi.org/10.1090/pspum/054.2}{10.1090/pspum/054.2}}
+}
+
 @article{PR_13,
     author = {Pedro D. Prieto-Martínez and Narciso Román-Roy},
     title = {{Higher-order mechanics: Variational principles and other topics}},
@@ -623,4 +980,103 @@
     pages = {493--510},
     year = {2013},
     note = {\href{https://doi.org/10.3934/jgm.2013.5.493}{10.3934/jgm.2013.5.493}},
+}
+
+@phdthesis{Riv_22,
+    author = {Xavier Rivas},
+    title = {{Geometrical aspects of contact mechanical systems and field theories}},
+    school = {Universitat Politècnica de Catalunya (UPC)},
+    year = {2021},
+    note = {\url{http://arxiv.org/abs/2204.11537}}
+}
+
+@article{Rom_09,
+    author = {Narciso Román-Roy},
+    title = {{Multisymplectic Lagrangian and Hamiltonian Formalisms of classical field theories}},
+    journal = {Symmetry Integr. Geom.: Methods Appl. (SIGMA)},
+    volume = {{\bf 5}},
+    number = {100},
+    year = {2009},
+    note = {\href{https://doi.org/10.3842/SIGMA.2009.100}{10.3842/SIGMA.2009.100}},
+}
+
+@article{RRSV_11,
+    author = {\'Angel M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
+    title = {{On the $k$-symplectic, $k$-cosymplectic and multisymplectic formalisms of classical field theories}},
+    journal = {J. Geom. Mech.},
+    volume = {{\bf 3}},
+    number = {1},
+    year = {2011},
+    pages = {113--137},
+    note = {\href{https://doi.org/10.3934/jgm.2011.3.113}{10.3934/jgm.2011.3.113}}
+}
+
+@article{RW_19,
+    author = {Leonid Ryvkin and Tilmann Wurzbacher},
+    title = {{An invitation to multisymplectic geometry}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 142}},
+    pages = {9--36},
+    year = {2019},
+    note = {\href{https://doi.org/10.1016/j.geomphys.2019.03.006}{10.1016/j.geomphys.2019.03.006}} 
+}
+
+@book{Sar_95,
+    title = {{Generalized Hamiltonian formalism for field theory. Constraint systems}},
+    author = {Gennadi A. Sardanashvily},
+    year = {1995},
+    publisher={World Scientific Publishing Company},
+    address = {River Edge, NJ},
+    note = {\href{https://doi.org/10.1142/2550}{10.1142/2550}}
+}
+
+@book{Sle_70,
+    author = {Władysław \'Slebodzi\'nski},
+    title = {{Exterior forms and their applications}},
+    note = {Revised translation from the French by Abraham Goetz. Monografie Matematyczne, Tom 52},
+    publisher = {PWN-Polish Scientific Publishers, Warsaw},
+    year = {1970}
+}
+
+@article {Tro_76,
+    author = {A. J. Tromba},
+    title = {{Almost-Riemannian structures on Banach manifolds: the Morse lemma and the Darboux theorem}},
+    journal = {Can. J. Math.},
+    volume = {{\bf 28}},
+    year = {1976},
+    number = {3},
+    pages = {640--652},
+    note = {\href{https://doi.org/10.4153/CJM-1976-064-x}{10.4153/CJM-1976-064-x}}
+}
+
+@article {THB_22,
+    author = {Stephane Tchuiaga and Franck Houenou and Pierre Bikorimana},
+    title = {{On cosymplectic dynamics I}},
+    journal = {Complex Manifolds},
+    volume = {{\bf 9}},
+    year = {2022},
+    number = {1},
+    pages = {114--137},
+    note = {\href{https://doi.org/10.1515/coma-2021-0132}{10.1515/coma-2021-0132}}
+}
+
+@article{Vai_85,
+    author = {Izu Vaisman},
+    title = {{Locally conformal symplectic manifolds}},
+    journal = {Int. J. Math. Math. Sci.},
+    pages = {521-536},
+    volume = {{\bf 8}},
+    year = {1985},
+    note = {\href{https://doi.org/10.1155/S0161171285000564}{10.1155/S0161171285000564}}
+}
+
+@article {Vai_00,
+    author = {Izu Vaisman},
+    title = {{Connections under symplectic reduction}},
+    journal = {Bull. Math. Soc. Sci. Math. Roum. N.S.},
+    volume = {{\bf 43}},
+    number = {91},
+    year = {2000},
+    pages = {377--387},
+    note = {\url{https://www.jstor.org/stable/43678676}}
 }
