@@ -44,16 +44,6 @@
     note = {\href{https://doi.org/10.1063/1.529855}{10.1063/1.529855}}
 }
 
-@book{Awa_00,
-    author = {Azzouz Awane and Michel Goze},
-    title = {{Pfaffian systems, $k$-symplectic systems}},
-    publisher = {Springer},
-    address = {Dordrecht},
-    edition = {1st},
-    year = {2000},
-    note = {\href{https://doi.org/10.1007/978-94-015-9526-1}{10.1007/978-94-015-9526-1}}
-}
-
 @article{AA_80,
     author = {V. Aldaya and J. A. de Azcárraga},
     title = {{Geometric formulation of classical mechanics and field theory}},
@@ -74,6 +64,16 @@
     pages = {1018--1025},
     year = {1951},
     note = {\href{https://doi.org/10.1103/PhysRev.83.1018}{10.1103/PhysRev.83.1018}}
+}
+
+@book{AG_00,
+    author = {Azzouz Awane and Michel Goze},
+    title = {{Pfaffian systems, $k$-symplectic systems}},
+    publisher = {Springer},
+    address = {Dordrecht},
+    edition = {1st},
+    year = {2000},
+    note = {\href{https://doi.org/10.1007/978-94-015-9526-1}{10.1007/978-94-015-9526-1}}
 }
 
 @book{AM_78,
@@ -166,7 +166,7 @@
     note = {\href{https://doi.org/10.1007/978-1-4613-9714-4}{10.1007/978-1-4613-9714-4}}
 }
 
-@article{BCGRS,
+@article{BCGRS_06,
     author = {Pierre Bieliavsky and Michel Cahen and Simone Gutt and John Rawnsley and Lorenz Schwachhöfer},
     title = {Symplectic connections},
     journal = {Int. J. Geom. Methods Mod. Phys.},
@@ -862,7 +862,7 @@
 @incollection{LMS_03,
     author = {Manuel de León and David {Martín de Diego} and Aitor Santamaría-Merino},
     year = {2003},
-    journal = {Applied Differential Geometry and Mechanic},
+    booktitle = {Applied Differential Geometry and Mechanic},
     pages = {21--47},
     title = {{Tulczyjew triples and Lagrangian submanifolds in classical field theories}},
     publisher = {Univ. of Gent, Academia Press},
@@ -987,7 +987,7 @@
     title = {{Geometrical aspects of contact mechanical systems and field theories}},
     school = {Universitat Politècnica de Catalunya (UPC)},
     year = {2021},
-    note = {\url{http://arxiv.org/abs/2204.11537}}
+    note = {\href{http://arxiv.org/abs/2204.11537}{2204.11537}}
 }
 
 @article{Rom_09,
