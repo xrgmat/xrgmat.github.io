@@ -100,6 +100,29 @@
     note = {\href{https://doi.org/10.1007/978-1-4612-1029-0}{10.1007/978-1-4612-1029-0}}
 }
 
+@incollection{AT_99,
+    author = {Abhay Ashtekar and Troy A. Schilling},
+    editor = "Harvey, Alex",
+    title = {{Geometrical Formulation of Quantum Mechanics}},
+    bookTitle = {{On Einstein's Path: Essays in Honor of Engelbert Schucking}},
+    year = {1999},
+    publisher = {Springer},
+    address = {New York, NY},
+    pages = {23--65},
+    note = {\href{https://doi.org/10.1007/978-1-4612-1422-9_3}{10.1007/978-1-4612-1422-9\_3}}
+}
+
+@article{Bam_99,
+    author = {Dario Bambusi},
+    title = {{On the Darboux Theorem for Weak Symplectic Manifolds}},
+    journal = {Proc. Am. Math. Soc.},
+    volume = {{\bf 127}},
+    number = {11},
+    pages = {3383-3391},
+    year = {1999},
+    note = {\href{https://doi.org/10.1090/S0002-9939-99-04866-2}{10.1090/S0002-9939-99-04866-2}}
+}
+
 @article{Bat_15,
     author = {Harry Bateman},
     title = {{Some Recent Researches on the Motion of Fluids}},
@@ -119,6 +142,24 @@
     year = {2009},
     pages = {28--33},
     note = {\url{https://www.emis.de/journals/BJGA/v14n2/B14-2-bl.pdf}}
+}
+
+@book{Bou_89,
+    author = {N. Bourbaki},
+    title = {{Lie groups and Lie algebras, Chapters 1-3}},
+    publisher = {Springer-Verlag},
+    adress = {Berlin, Heidelberg},
+    year = {1989},
+    series = {Elements of Mathematics}
+}
+
+@book{Bou_07,
+    author = {N. Bourbaki},
+    title = {{Variétés différentielles et analytiques}},
+    publisher = {Springer Berlin, Heidelberg},
+    year = {2007},
+    series = {Fascicule de résultats, Elements of Mathematics},
+    note = {\href{https://doi.org/10.1007/978-3-540-34397-4}{10.1007/978-3-540-34397-4}}
 }
 
 @article{Bra_17,
@@ -263,6 +304,16 @@
     note = {\href{https://doi.org/10.1142/S0219887818500445}{10.1142/S0219887818500445}}
 }
 
+@incollection{Car_60,
+     author = {Pierre Cartier},
+     title = {{Vecteurs analytiques}},
+     booktitle = {Séminaire Bourbaki : années 1958/59 - 1959/60, exposés 169--204},
+     series = {Séminaire Bourbaki},
+     publisher = {Société mathématique de France},
+     number = {5},
+     year = {1960}
+}
+
 @article{Caw_79,
     author = {Robert Cawley},
     title = {{Determination of the Hamiltonian in the presence of constraints}},
@@ -272,6 +323,25 @@
     pages = {413--416},
     year = {1979},
     note = {\href{https://doi.org/10.1103/PhysRevLett.42.413}{10.1103/PhysRevLett.42.413}}
+}
+
+@book{Col_12,
+    author = {Rodney Coleman},
+    title = {{Calculus on normed spaces}},
+    publisher = {Springer New York, NY},
+    series = {Universitext},
+    year = {2012},
+    note = {\href{https://doi.org/10.1007/978-1-4614-3894-6}{10.1007/978-1-4614-3894-6}}
+}
+
+@book{Con_90,
+    author = {John B. Conway},
+    title = {{A Course in Functional Analysis}},
+    publisher = {Springer New York, NY},
+    volume = {96},
+    year = {1990},
+    series = {Graduate Texts in Mathematics},
+    note = {\href{https://doi.org/10.1007/978-1-4757-4383-8}{10.1007/978-1-4757-4383-8}}
 }
 
 @article{CB_08,
@@ -294,6 +364,29 @@
     volume = {{\bf 1}},
     year = {1991},
     note = {\href{https://doi.org/10.1016/0926-2245(91)90013-Y}{10.1016/0926-2245(91)90013-Y}}
+}
+
+@inproceedings{CCJL_19,
+    author = {José F. Cariñena and Jesús Clemente-Gallardo and Jorge A. Jover-Galtier and Javier de Lucas},
+    editor = {G. Marmo and David {Martín de Diego} and Miguel Muñoz-Lecanda},
+    title = {{Application of Lie Systems to Quantum Mechanics: Superposition Rules}},
+    booktitle = {{Classical and Quantum Physics}},
+    year = {2019},
+    publisher = {Springer, Cham},
+    pages = {85--119},
+    volume = {229},
+    series = {Springer Proceedings in Physics},
+    note = {\href{https://doi.org/10.1007/978-3-030-24748-5_6}{10.1007/978-3-030-24748-5\_6}}
+}
+
+@article{CCM_07,
+    author = {José F. Cariñena and Jesús Clemente-Gallardo and G. Marmo},
+    title = {{Geometrization of quantum mechanics}},
+    journal = {Theor. Math. Phys.},
+    volume = {{\bf 152}},
+    pages = {894--903},
+    year = {2007},
+    note = {\href{https://doi.org/10.1007/s11232-007-0075-3}{10.1007/s11232-007-0075-3}}
 }
 
 @article{CCM_02,
@@ -322,6 +415,16 @@
     title = {{Analysis, Manifolds and Physics}},
     year = {1978},
     publisher = {North Holland Pub. Co.}
+}
+
+@article{CDIM_17,
+    author = {Florio M. Ciaglia and Fabio {Di Cosmo} and Alberto Ibort and Giuseppe Marmo},
+    title = {{Dynamical aspects in the quantizer–dequantizer formalism}},
+    journal = {Ann. Phys.},
+    volume = {{\bf 385}},
+    year = {2017},
+    pages = {769--781},
+    note = {\href{https://doi.org/10.1016/j.aop.2017.08.025}{10.1016/j.aop.2017.08.025}}
 }
 
 @article{CF_93,
@@ -388,6 +491,27 @@
     note = {\href{https://doi.org/10.1007/978-94-017-9220-2}{10.1007/978-94-017-9220-2}}
 }
 
+@article{CL_09,
+    author = {José F. Cariñena and Javier de Lucas},
+    title = {{Quantum Lie systems and integrability conditions}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 6}},
+    number = {8},
+    pages = {1235--1252},
+    year = {2009},
+    note = {\href{https://doi.org/10.1142/S021988780900420X}{10.1142/S021988780900420X}}
+}
+
+@article{CL_11,
+    author = {José F. Cariñena and Javier de Lucas},
+    title = {{Lie systems: theory, generalisations, and applications}},
+    journal = {Dissertationes Math.},
+    volume = {{\bf 479}},
+    year = {2011},
+    pages = {1--162},
+    note = {\href{https://doi.org/10.4064/dm479-0-1}{10.4064/dm479-0-1}}
+}
+
 @article{CLL_92,
     author = {Frans Cantrijn and Manuel de León and Ernesto Lacomba},
     title = {{Gradient vector fields and cosymplectic manifolds}},
@@ -432,6 +556,16 @@
     note = {\href{https://doi.org/10.1088/1751-8113/42/47/475207}{10.1088/1751-8113/42/47/475207}}
 }
 
+@article{GLR_09,
+    author = {José F. Cariñena and Javier de Lucas and Arturo Ramos},
+    title = {{A geometric approach to time evolution operators of Lie quantum systems}},
+    journal = {Int. J. Theor. Phys.},
+    volume = {{\bf 48}},
+    pages = {1379--1404},
+    year = {2009},
+    note = {\href{https://doi.org/10.1007/s10773-008-9909-5}{10.1007/s10773-008-9909-5}}
+}
+
 @article{CM_18,
     author = {Robert Cardona and Eva Miranda},
     title = {{Integrable systems and closed one forms}},
@@ -440,6 +574,38 @@
     year = {2018},
     pages = {204--209},
     note = {\href{https://doi.org/10.1016/j.geomphys.2018.05.013}{10.1016/j.geomphys.2018.05.013}},
+}
+
+@article{CMMGM_16,
+    author = {José F. Cariñena and Eduardo Martínez and G. Marmo and Xavier Gràcia and Miguel Carlos Muñoz-Lecanda},
+    title = {{A quantum route to Hamilton--Jacobi equation: comments and remarks}},
+    journal = {Banach Center Publ.},
+    volume = {{\bf 110}},
+    pages = {41--56},
+    year = {2016},
+    note = {\href{https://doi.org/10.4064/bc110-0-3}{10.4064/bc110-0-3}}
+}
+
+@article{CMP_90,
+    author = {Renzo Cirelli and Alessandro Manià and Livio Pizzocchero},
+    title = {{Quantum mechanics as an infinite‐dimensional Hamiltonian system with uncertainty structure: Part I}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 31}},
+    number = {12},
+    pages = {2891--2897},
+    year = {1990},
+    note = {\href{https://doi.org/10.1063/1.528941}{10.1063/1.528941}}
+}
+
+@article{CMP_90a,
+    author = {Renzo Cirelli and Alessandro Manià and Livio Pizzocchero},
+    title = {{Quantum mechanics as an infinite‐dimensional Hamiltonian system with uncertainty structure: Part II}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 31}},
+    number = {12},
+    pages = {2898--2903},
+    year = {1990},
+    note = {\href{https://doi.org/10.1063/1.528942}{10.1063/1.528942}}
 }
 
 @article{CMZ_10,
@@ -464,6 +630,25 @@
     note = {\href{https://doi.org/10.1017/CBO9780511623905}{10.1017/CBO9780511623905}}
 }
 
+@article{CR_03,
+    author = {José F. Cariñena and Arturo Ramos},
+    title = {{Applications of Lie systems in quantum mechanics and control theory}},
+    volume = {{\bf 59}},
+    year = {2003},
+    pages = {143--162},
+    journal = {Banach Center Publ.},
+    note = {\href{https://doi.org/10.4064/bc59-0-7}{10.4064/bc59-0-7}}
+}
+
+@inproceedings{CR_05,
+    author = {José F. Cariñena and Arturo Ramos},
+    title = {{Lie systems and Connections in fibre bundles: Applications in Quantum Mechanics}},
+    year = {2005},
+    pages = {437--452},
+    organization = {9th Int. Conf. Differential Geometry and Applications},
+    publisher = {MatfyzPress, Prague}
+}
+
 @article{Dar_82,
     author = {Gaston Darboux},
     title = {{Sur le problème de Pfaff}},
@@ -473,6 +658,26 @@
     number = {1},
     pages = {14--36},
     note = {\url{http://www.numdam.org/item/BSMA_1882_2_6_1_14_1.pdf}}
+}
+
+@book{Die_60,
+    author = {J. Dieudonné},
+    title = {{Foundations of Modern Analysis}},
+    publisher = {Academic Press},
+    year = {1960},
+    address = {New York},
+    series = {Pure and Applied Mathematics},
+    volume = {X}
+}
+
+@article{Enf_73,
+    author = {Per Enflo},
+    title = {{A counterexample to the approximation problem in Banach spaces}},
+    journal = {Acta Math.},
+    volume = {{\bf 130}},
+    pages = {309--317},
+    year = {1973},
+    note = {\href{https://doi.org/10.1007/BF02392270}{10.1007/BF02392270}}
 }
 
 @article{EIMR_12,
@@ -486,8 +691,26 @@
     note = {\href{https://doi.org/10.3934/jgm.2012.4.397}{10.3934/jgm.2012.4.397}}
 }
 
+@unpublished{Fab_15,
+    author = {Oliver Fabert},
+    title = {{Infinite-dimensional symplectic non-squeezing using non-standard analysis}},
+    year = {2015},
+    note = {\href{https://arxiv.org/abs/1501.05905v5}{1501.05905v5}}
+}
+
+@book{FB_66,
+    author = {A. Fr\"olicher and W. Bucher},
+    title = {{Calculus in Vector Spaces without Norm}},
+    year = {1966},
+    series = {Lecture Notes in Mathematics},
+    volume = {30},
+    year = {1966},
+    publisher = {Springer Berlin, Heidelberg},
+    note = {\href{https://doi.org/10.1007/BFb0068432}{10.1007/BFb0068432}}
+}
+
 @article {FG_13,
-    author = {Forger, Michael and Gomes, Leandro G.},
+    author = {Michael Forger and Leandro G. Gomes},
     title = {{Multisymplectic and polysymplectic structures on fiber bundles}},
     journal = {Rev. Math. Phys.},
     volume = {{\bf 25}},
@@ -495,6 +718,24 @@
     number = {9},
     pages = {1350018},
     note = {\href{https://doi.org/10.1142/S0129055X13500189}{10.1142/S0129055X13500189}},
+}
+
+@book{FHHMZ_11,
+    author = {Marián Fabian and Petr Habala and Petr Hájek and Vicente Montesinos and Václav Zizler},
+    title = {{Banach Space Theory: The Basis for Linear and Nonlinear Analysis}},
+    publisher = {Springer New York, NY},
+    series = {CMS Books in Mathematics},
+    note = {\href{https://doi.org/10.1007/978-1-4419-7515-7}{10.1007/978-1-4419-7515-7}}
+}
+
+@article{FSSS_72,
+    author = {M. Flato and J. Simon and H. Snellman and D. Sternheimer},
+    title = {{Simple facts about analytic vectors and integrability}},
+    journal = {Ann. Sci. École Norm. Sup.},
+    volume = {{\bf 5}},
+    number = {3},
+    pages = {423--434},
+    year = {1972}
 }
 
 @article{FY_13,
@@ -530,6 +771,26 @@
     note = {\href{https://doi.org/10.1017/CBO9780511611438}{10.1017/CBO9780511611438}}
 }
 
+@article{Goo_69,
+    author = {Roe Goodman},
+    title = {{Analytic and entire vectors for representations of Lie groups}},
+    journal = {Trans. Amer. Math. Soc.},
+    volume = {{\bf 143}},
+    pages = {55--76},
+    year = {1969},
+    note = {\href{https://doi.org/10.2307/1995233}{10.2307/1995233}}
+}
+
+@book{Gos_11,
+    author = {Maurice A. Gosson},
+    title = {{Symplectic Methods in Harmonic Analysis and in Mathematical Physics}},
+    volume = {7},
+    series = {Pseudo-Differential Operators},
+    year = {2011},
+    publisher = {Birkhäuser Basel},
+    note = {\href{https://doi.org/10.1007/978-3-7643-9992-4}{10.1007/978-3-7643-9992-4}}
+}
+
 @article{Gun_87,
     author = {Christian Günther},
     title = {{The polysymplectic Hamiltonian formalism in field theory and calculus of variations I: The local case}},
@@ -539,6 +800,16 @@
     pages = {23--53},
     year = {1987},
     note = {\href{https://doi.org/10.4310/jdg/1214440723}{10.4310/jdg/1214440723}}
+}
+
+@article{GKMS_18,
+    title = {{Geometry of quantum dynamics in infinite-dimensional Hilbert space}},
+    author = {Janusz Grabowski and Marek Kuś and Giuseppe Marmo and Tatiana Shulman},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 51}},
+    number = {16},
+    pages = {165301},
+    note = {\href{http://doi.org/10.1088/1751-8121/aab289}{10.1088/1751-8121/aab289}}
 }
 
 @unpublished{GM_23,
@@ -600,6 +871,62 @@
     note = {\href{https://doi.org/10.5802/aif.451}{10.5802/aif.451}}
 }
 
+@book{GS_96,
+    author = {Victor Guillemin and Shlomo Sternberg},
+    title = {{Symplectic Techniques in Physics}},
+    publisher = {Cambridge University Press},
+    address = {New York},
+    year = {1996}
+}
+
+@book{Hal_13,
+    title = {{Quantum Theory for Mathematicians}},
+    author = {Brian C. Hall},
+    publisher = {Springer New York, NY},
+    series = {Graduate Texts in Mathematics},
+    volume = {267},
+    note = {\href{https://doi.org/10.1007/978-1-4614-7116-5}{10.1007/978-1-4614-7116-5}},
+    year = {2013}
+}
+
+@article{Ham_82,
+    author = {Richard S. Hamilton},
+    title = {{The inverse function theorem of Nash and Moser}},
+    journal = {Bull. Amer. Math. Soc.},
+    volume = {{\bf 7}},
+    number = {1},
+    pages = {65-222},
+    year = {1982},
+    note = {\href{https://www.doi.org/10.1090/S0273-0979-1982-15004-2}{10.1090/S0273-0979-1982-15004-2}}
+}
+
+@article{Har_53,
+    author = {F. R. S. Harish-Chandra},
+    title = {{Representations of a semisimple Lie group on a Banach space. I}},
+    journal = {Trans. Amer. Math. Soc.},
+    volume = {{\bf 75}},
+    year = {1953},
+    pages = {185--243},
+    note = {\href{https://doi.org/10.1090/S0002-9947-1953-0056610-2}{10.1090/S0002-9947-1953-0056610-2}}
+}
+
+@unpublished{Hua_17,
+    author = {Leonard Huang},
+    title = {{An Infinitesimal Version of the Stone-von Neumann Theorem}},
+    year = {2017},
+    note = {\href{https://arxiv.org/abs/1704.03859}{1704.03859}}
+}
+
+@article{HG_27,
+    author = {T. H. Hildebrandt and Lawrence M. Graves},
+    title = {{Implicit functions and their differentials in general analysis}},
+    journal = {Trans. Amer. Math. Soc.},
+    year = {1927},
+    volume = {{\bf 29}},
+    pages = {127--153},
+    note = {\href{https://doi.org/10.1090/S0002-9947-1927-1501380-6}{10.1090/S0002-9947-1927-1501380-6}}
+}
+
 @article{HLT_17,
     author = {Francisco J. Herranz and Javier de Lucas and Mariusz Tobolski},
     title = {{Lie--Hamilton systems on curved spaces: a geometrical approach}},
@@ -609,6 +936,13 @@
     number = {49},
     pages = {495201},
     note = {\href{https://doi.org/10.1088/1751-8121/aa918f}{10.1088/1751-8121/aa918f}}
+}
+
+@phdthesis{Jov_17,
+    author = {Jorge Jover-Galtier},
+    title = {{Open quantum systems: geometric description, dynamics and control}},
+    school = {Universidad de Zaragoza, Servicio de Publicaciones, Zaragoza},
+    year = {2017}
 }
 
 @article{Kan_98,
@@ -633,6 +967,26 @@
     note = {\href{https://doi.org/10.1007/BF01645975}{10.1007/BF01645975}}
 }
 
+@article{Kuk_95,
+    author = {Sergej B. Kuksin},
+    title = {{Infinite-dimensional symplectic capacities and a squeezing theorem for Hamiltonian PDE's}},
+    journal = {Commun. Math. Phys.},
+    year = {1995},
+    volume = {{\bf 167}},
+    pages = {531--552},
+    note = {\href{https://doi.org/10.1007/BF02101534}{10.1007/BF02101534}}
+}
+
+@book{KM_97,
+    title = {{The Convenient Setting of Global Analysis}},
+    author = {Andreas Kriegl and Peter W. Michor},
+    series = {Mathematical Surveys and Monographs},
+    volume = {53},
+    publisher = {American Mathematical Society},
+    year = {1997},
+    note = {\href{https://doi.org/10.1090/surv/053}{10.1090/surv/053}}
+}
+
 @book{KT_79,
     title = {{A symplectic framework for field theories}},
     author = {Jerzy Kijowski and Wlodzimierz M. Tulczyjew},
@@ -643,6 +997,15 @@
     address = {Berlin Heidelberg},
     edition = {1st},
     note = {\href{https://doi.org/10.1007/3-540-09538-1}{10.1007/3-540-09538-1}}
+}
+
+@book{Lan_02,
+    author = {Serge Lang},
+    title = {{Introduction to Differentiable Manifolds}},
+    publisher = {Springer New York, NY},
+    series = {Universitext},
+    note = {\href{https://doi.org/10.1007/b97450}{10.1007/b97450}},
+    year = {2002}
 }
 
 @book{Lee_13,
@@ -656,6 +1019,17 @@
     edition = {2nd},
     publisher = {Springer New York Heidelberg Dordrecht London},
     note = {\href{http://doi.org/10.1007/978-1-4419-9982-5}{10.1007/978-1-4419-9982-5}}
+}
+
+@article{Lin_12,
+    title = {{Infinite dimensional manifolds from a new point of view}},
+    author = {Xianzu Lin},
+    journal = {Topol. Appl.},
+    volume = {{\bf 159}},
+    number = {15},
+    pages = {3355--3362},
+    note = {\href{https://doi.org/10.1016/j.topol.2012.07.018}{10.1016/j.topol.2012.07.018}},
+    year = {2012}
 }
 
 @article{LGLRR_20,
@@ -894,8 +1268,9 @@
 @article{LRVZ_23,
     author = {Javier de Lucas and Xavier Rivas and Silvia Vilariño and Bartosz M. Zawora},
     title = {{On $k$-polycosymplectic Marsden--Weinstein reductions}},
-    journal = {J. Geom. Phys. (to appear)},
+    journal = {J. Geom. Phys.},
     year = {2023},
+    volume = {{\bf 191}},
     pages = {104899},
     note = {\href{https://doi.org/10.1016/j.geomphys.2023.104899}{10.1016/j.geomphys.2023.104899}}
 }
@@ -929,6 +1304,25 @@
     note = {\href{https://doi.org/10.2307/2037864}{10.2307/2037864}} 
 }
 
+@book{Mar_81,
+    author = {Jerrold E. Marsden},
+    title = {{Lectures on Geometric Methods in Mathematical Physics}},
+    year = {1981},
+    publisher = {SIAM, Philadelphia},
+    series = {CBMS-NSF Regional Conference Series in Applied Mathematics},
+    note = {\href{https://doi.org/10.1137/1.9781611970326}{10.1137/1.9781611970326}}
+}
+
+@article{Mar_68,
+    author = {Jerrold E. Marsden},
+    title = {{Hamiltonian one parameter groups a mathematical exposition of infinite dimensional Hamiltonian Systems with applications in classical and quantum mechanics}},
+    journal = {Arch. Ration. Mech. Anal.},
+    year = {1968},
+    volume = {{\bf 28}},
+    pages = {362--396},
+    note = {\href{https://doi.org/10.1007/BF00251662}{10.1007/BF00251662}}
+}
+
 @article{Mar_88,
     author = {Geoffrey Martin},
     title = {{A Darboux theorem for multi-symplectic manifolds}},
@@ -960,6 +1354,36 @@
     note = {\href{https://doi.org/10.1063/1.1288797}{10.1063/1.1288797}}
 }
 
+@article{MW_74,
+    author = {Jerrold Marsden and Alan Weinstein},
+    title = {{Reduction of symplectic manifolds with symmetry}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 5}},
+    number = {1},
+    pages = {121--130},
+    year = {1974},
+    note = {\href{https://doi.org/10.1016/0034-4877(74)90021-4}{10.1016/0034-4877(74)90021-4}}
+}
+
+@misc{Nee_05,
+    title = {{Infinite-Dimensional Lie Groups}},
+    author = {Neeb, Karl-Hermann},
+    howpublished = {3rd cycle. Monastir, Tunisie. pp.76},
+    year = {2005},
+    note = {\href{https://cel.hal.science/cel-00391789/document}{https://cel.hal.science/cel-00391789/document}}
+}
+
+@article{Nel_59,
+    title = {{Analytic vectors}},
+    author = {Edward Nelson},
+    journal = {Ann. Math.},
+    volume = {{\bf 70}},
+    number = {3},
+    year = {1959},
+    pages = {572--615},
+    note = {\href{https://doi.org/10.2307/1970331}{10.2307/1970331}}
+}
+
 @inproceedings{Nor_93,
     author = {L. K. Norris},
     title = {{Generalized symplectic geometry on the frame bundle of a manifold}},
@@ -969,6 +1393,23 @@
     year = {1993},
     pages = {435--465},
     note = {\href{https://doi.org/10.1090/pspum/054.2}{10.1090/pspum/054.2}}
+}
+
+@article{OR_03,
+    author = {Anatol Odzijewicz and Tudor S. Ratiu},
+    title = {{Banach Lie--Poisson Spaces and Reduction}},
+    journal = {Comm. Math. Phys.},
+    volume = {{\bf 243}},
+    pages = {1--54},
+    year = {2003},
+    note = {\href{https://doi.org/10.1007/s00220-003-0948-8}{10.1007/s00220-003-0948-8}}
+}
+
+@masterthesis{PR_09,
+    title = {{The Momentum Map, Symplectic Reduction and an Introduction to Brownian Motion}},
+    author = {John Ludovic Pirl and Tudor Ratiu},
+    year = {2009},
+    note = {École Polytechnique Fédérale de Lausanne. \href{https://math.berkeley.edu/~alanw/pirlmasters.pdf}{https://math.berkeley.edu/~alanw/pirlmasters.pdf}}
 }
 
 @article{PR_13,
@@ -998,6 +1439,22 @@
     number = {100},
     year = {2009},
     note = {\href{https://doi.org/10.3842/SIGMA.2009.100}{10.3842/SIGMA.2009.100}},
+}
+
+@book{Rud_87,
+    title = {{Real and complex analysis}},
+    author = {Walter Rudin},
+    publisher = {McGraw--Hill, New York},
+    series = {Mathematics Series},
+    year = {1987}
+}
+
+@book{Rud_91,
+    title = {{Functional analysis}},
+    author = {Walter Rudin},
+    series = {International series in pure and applied mathematics},
+    publisher = {McGraw--Hill},
+    year = {1991}
 }
 
 @article{RRSV_11,
@@ -1030,6 +1487,26 @@
     note = {\href{https://doi.org/10.1142/2550}{10.1142/2550}}
 }
 
+@book{Sch_12,
+    title = {{Unbounded Self-adjoint Operators on Hilbert Space}},
+    author = {Konrad Schmüdgen},
+    series = {Graduate Texts in Mathematics},
+    volume = {265},
+    publisher = {Springer Dordrecht},
+    year = {2012},
+    note = {\href{https://doi.org/10.1007/978-94-007-4753-1}{10.1007/978-94-007-4753-1}}
+}
+
+@article{Sim_72,
+    author = {Jacques Simon},
+    title = {{On the integrability of representations of finite dimensional real Lie algebras}},
+    journal = {Comm. Math. Phys.},
+    volume = {{\bf 28}},
+    pages = {39--46},
+    year = {1972},
+    note = {\href{https://doi.org/10.1007/BF02099370}{10.1007/BF02099370}}
+}
+
 @book{Sle_70,
     author = {Władysław \'Slebodzi\'nski},
     title = {{Exterior forms and their applications}},
@@ -1038,7 +1515,45 @@
     year = {1970}
 }
 
-@article {Tro_76,
+@article{Sto_32,
+    author = {M. H. Stone},
+    title = {{On One-Parameter Unitary Groups in Hilbert Space}},
+    journal = {Ann. Math.},
+    volume = {{\bf 33}},
+    number = {3},
+    year = {1932},
+    pages = {643--648},
+    note = {\href{https://doi.org/10.2307/1968538}{10.2307/1968538}}
+}
+
+@book{Sze_39,
+    author = {G. Szegö},
+    title = {{Orthogonal Polynomials}},
+    publisher = {American Mathematical Society},
+    address = {Providence, Rhode Island},
+    series = {Colloquium Publications},
+    volume = {XXIII}
+}
+
+@book{SN_20,
+    author = {J. J. Sakurai and Jim Napolitano},
+    title = {{Modern quantum mechanics}},
+    publisher = {Cambridge University Press},
+    year = {2020},
+    note = {\href{https://doi.org/10.1017/9781108587280}{10.1017/9781108587280}}
+}
+
+@book{Tay_86,
+    author = {Michael E. Taylor},
+    title = {{Noncommutative Harmonic Analysis}},
+    volume = {22},
+    series = {Mathematical Surveys and Monographs},
+    publisher = {American Mathematical Society},
+    address = {Providence},
+    year = {1986}
+}
+
+@article{Tro_76,
     author = {A. J. Tromba},
     title = {{Almost-Riemannian structures on Banach manifolds: the Morse lemma and the Darboux theorem}},
     journal = {Can. J. Math.},
@@ -1047,6 +1562,16 @@
     number = {3},
     pages = {640--652},
     note = {\href{https://doi.org/10.4153/CJM-1976-064-x}{10.4153/CJM-1976-064-x}}
+}
+
+@article{Tum_20,
+    author = {A. B. Tumpach},
+    title = {{Banach Poisson–Lie Groups and Bruhat–Poisson Structure of the Restricted Grassmannian}},
+    journal = {Comm. Math. Phys.},
+    volume = {{\bf 373}},
+    pages = {795--858},
+    year = {2020},
+    note = {\href{https://doi.org/10.1007/s00220-019-03674-3}{10.1007/s00220-019-03674-3}}
 }
 
 @article {THB_22,
@@ -1079,4 +1604,13 @@
     year = {2000},
     pages = {377--387},
     note = {\url{https://www.jstor.org/stable/43678676}}
+}
+
+@book{Yos_95,
+    author = {Kôsaku Yosida},
+    title = {{Functional Analysis}},
+    year = {1995},
+    publisher = {Springer Berlin, Heidelberg},
+    series = {Classics in Mathematics},
+    note = {\href{https://doi.org/10.1007/978-3-642-61859-8}{10.1007/978-3-642-61859-8}}
 }
