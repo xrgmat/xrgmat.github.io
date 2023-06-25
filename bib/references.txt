@@ -1385,6 +1385,16 @@
     note = {\href{https://doi.org/10.2307/1970331}{10.2307/1970331}}
 }
 
+@book{Neu_18,
+    author = {John von Neumann},
+    title = {{Mathematical Foundations of Quantum Mechanics}},
+    volume = {53},
+    series = {Princeton Landmarks in Mathematics and Physics},
+    publisher = {Princeton University Press},
+    year = {2018},
+    note = {\href{https://doi.org/10.1515/9781400889921}{10.1515/9781400889921}}
+}
+
 @inproceedings{Nor_93,
     author = {L. K. Norris},
     title = {{Generalized symplectic geometry on the frame bundle of a manifold}},
@@ -1585,6 +1595,17 @@
     number = {1},
     pages = {114--137},
     note = {\href{https://doi.org/10.1515/coma-2021-0132}{10.1515/coma-2021-0132}}
+}
+
+@article{TW_01,
+    author = {T. Thiemann and O. Winkler},
+    title = {{Gauge field theory coherent states (GCS): IV. Infinite tensor product and thermodynamical limit}},
+    journal = {Class. Quantum Gravity},
+    volume = {{\bf 18}},
+    number = {23},
+    pages = {4997},
+    year = {2001},
+    note = {\href{https://doi.org/10.1088/0264-9381/18/23/302}{10.1088/0264-9381/18/23/302}}
 }
 
 @article{Vai_85,
