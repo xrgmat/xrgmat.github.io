@@ -419,7 +419,7 @@
 
 @article{CDIM_17,
     author = {Florio M. Ciaglia and Fabio {Di Cosmo} and Alberto Ibort and Giuseppe Marmo},
-    title = {{Dynamical aspects in the quantizer–dequantizer formalism}},
+    title = {{Dynamical aspects in the quantizer-dequantizer formalism}},
     journal = {Ann. Phys.},
     volume = {{\bf 385}},
     year = {2017},
@@ -1286,7 +1286,7 @@
 
 @article{Mar_09,
     author = {Charles-Michel Marle},
-    title = {{The Inception of Symplectic Geometry: the Works of Lagrange and Poisson During the Years 1808–1810}},
+    title = {{The Inception of Symplectic Geometry: the Works of Lagrange and Poisson During the Years 1808-1810}},
     journal = {Lett. Math. Phys.},
     volume = {{\bf 90}},
     pages = {3--21},
@@ -1578,7 +1578,7 @@
 
 @article{Tum_20,
     author = {A. B. Tumpach},
-    title = {{Banach Poisson–Lie Groups and Bruhat–Poisson Structure of the Restricted Grassmannian}},
+    title = {{Banach Poisson--Lie Groups and Bruhat--Poisson Structure of the Restricted Grassmannian}},
     journal = {Comm. Math. Phys.},
     volume = {{\bf 373}},
     pages = {795--858},
