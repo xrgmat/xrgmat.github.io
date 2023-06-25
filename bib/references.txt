@@ -556,7 +556,7 @@
     note = {\href{https://doi.org/10.1088/1751-8113/42/47/475207}{10.1088/1751-8113/42/47/475207}}
 }
 
-@article{GLR_09,
+@article{CLR_09,
     author = {José F. Cariñena and Javier de Lucas and Arturo Ramos},
     title = {{A geometric approach to time evolution operators of Lie quantum systems}},
     journal = {Int. J. Theor. Phys.},
@@ -645,7 +645,7 @@
     title = {{Lie systems and Connections in fibre bundles: Applications in Quantum Mechanics}},
     year = {2005},
     pages = {437--452},
-    organization = {9th Int. Conf. Differential Geometry and Applications},
+    booktitle = {9th Int. Conf. Differential Geometry and Applications},
     publisher = {MatfyzPress, Prague}
 }
 
@@ -704,12 +704,11 @@
     year = {1966},
     series = {Lecture Notes in Mathematics},
     volume = {30},
-    year = {1966},
     publisher = {Springer Berlin, Heidelberg},
     note = {\href{https://doi.org/10.1007/BFb0068432}{10.1007/BFb0068432}}
 }
 
-@article {FG_13,
+@article{FG_13,
     author = {Michael Forger and Leandro G. Gomes},
     title = {{Multisymplectic and polysymplectic structures on fiber bundles}},
     journal = {Rev. Math. Phys.},
@@ -725,7 +724,8 @@
     title = {{Banach Space Theory: The Basis for Linear and Nonlinear Analysis}},
     publisher = {Springer New York, NY},
     series = {CMS Books in Mathematics},
-    note = {\href{https://doi.org/10.1007/978-1-4419-7515-7}{10.1007/978-1-4419-7515-7}}
+    note = {\href{https://doi.org/10.1007/978-1-4419-7515-7}{10.1007/978-1-4419-7515-7}},
+    year = {2011}
 }
 
 @article{FSSS_72,
@@ -1533,7 +1533,8 @@
     publisher = {American Mathematical Society},
     address = {Providence, Rhode Island},
     series = {Colloquium Publications},
-    volume = {XXIII}
+    volume = {XXIII},
+    year = {1939}
 }
 
 @book{SN_20,
@@ -1596,7 +1597,7 @@
     note = {\href{https://doi.org/10.1155/S0161171285000564}{10.1155/S0161171285000564}}
 }
 
-@article {Vai_00,
+@article{Vai_00,
     author = {Izu Vaisman},
     title = {{Connections under symplectic reduction}},
     journal = {Bull. Math. Soc. Sci. Math. Roum. N.S.},
