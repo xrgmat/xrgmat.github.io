@@ -1334,6 +1334,13 @@
     note = {\href{https://doi.org/10.1007/BF00402020}{10.1007/BF00402020}}
 }
 
+@phdthesis{Mer_97,
+    author = {Eugenio E. Merino},
+    title = {{Geometría $k$-simpléctica y $k$-cosimpléctica. Aplicaciones a las teorías clásicas de campos}},
+    school = {Universidade de Santiago de Compostela},
+    year = {1997}
+}
+
 @article{Mil_58,
     title = {{On the existence of a connection with curvature zero}},
     author = {John Milnor},
