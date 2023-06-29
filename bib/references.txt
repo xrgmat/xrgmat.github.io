@@ -1362,6 +1362,17 @@
     note = {\href{https://doi.org/10.1063/1.1288797}{10.1063/1.1288797}}
 }
 
+@article {MS_88,
+    author = {Jerrold E. Marsden and Juan Carlos Simo},
+    title = {{The energy momentum method}},
+    journal = {Act. Acad. Sci. Tau.},
+    volume = {{\bf 1}},
+    year = {1988},
+    number = {124},
+    pages = {245--268},
+    note = {\href{https://resolver.caltech.edu/CaltechAUTHORS:20101019-093814651}{https://resolver.caltech.edu/CaltechAUTHORS:20101019-093814651}}
+}
+
 @article{MW_74,
     author = {Jerrold Marsden and Alan Weinstein},
     title = {{Reduction of symplectic manifolds with symmetry}},
