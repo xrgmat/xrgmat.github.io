@@ -22,6 +22,17 @@
     note = {\href{https://doi.org/10.1007/978-1-4757-1693-1}{10.1007/978-1-4757-1693-1}}
 }
 
+@article{Awa_94,
+    author = {Azzouz Awane},
+    title = {{G-espaces K-symplectiques homogènes}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 13}},
+    number = {2},
+    pages = {139--157},
+    year = {1994},
+    note = {\href{https://doi.org/10.1016/0393-0440(94)90024-8}{10.1016/0393-0440(94)90024-8}}
+}
+
 @article{Awa_20,
     author = {Azzouz Awane},
     title = {{Polarized symplectic structures}},
@@ -142,6 +153,27 @@
     year = {2009},
     pages = {28--33},
     note = {\url{https://www.emis.de/journals/BJGA/v14n2/B14-2-bl.pdf}}
+}
+
+@article{Bla_19,
+    title = {{Polysymplectic reduction and the moduli space of flat connections}},
+    author = {Casey Blacker},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 52}},
+    number = {33},
+    pages = {335201},
+    year = {2019},
+    note = {\href{https://doi.org/10.1088/1751-8121/ab2eed}{10.1088/1751-8121/ab2eed}}
+}
+
+@article{Bla_21,
+    title = {{Reduction of multisymplectic manifolds}},
+    author = {Casey Blacker},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 111}},
+    number = {64},
+    year = {2021},
+    note = {\href{https://doi.org/10.1007/s11005-021-01408-y}{10.1007/s11005-021-01408-y}}
 }
 
 @book{Bou_89,
@@ -691,6 +723,38 @@
     note = {\href{https://doi.org/10.3934/jgm.2012.4.397}{10.3934/jgm.2012.4.397}}
 }
 
+@article{ELLM_21,
+    author = {Oğul Esen and Manuel {Lainz Valcázar} and Manuel de León and Juan Carlos Marrero},
+    title = {{Contact Dynamics: Legendrian and Lagrangian Submanifolds}},
+    journal = {Mathematics},
+    volume = {{\bf 9}},
+    number = {21},
+    pages = {2704},
+    year = {2021},
+    note = {\href{https://doi.org/10.3390/math9212704}{10.3390/math9212704}}
+}
+
+@article{ELSZ_21,
+    author = {Oğul Esen and Manuel de León and Cristina Sardón and Marcin Zając},
+    title = {{Cauchy data space and multisymplectic formulation of conformal classical field theories}},
+    journal = {Ann. Phys.},
+    volume = {{\bf 434}},
+    pages = {168616},
+    year = {2021},
+    note = {\href{https://doi.org/10.1016/j.aop.2021.168616}{10.1016/j.aop.2021.168616}}
+}
+
+@article{EMR_99,
+    author = {Arturo Echeverría-Enríquez and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
+    title = {{Multivector field formulation of Hamiltonian field theories: equations and symmetries}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 32}},
+    number = {48},
+    pages = {8461},
+    year = {1999},
+    note = {\href{https://doi.org/10.1088/0305-4470/32/48/309}{10.1088/0305-4470/32/48/309}}
+}
+
 @unpublished{Fab_15,
     author = {Oliver Fabert},
     title = {{Infinite-dimensional symplectic non-squeezing using non-standard analysis}},
@@ -802,6 +866,38 @@
     note = {\href{https://doi.org/10.4310/jdg/1214440723}{10.4310/jdg/1214440723}}
 }
 
+@article{GGMRR_20,
+    author = {Jordi Gaset and Xavier Gràcia and Miguel C. Muñoz-Lecanda and Xavier Rivas and Narciso Román-Roy},
+    title = {{A contact geometry framework for field theories with dissipation}},
+    journal = {Ann. Phys.},
+    volume = {{\bf 414}},
+    pages = {168092},
+    year = {2020},
+    note = {\href{https://doi.org/10.1016/j.aop.2020.168092}{10.1016/j.aop.2020.168092}}
+}
+
+@article{GGMRR_20a,
+    author = {Jordi Gaset and Xavier Gràcia and Miguel C. Muñoz-Lecanda and Xavier Rivas and Narciso Román-Roy},
+    title = {{New contributions to the Hamiltonian and Lagrangian contact formalisms for dissipative mechanical systems and their symmetries}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 17}},
+    number = {6},
+    pages = {2050090},
+    year = {2020},
+    note = {\href{https://doi.org/10.1142/S0219887820500905}{10.1142/S0219887820500905}}
+}
+
+@article{GGMRR_21,
+    author = {Jordi Gaset and Xavier Gràcia and Miguel C. Muñoz-Lecanda and Xavier Rivas and Narciso Román-Roy},
+    title = {{A $k$-contact Lagrangian formulation for nonconservative field theories}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 87}},
+    number = {3},
+    pages = {347--368},
+    year = {2021},
+    note = {\href{https://doi.org/10.1016/S0034-4877(21)00041-0}{10.1016/S0034-4877(21)00041-0}}
+}
+
 @article{GKMS_18,
     title = {{Geometry of quantum dynamics in infinite-dimensional Hilbert space}},
     author = {Janusz Grabowski and Marek Kuś and Giuseppe Marmo and Tatiana Shulman},
@@ -811,6 +907,15 @@
     pages = {165301},
     year = {2018},
     note = {\href{http://doi.org/10.1088/1751-8121/aab289}{10.1088/1751-8121/aab289}}
+}
+
+@article{GLR_23,
+    author = {Jordi Gaset and Asier López-Gordón and Xavier Rivas},
+    title = {{Symmetries, conservation and dissipation in time-dependent contact systems}},
+    journal = {Fortschr. Phys.},
+    pages = {2300048},
+    year = {2023},
+    note = {\href{https://doi.org/10.1002/prop.202300048}{10.1002/prop.202300048}}
 }
 
 @unpublished{GM_23,
@@ -1031,6 +1136,16 @@
     pages = {3355--3362},
     note = {\href{https://doi.org/10.1016/j.topol.2012.07.018}{10.1016/j.topol.2012.07.018}},
     year = {2012}
+}
+
+@article{LGGMR_23,
+    author = {Manuel de León and Jordi Gaset and Xavier Gràcia and Miguel C. Muñoz-Lecanda and Xavier Rivas},
+    title = {{Time-dependent contact mechanics}},
+    journal = {Monatsh. fur Math.},
+    volume = {{\bf 201}},
+    pages = {1149--1183},
+    year = {2023},
+    note = {\href{https://doi.org/10.1007/s00605-022-01767-1}{10.1007/s00605-022-01767-1}}
 }
 
 @article{LGLRR_20,
@@ -1276,6 +1391,14 @@
     note = {\href{https://doi.org/10.1016/j.geomphys.2023.104899}{10.1016/j.geomphys.2023.104899}}
 }
 
+@book{LS_20,
+    author = {Javier de Lucas and Cristina Sardón},
+    title = {{A Guide to Lie Systems with Compatible Geometric Structures}},
+    year = {2020},
+    publisher = {World Scientific Publishing Co. Pte. Ltd., Singapore},
+    note = {\href{https://doi.org/10.1142/q0208}{10.1142/q0208}}
+}
+
 @book{LSV_15,
     author = {Manuel de León and Modesto Salgado and Silvia Vilariño},
     title = {{Methods of Differential Geometry in Classical Field Theories}},
@@ -1452,6 +1575,17 @@
     note = {\href{https://doi.org/10.3934/jgm.2013.5.493}{10.3934/jgm.2013.5.493}},
 }
 
+@article{Ram_07,
+    author = {Franco Rampazzo},
+    title = {{Frobenius-type theorems for Lipschitz distributions}},
+    journal = {J. Differ. Equ.},
+    volume = {{\bf 243}},
+    number = {2},
+    pages = {270--300},
+    year = {2007},
+    note = {\href{https://doi.org/10.1016/j.jde.2007.05.040}{10.1016/j.jde.2007.05.040}}
+}
+
 @phdthesis{Riv_22,
     author = {Xavier Rivas},
     title = {{Geometrical aspects of contact mechanical systems and field theories}},
@@ -1486,6 +1620,15 @@
     year = {1991}
 }
 
+@book{Ryd_96,
+    author = {Lewis H. Ryder},
+    title = {{Quantum Field Theory}},
+    edition = {2nd},
+    publisher = {Cambridge University Press},
+    year = {1996},
+    note = {\href{https://doi.org/10.1017/CBO9780511813900}{10.1017/CBO9780511813900}}
+}
+
 @article{RRSV_11,
     author = {\'Angel M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
     title = {{On the $k$-symplectic, $k$-cosymplectic and multisymplectic formalisms of classical field theories}},
@@ -1497,6 +1640,28 @@
     note = {\href{https://doi.org/10.3934/jgm.2011.3.113}{10.3934/jgm.2011.3.113}}
 }
 
+@article{RS_07,
+    author = {Franco Rampazzo and Héctor J. Sussmann},
+    title = {{Commutators of flow maps of nonsmooth vector fields}},
+    year = {2007},
+    journal = {J. Differ. Equ.},
+    volume = {{\bf 232}},
+    number = {1},
+    pages = {134--175},
+    note = {\href{https://doi.org/10.1016/j.jde.2006.04.016}{10.1016/j.jde.2006.04.016}}
+}
+
+@article{RT_23,
+    author = {Xavier Rivas and Daniel Torres},
+    title = {{Lagrangian--Hamiltonian formalism for cocontact systems}},
+    journal = {J. Geom. Mech.},
+    year = {2023},
+    volume = {{\bf 15}},
+    number = {1},
+    pages = {1--26},
+    note = {\href{https://doi.org/10.3934/jgm.2023001}{10.3934/jgm.2023001}}
+}
+
 @article{RW_19,
     author = {Leonid Ryvkin and Tilmann Wurzbacher},
     title = {{An invitation to multisymplectic geometry}},
@@ -1505,6 +1670,17 @@
     pages = {9--36},
     year = {2019},
     note = {\href{https://doi.org/10.1016/j.geomphys.2019.03.006}{10.1016/j.geomphys.2019.03.006}} 
+}
+
+@book{Sal_15,
+    author = {Sandro Salsa},
+    title = {{Partial Differential Equations in Action: From Modelling to Theory}},
+    series = {Unitext},
+    volume = {86},
+    edition = {2nd},
+    publisher = {Springer International Publishing},
+    year = {2015},
+    note = {\href{https://doi.org/10.1007/978-3-319-15093-2}{10.1007/978-3-319-15093-2}}
 }
 
 @book{Sar_95,
@@ -1563,6 +1739,16 @@
     series = {Colloquium Publications},
     volume = {XXIII},
     year = {1939}
+}
+
+@article{SMLL_21,
+    author = {Alexandre Anahory Simoes and David Martín de Diego and Manuel Lainz Valcázar and Manuel de León},
+    title = {{On the Geometry of Discrete Contact Mechanics}},
+    journal = {J. Nonlinear Sci.},
+    volume = {{\bf 31}},
+    number = {53},
+    year = {2021},
+    note = {\href{https://doi.org/10.1007/s00332-021-09708-2}{10.1007/s00332-021-09708-2}}
 }
 
 @book{SN_20,
@@ -1655,3 +1841,13 @@
     series = {Classics in Mathematics},
     note = {\href{https://doi.org/10.1007/978-3-642-61859-8}{10.1007/978-3-642-61859-8}}
 }
+
+
+
+
+
+
+
+
+
+
