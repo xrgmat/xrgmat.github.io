@@ -227,6 +227,16 @@
     note = {\href{https://doi.org/10.1016/S0034-4877(15)30010-0}{10.1016/S0034-4877(15)30010-0}}
 }
 
+@article{BC_23,
+    title = {{Poisson--Poincaré reduction for field theories}},
+    author = {Miguel Angel Berbel and Marco {Castrillón López}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 191}},
+    year = {2023},
+    pages = {104879},
+    note = {\href{https://doi.org/10.1016/j.geomphys.2023.104879}{10.1016/j.geomphys.2023.104879}}
+}
+
 @book{BCGGG_91,
     author = {Robert L. Bryant and S. S. Chern and Robert B. Gardner and Hubert L. Goldshmidt and P. A. Griffith},
     title = {{Exterior Differential Systems}},
@@ -282,6 +292,16 @@
     note = {\href{https://doi.org/10.1063/1.2929668}{10.1063/1.2929668}}
 }
 
+@article{BG_15,
+    author = {Giovanni Bazzoni and Oliver Goertsches},
+    title = {{$K$-cosymplectic manifolds}},
+    journal = {Ann. Glob. Anal. Geom.},
+    volume = {{\bf 47}},
+    pages = {239--270},
+    year = {2015},
+    note = {\href{https://doi.org/10.1007/s10455-014-9444-y}{10.1007/s10455-014-9444-y}}
+}
+
 @article{BGPR_86,
     author = {Carles Batlle and Joaquim Gomis and Josep M. Pons and Narciso Román-Roy},
     title = {{Equivalence between the Lagrangian and Hamiltonian formalism for constrained systems}},
@@ -312,6 +332,26 @@
     pages = {455205},
     year = {2020},
     note = {\href{https://doi.org/10.1088/1751-8121/abbaaa}{10.1088/1751-8121/abbaaa}}
+}
+
+@article{BP_93,
+    author = {Z. Banach and S. Pierkarski},
+    title = {{Non-equilibrium thermodynamics and dissipative fluid theories}},
+    journal = {Il Nuovo Cimento D},
+    volume = {{\bf 15}},
+    pages = {1063--1086},
+    year = {1993},
+    note = {\href{https://doi.org/10.1007/BF02451879}{10.1007/BF02451879}}
+}
+
+@article{BT_21,
+    author = {Martin Bojowald and Artur Tsobanjan},
+    title = {{Quantization of Dynamical Symplectic Reduction}},
+    journal = {Commun. Math. Phys.},
+    volume = {{\bf 382}},
+    pages = {547--583},
+    year = {2021},
+    note = {\href{https://doi.org/10.1007/s00220-020-03856-4}{10.1007/s00220-020-03856-4}}
 }
 
 @book{Can_01,
@@ -374,6 +414,17 @@
     year = {1990},
     series = {Graduate Texts in Mathematics},
     note = {\href{https://doi.org/10.1007/978-1-4757-4383-8}{10.1007/978-1-4757-4383-8}}
+}
+
+@article{Cou_90,
+    author = {Theodore James Courant},
+    title = {{Dirac manifolds}},
+    journal = {Trans. Amer. Math. Soc.},
+    volume = {{\bf 319}},
+    number = {2},
+    year = {1990},
+    pages = {631--661},
+    note = {\href{https://doi.org/10.1090/S0002-9947-1990-0998124-1}{10.1090/S0002-9947-1990-0998124-1}}
 }
 
 @article{CB_08,
@@ -479,6 +530,15 @@
     pages = {1940001},
     year = {2019},
     note = {\href{https://doi.org/10.1142/S0219887819400012}{10.1142/S0219887819400012}}
+}
+
+@book{CGM_00,
+    author = {José F. Cariñena and Janusz Grabowski and Giuseppe Marmo},
+    title = {{Lie--Scheffers systems: a geometric approach}},
+    publisher = {Bibliopolis},
+    year = {2000},
+    address = {Naples},
+    series = {Napoli Series on Physics and Astrophysics}
 }
 
 @article{CGRS_20,
@@ -651,6 +711,17 @@
     note = {\href{https://doi.org/10.1063/1.3456158}{10.1063/1.3456158}}
 }
 
+@article {CN_13,
+    author = {Beniamino Cappelletti-Montano and Antonio de Nicola and Ivan Yudin},
+    title = {{A survey on cosymplectic geometry}},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 25}},
+    year = {2013},
+    number = {10},
+    pages = {1343002},
+    note = {\href{https://doi.org/10.1142/S0129055X13430022}{10.1142/S0129055X13430022}}
+}
+
 @book{CP_86,
     author = {M. Crampin and F.A.E. Pirani},
     title = {{Applicable Differential Geometry}},
@@ -753,6 +824,17 @@
     pages = {8461},
     year = {1999},
     note = {\href{https://doi.org/10.1088/0305-4470/32/48/309}{10.1088/0305-4470/32/48/309}}
+}
+
+@article{EMR_18,
+    author = {Arturo Echeverría-Enríquez and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
+    title = {{Remarks on Multisymplectic Reduction}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 81}},
+    number = {3},
+    pages = {415--424},
+    year = {2018},
+    note = {\href{https://doi.org/10.1016/S0034-4877(18)30057-0}{10.1016/S0034-4877(18)30057-0}}
 }
 
 @unpublished{Fab_15,
@@ -864,6 +946,27 @@
     pages = {23--53},
     year = {1987},
     note = {\href{https://doi.org/10.4310/jdg/1214440723}{10.4310/jdg/1214440723}}
+}
+
+@article{GB_86,
+    author = {Mark J. Gotay and Len Bos},
+    title = {{Singular angular momentum mappings}},
+    year = {1986},
+    journal = {J. Differ. Geom.},
+    volume = {{\bf 24}},
+    number = {2},
+    pages = {181--203},
+    note = {\href{https://doi.org/10.4310/jdg/1214440434}{10.4310/jdg/1214440434}}
+}
+
+@article{GG_22,
+    author = {Katarzyna Grabowska and Janusz Grabowski},
+    title = {{A geometric approach to contact Hamiltonians and contact Hamilton–Jacobi theory}},
+    journal = {J. Math. Phys: Math. Theor.},
+    volume = {{\bf 55}},
+    pages = {435204},
+    year = {2022},
+    note = {\href{https://doi.org/10.1088/1751-8121/ac9adb}{10.1088/1751-8121/ac9adb}}
 }
 
 @article{GGMRR_20,
@@ -1044,6 +1147,16 @@
     note = {\href{https://doi.org/10.1088/1751-8121/aa918f}{10.1088/1751-8121/aa918f}}
 }
 
+@article{HSS_15,
+    author = {Hans-Christian Herbig and Gerald W. Schwarz and Christopher Seaton},
+    title = {{When is a symplectic quotient an orbifold?}},
+    journal = {Adv. Math.},
+    volume = {{\bf 280}},
+    year = {2015},
+    pages = {208--224},
+    note = {\href{https://doi.org/10.1016/j.aim.2015.04.016}{10.1016/j.aim.2015.04.016}}
+}
+
 @phdthesis{Jov_17,
     author = {Jorge Jover-Galtier},
     title = {{Open quantum systems: geometric description, dynamics and control}},
@@ -1060,6 +1173,17 @@
     year = {1998},
     pages = {49--90},
     note = {\href{https://doi.org/10.1016/S0034-4877(98)80182-1}{10.1016/S0034-4877(98)80182-1}}
+}
+
+@article{Kha_87,
+    author = {O. Khatib},
+    title = {{A unified approach for motion and force control of robot manipulators: The operational space formulation}},
+    journal = {IEEE J. Robotics Autom.},
+    volume = {{\bf 3}},
+    number = {1},
+    year = {1987},
+    pages = {43--53},
+    note = {\href{https://doi.org/10.1109/JRA.1987.1087068}{10.1109/JRA.1987.1087068}}
 }
 
 @article{Kij_73,
@@ -1127,6 +1251,16 @@
     note = {\href{http://doi.org/10.1007/978-1-4419-9982-5}{10.1007/978-1-4419-9982-5}}
 }
 
+@book{Lee_09,
+    title = {{Manifolds and differential geometry}},
+    author = {Jeffrey M. Lee},
+    series = {Graduate Studies in Mathematics},
+    volume = {107},
+    year = {2009},
+    publisher = {American Mathematical Society},
+    address = {Providence, RI}
+}
+
 @article{Lin_12,
     title = {{Infinite dimensional manifolds from a new point of view}},
     author = {Xianzu Lin},
@@ -1178,6 +1312,17 @@
     pages = {025201},
     year = {2023},
     note = {\href{https://doi.org/10.1088/1751-8121/acb575}{10.1088/1751-8121/acb575}}
+}
+
+@article{LGRRV_22,
+    author = {Javier de Lucas and Xavier Gràcia and Xavier Rivas and Narciso Román-Roy and Silvia Vilariño},
+    title = {{Reduction and reconstruction of multisymplectic Lie systems}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 55}},
+    number = {29},
+    pages = {295204},
+    year = {2022},
+    note = {\href{https://doi.org/10.1088/1751-8121/ac78ab}{10.1088/1751-8121/ac78ab}}
 }
 
 @article{LJL_21,
@@ -1359,6 +1504,21 @@
     address = {Gent}
 }
 
+@incollection{LMS_94,
+    author = {Eugene Lerman and Richard Montgomery and Reyer Sjamaar},
+    title = {{Examples of singular reduction}},
+    place = {Cambridge},
+    series = {London Mathematical Society Lecture Note Series},
+    volume = {192},
+    note = {\href{https://doi.org/10.1017/CBO9780511526343.008}{10.1017/CBO9780511526343.008}},
+    booktitle = {{Symplectic Geometry}},
+    publisher = {Cambridge University Press},
+    year = {1994},
+    pages = {127--156},
+    collection = {London Mathematical Society Lecture Note Series},
+    editor = {Dietmar Salamon}
+}
+
 @article{LMV_17,
     author = {Manuel de León and David {Martín de Diego} and Miguel Vaquero},
     title = {{Hamilton--Jacobi theory, symmetries and coisotropic reduction}},
@@ -1405,6 +1565,16 @@
     publisher = {World Scientific},
     year = {2015},
     note = {\href{https://doi.org/10.1142/9693}{10.1142/9693}}
+}
+
+@article{LZ_21,
+    author = {Javier de Lucas and Bartosz Maciej Zawora},
+    title = {{A time-dependent energy-momentum method}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 170}},
+    year = {2021},
+    pages = {104364},
+    note = {\href{https://doi.org/10.1016/j.geomphys.2021.104364}{10.1016/j.geomphys.2021.104364}}
 }
 
 @article{Mar_09,
@@ -1485,6 +1655,28 @@
     note = {\href{https://doi.org/10.1063/1.1288797}{10.1063/1.1288797}}
 }
 
+@article{MR_86,
+    author = {Jerrold E. Marsden and Tudor Ratiu},
+    title = {{Reduction of Poisson manifolds}},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 11}},
+    number = {2},
+    pages = {161--169},
+    year = {1986},
+    note = {\href{https://doi.org/10.1007/BF00398428}{10.1007/BF00398428}}
+}
+
+@article {MRSV_15,
+    author = {Juan Carlos Marrero and  Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
+    title = {{Reduction of polysymplectic manifolds}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 48}},
+    year = {2015},
+    number = {5},
+    pages = {055206},
+    note = {\href{http://doi.org/10.1088/1751-8113/48/5/055206}{10.1088/1751-8113/48/5/055206}}
+}
+
 @article {MS_88,
     author = {Jerrold E. Marsden and Juan Carlos Simo},
     title = {{The energy momentum method}},
@@ -1555,6 +1747,16 @@
     pages = {1--54},
     year = {2003},
     note = {\href{https://doi.org/10.1007/s00220-003-0948-8}{10.1007/s00220-003-0948-8}}
+}
+
+@book{OR_04,
+    author = {Juan Pablo Ortega and Tudor S. Ratiu},
+    title = {{Momentum maps and Hamiltonian reduction}},
+    series = {Progress in Mathematics},
+    volume = {222},
+    publisher = {Birkh\"auser Boston, Inc., Boston},
+    year = {2004},
+    note = {\href{https://doi.org/10.1007/978-1-4757-3811-7}{10.1007/978-1-4757-3811-7}}
 }
 
 @masterthesis{PR_09,
@@ -1651,6 +1853,17 @@
     note = {\href{https://doi.org/10.1016/j.jde.2006.04.016}{10.1016/j.jde.2006.04.016}}
 }
 
+@article{RSV_07,
+    author = {Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
+    title = {{Symmetries and conservarion laws in the Günther $k$-symplectic formalism of field theory}},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 19}},
+    number = {10},
+    pages = {1117--1147},
+    year = {2007},
+    note = {\href{https://doi.org/10.1142/S0129055X07003188}{10.1142/S0129055X07003188}}
+}
+
 @article{RT_23,
     author = {Xavier Rivas and Daniel Torres},
     title = {{Lagrangian--Hamiltonian formalism for cocontact systems}},
@@ -1718,6 +1931,18 @@
     note = {Revised translation from the French by Abraham Goetz. Monografie Matematyczne, Tom 52},
     publisher = {PWN-Polish Scientific Publishers, Warsaw},
     year = {1970}
+}
+
+
+@article{Sni_04,
+    author = {J\k{e}drzej \'Sniatycki},
+    title = {{Multisymplectic reduction for proper actions}},
+    journal = {Canad. J. Math.},
+    volume = {{\bf 56}},
+    number = {3},
+    year = {2004},
+    pages = {638--654},
+    note = {\href{https://doi.org/10.4153/CJM-2004-029-8}{10.4153/CJM-2004-029-8}}
 }
 
 @article{Sto_32,
@@ -1833,6 +2058,17 @@
     note = {\url{https://www.jstor.org/stable/43678676}}
 }
 
+@book{Vid_02,
+    author = {M. Vidyasagar},
+    title = {{Nonlinear systems analysis}},
+    series = {Classics in Applied Mathematics},
+    volume = {42},
+    publisher = {Society for Industrial and Applied Mathematics (SIAM)},
+    address = {Philadelphia, PA},
+    year = {2002},
+    note = {\href{https://doi.org/10.1137/1.9780898719185}{10.1137/1.9780898719185}}
+}
+
 @book{Yos_95,
     author = {Kôsaku Yosida},
     title = {{Functional Analysis}},
@@ -1842,12 +2078,19 @@
     note = {\href{https://doi.org/10.1007/978-3-642-61859-8}{10.1007/978-3-642-61859-8}}
 }
 
+@article{Wan_23,
+    title = {{Hamilton--Jacobi equations for a regular controlled Hamiltonian system and its reduced systems}},
+    author = {Hong Wang},
+    journal = {Acta Math. Sci.},
+    volume = {{\bf 43}},
+    pages = {855--906},
+    year = {2023},
+    note = {\href{https://doi.org/10.1007/s10473-023-0221-5}{10.1007/s10473-023-0221-5}}
+}
 
-
-
-
-
-
-
-
-
+@mastersthesis{Zaw_21,
+    author = {Bartosz Maciej Zawora},
+    title = {A time-dependent energy-momentum method},
+    school = {University of Warsaw, Faculty of Physics},
+    year = {2021}
+}
