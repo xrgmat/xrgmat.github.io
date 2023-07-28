@@ -194,6 +194,16 @@
     note = {\href{https://doi.org/10.1007/978-3-540-34397-4}{10.1007/978-3-540-34397-4}}
 }
 
+@article{Boy_11,
+    author = {Charles P. Boyer},
+    title = {{Completely Integrable Contact Hamiltonian Systems and Toric Contact Structures on $S^2\times S^3$}},
+    journal = {Symmetry Integr. Geom.: Methods Appl. (SIGMA)},
+    volume = {{\bf 7}},
+    pages = {058},
+    year = {2011},
+    note = {\href{https://doi.org/10.3842/SIGMA.2011.058}{10.3842/SIGMA.2011.058}}
+}
+
 @article{Bra_17,
     author = {Alessandro Bravetti},
     title = {{Contact Hamiltonian dynamics: The concept and its use}},
@@ -539,6 +549,17 @@
     year = {2000},
     address = {Naples},
     series = {Napoli Series on Physics and Astrophysics}
+}
+
+@article{CGM_07,
+    author = {José F. Cariñena and Janusz Grabowski and Giuseppe Marmo},
+    title = {Superposition rules, Lie theorem, and partial differential equations},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 60}},
+    year = {2007},
+    number = {2},
+    pages = {237--258},
+    note = {\href{https://doi.org/10.1016/S0034-4877(07)80137-6}{10.1016/S0034-4877(07)80137-6}}
 }
 
 @article{CGRS_20,
@@ -940,7 +961,7 @@
 @article{Gun_87,
     author = {Christian Günther},
     title = {{The polysymplectic Hamiltonian formalism in field theory and calculus of variations I: The local case}},
-    journal = {J. Diff. Geom.},
+    journal = {J. Differ. Geom.},
     volume = {{\bf 25}},
     number = {1},
     pages = {23--53},
@@ -1197,6 +1218,14 @@
     note = {\href{https://doi.org/10.1007/BF01645975}{10.1007/BF01645975}}
 }
 
+@book{Kle_21,
+    author = {Ronald Kleiss},
+    title = {{Quantum Field Theory: A Diagrammatic Approach}},
+    publisher = {Cambridge University Press},
+    year = {2021},
+    note = {\href{https://doi.org/10.1017/9781108665209}{10.1017/9781108665209}}
+}
+
 @article{Kuk_95,
     author = {Sergej B. Kuksin},
     title = {{Infinite-dimensional symplectic capacities and a squeezing theorem for Hamiltonian PDE's}},
@@ -1227,6 +1256,16 @@
     address = {Berlin Heidelberg},
     edition = {1st},
     note = {\href{https://doi.org/10.1007/3-540-09538-1}{10.1007/3-540-09538-1}}
+}
+
+@article{KT_10,
+    author = {B. Khesin and S. Tabachnikov},
+    title = {{Contact complete integrability}},
+    journal = {Regul. Chaotic Dyn.},
+    volume = {{\bf 15}},
+    pages = {504--520},
+    year = {2010},
+    note = {\href{https://doi.org/10.1134/S1560354710040076}{10.1134/S1560354710040076}}
 }
 
 @book{Lan_02,
@@ -1275,7 +1314,7 @@
 @article{LGGMR_23,
     author = {Manuel de León and Jordi Gaset and Xavier Gràcia and Miguel C. Muñoz-Lecanda and Xavier Rivas},
     title = {{Time-dependent contact mechanics}},
-    journal = {Monatsh. fur Math.},
+    journal = {Monatsh. Math.},
     volume = {{\bf 201}},
     pages = {1149--1183},
     year = {2023},
@@ -1380,6 +1419,16 @@
     note = {\href{https://doi.org/10.1016/j.geomphys.2020.103651}{10.1016/j.geomphys.2020.103651}}
 }
 
+@article{LLGR_23,
+    title = {{Hamilton--Jacobi theory and integrability for autonomous and non-autonomous contact systems}},
+    author = {Manuel de León and Manuel Lainz and Asier López-Gordón and Xavier Rivas},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 187}},
+    pages = {104787},
+    year = {2023},
+    note = {\href{https://doi.org/10.1016/j.geomphys.2023.104787}{10.1016/j.geomphys.2023.104787}}
+}
+
 @InProceedings{LLM_21,
     author = {Manuel de León and Manuel Lainz-Valcázar and Miguel C. Muñoz-Lecanda},
     title = {{The Herglotz Principle and Vakonomic Dynamics}},
@@ -1392,6 +1441,17 @@
     note = {\href{https://doi.org/10.1007/978-3-030-80209-7\_21}{10.1007/978-3-030-80209-7\_21}},
     series = {{Lecture Notes in Computer Science}},
     volume = {12829}
+}
+
+@article{LLM_21a,
+    title = {{The Hamilton–-Jacobi Theory for Contact Hamiltonian Systems}},
+    author = {Manuel de León and Manuel Lainz and \'Alvaro Muñiz-Brea},
+    journal = {Mathematics},
+    volume = {{\bf 9}},
+    number = {16},
+    pages = {1993},
+    year = {2021},
+    note = {\href{https://doi.org/10.3390/math9161993}{10.3390/math9161993}}
 }
 
 @book{LM_87,
@@ -1530,6 +1590,15 @@
     note = {\href{https://doi.org/10.1016/j.matpur.2016.07.009}{10.1016/j.matpur.2016.07.009}}
 }
 
+@book{LR_85,
+    author = {Manuel de León and Paulo R. Rodrigues},
+    title = {{Generalized Classical Mechanics and Field Theory}},
+    year = {1985},
+    publisher = {North-Holland},
+    series = {Mathematics Studies},
+    volume = {112}
+}
+
 @book{LR_89,
     title = {{Methods of Differential Geometry in Analytical Mechanics}},
     author = {Manuel de León and P. R. Rodrigues},
@@ -1565,6 +1634,27 @@
     publisher = {World Scientific},
     year = {2015},
     note = {\href{https://doi.org/10.1142/9693}{10.1142/9693}}
+}
+
+@article{LV_13,
+    author = {Manuel de León and Silvia Vilariño},
+    title = {{Lagrangian submanifolds in $k$-symplectic settings}},
+    journal = {Monatsh. Math.},
+    volume = {{\bf 170}},
+    pages = {381--404},
+    year = {2013},
+    note = {\href{https://doi.org/10.1007/s00605-012-0415-8}{10.1007/s00605-012-0415-8}}
+}
+
+@article{LV_15,
+    author = {Javier de Lucas and Silvia Vilariño},
+    title = {{$k$-symplectic Lie systems: theory and applications}},
+    journal = {J. Differ. Equ.},
+    volume = {{\bf 258}},
+    number = {6},
+    pages = {2221--2255},
+    year = {2015},
+    note = {\href{https://doi.org/10.1016/j.jde.2014.12.005}{10.1016/j.jde.2014.12.005}}
 }
 
 @article{LZ_21,
