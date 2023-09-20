@@ -77,6 +77,17 @@
     note = {\href{https://doi.org/10.1103/PhysRev.83.1018}{10.1103/PhysRev.83.1018}}
 }
 
+@article{AE_23,
+    author = {Rafael Azuaje and A. M. Escobar-Ruiz},
+    title = {{Canonical and canonoid transformations for Hamiltonian systems on (co)symplectic and (co)contact manifolds}},
+    journal = {J. Math. Phys.},
+    year = {2023},
+    volume = {{\bf 64}},
+    number = {3},
+    pages = {033501},
+    note = {\href{https://doi.org/10.1063/5.0135045}{10.1063/5.0135045}}
+}
+
 @book{AG_00,
     author = {Azzouz Awane and Michel Goze},
     title = {{Pfaffian systems, $k$-symplectic systems}},
@@ -85,6 +96,17 @@
     edition = {1st},
     year = {2000},
     note = {\href{https://doi.org/10.1007/978-94-015-9526-1}{10.1007/978-94-015-9526-1}}
+}
+
+@article{AH_87,
+    author = {H.D.I. Abarbanel and D.D. Holm},
+    title = {{Nonlinear stability analysis of inviscid flows in three dimensions: incompressible fluids and barotropic fluids}},
+    journal = {Phys. Fluids},
+    volume = {{\bf 30}},
+    year = {1987},
+    number = {11},
+    pages = {3369--3382},
+    note = {\href{https://doi.org/10.1063/1.866469}{10.1063/1.866469}}
 }
 
 @book{AM_78,
@@ -153,6 +175,17 @@
     year = {2009},
     pages = {28--33},
     note = {\url{https://www.emis.de/journals/BJGA/v14n2/B14-2-bl.pdf}}
+}
+
+@incollection{Bla_07,
+    title = {{The reduction of the standard $k$-cosymplectic manifold associated to a regular Lagrangian}},
+    author = {Adara M. Blaga},
+    booktitle = {Geometry and Topology of Manifolds},
+    publisher = {Banach Center Pub.},
+    address = {Inst. of Math., Polish Acad. Sci., Warsawa},
+    year = {2007},
+    volume = {{\bf 76}},
+    pages = {491--195}
 }
 
 @article{Bla_19,
@@ -224,6 +257,17 @@
     pages = {1940003},
     year = {2018},
     note = {\href{https://doi.org/10.1142/S0219887819400036}{10.1142/S0219887819400036}}
+}
+
+@inbook{Bur_13,
+    author = {Bursztyn, Henrique},
+    title = {{A brief introduction to Dirac manifolds}},
+    place = {Cambridge},
+    note = {\href{https://doi.org/10.1017/CBO9781139208642.002}{10.1017/CBO9781139208642.002}},
+    booktitle = {Geometric and Topological Methods for Quantum Field Theory: Proceedings of the 2009 Villa de Leyva Summer School},
+    publisher = {Cambridge University Press},
+    year = {2013},
+    pages = {4--38}
 }
 
 @article{BBLSV_15,
@@ -312,6 +356,28 @@
     note = {\href{https://doi.org/10.1007/s10455-014-9444-y}{10.1007/s10455-014-9444-y}}
 }
 
+@article{BG_16,
+    author = {S. Bertrand and A.M. Grundland},
+    title = {{Supersymmetric versions of the Fokas--Gel'fand formula for immersion}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 49}},
+    number = {30},
+    pages = {305201},
+    year = {2016},
+    note = {\href{https://doi.org/10.1088/1751-8113/49/30/305201}{10.1088/1751-8113/49/30/305201}}
+}
+
+@article{BG_18,
+    author = {S. Bertrand and A.M. Grundland},
+    title = {{Structural equations of supermanifolds immersed in the superspace ${\mathcal{M}^{(3\vert 2)}(c)}$ with a prescribed curvature}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 51}},
+    number = {30},
+    pages = {305202},
+    year = {2018},
+    note = {\href{https://doi.org/10.1088/1751-8121/aac971}{10.1088/1751-8121/aac971}}
+}
+
 @article{BGPR_86,
     author = {Carles Batlle and Joaquim Gomis and Josep M. Pons and Narciso Román-Roy},
     title = {{Equivalence between the Lagrangian and Hamiltonian formalism for constrained systems}},
@@ -354,6 +420,15 @@
     note = {\href{https://doi.org/10.1007/BF02451879}{10.1007/BF02451879}}
 }
 
+@book{BSF_00,
+    title = {{Geometry of Classical Fields}},
+    author = {E. Binz and J. Sniatycki and H.R. Fisher},
+    publisher = {North Holland},
+    series = {Mathematical Studies},
+    volume = {154},
+    year = {2000}
+}
+
 @article{BT_21,
     author = {Martin Bojowald and Artur Tsobanjan},
     title = {{Quantization of Dynamical Symplectic Reduction}},
@@ -362,6 +437,15 @@
     pages = {547--583},
     year = {2021},
     note = {\href{https://doi.org/10.1007/s00220-020-03856-4}{10.1007/s00220-020-03856-4}}
+}
+
+@book{BV_89,
+    author = {O. Babelon and C.M. Viallet},
+    title = {{Integrable models, Yang--Baxter equation and quantum groups}},
+    publisher = {EP},
+    year = {1989},
+    series = {SISSA Lecture Notes},
+    volume = {54}
 }
 
 @book{Can_01,
@@ -394,6 +478,17 @@
      publisher = {Société mathématique de France},
      number = {5},
      year = {1960}
+}
+
+@incollection{Car_91,
+    author = {P. Cartier},
+    title = {{Some fundamental techniques in the theory of integrable systems}},
+    booktitle = {{Lectures on Integrable Systems, In Memory of Jean-Louis Verdier}},
+    year = {1991},
+    editor = {Olivier Babelon, Pierre Cartier and Yvette Kosmann-Schwarzbach},
+    publisher = {Proc. of the CIMPA School on Integrable Systems},
+    address = {Nice (France)},
+    note = {World Scientific Publishing Co., Inc., River Edge, N. J., 1994}
 }
 
 @article{Caw_79,
@@ -446,6 +541,17 @@
     number = {10},
     pages = {105204},
     note = {\href{https://doi.org/10.1088/1751-8113/41/10/105204}{10.1088/1751-8113/41/10/105204}}
+}
+
+@article{CCCI_86,
+    author = {F. Cantrijn and J.F. Cariñena and M. Crampin and L.A. Ibort},
+    title = {{Reduction of degenerate Lagrangian systems}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 3}},
+    number = {3},
+    year = {1986},
+    pages = {353--400},
+    note = {\href{https://doi.org/10.1016/0393-0440(86)90014-8}{10.1016/0393-0440(86)90014-8}}
 }
 
 @article{CCI_91,
@@ -529,6 +635,28 @@
     year = {1993},
     pages = {517--552},
     note = {\href{https://doi.org/10.1002/prop.2190410603}{10.1002/prop.2190410603}}
+}
+
+@book{CF_06,
+    author = {I. Calvo and F. Falceto},
+    title = {{Reduction and projection of Dirac structures}},
+    booktitle = {Groups, geometry and physics},
+    volume = {29},
+    series = {Monogr. Real Acad. Ci. Exact. Fís. Quím. Nat. Zaragoza},
+    pages = {49--56},
+    address = {Spain},
+    year = {2006}
+}
+
+@article{CFZ_10,
+    author = {I.~Calvo and F.~Falceto and M.~Zamb\'on},
+    title = {{Deformation of dirac structures along isotropic subbundles}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 65}},
+    number = {2},
+    pages = {259--269},
+    year = {2010},
+    note = {\href{https://doi.org/10.1016/S0034-4877(10)80020-5}{10.1016/S0034-4877(10)80020-5}}
 }
 
 @article{CG_19,
@@ -625,6 +753,16 @@
     note = {\href{https://doi.org/10.4064/dm479-0-1}{10.4064/dm479-0-1}}
 }
 
+@article{CL_87,
+    author = {José F. Cariñena and Carlos López},
+    title = {{The time-evolution operator for singular Lagrangians}},
+    journal = {Lett. Math. Phys.},
+    year = {1987},
+    volume = {{\bf 14}},
+    pages = {203--210},
+    note = {\href{https://doi.org/10.1007/BF00416849}{10.1007/BF00416849}}
+}
+
 @article{CLL_92,
     author = {Frans Cantrijn and Manuel de León and Ernesto Lacomba},
     title = {{Gradient vector fields and cosymplectic manifolds}},
@@ -677,6 +815,13 @@
     pages = {1379--1404},
     year = {2009},
     note = {\href{https://doi.org/10.1007/s10773-008-9909-5}{10.1007/s10773-008-9909-5}}
+}
+
+@unpublished{CLRZ_23,
+    title = {{An energy-momentum method for ordinary differential equations with an underlying $k$-symplectic structure}},
+    author = {Leonardo Colombo and Javier de Lucas and Xavier Rivas and Bartosz M. Zawora},
+    note = {In preparation},
+    year = {2023}
 }
 
 @article{CM_18,
@@ -754,6 +899,14 @@
     note = {\href{https://doi.org/10.1017/CBO9780511623905}{10.1017/CBO9780511623905}}
 }
 
+@book{CP_95,
+    author = {Vyjayanthi Chari and Andrew N. Pressley},
+    title = {{A Guide to Quantum Groups}},
+    year = {1995},
+    publisher = {Cambridge University Press},
+    address = {Cambridge}
+}
+
 @article{CR_03,
     author = {José F. Cariñena and Arturo Ramos},
     title = {{Applications of Lie systems in quantum mechanics and control theory}},
@@ -771,6 +924,28 @@
     pages = {437--452},
     booktitle = {9th Int. Conf. Differential Geometry and Applications},
     publisher = {MatfyzPress, Prague}
+}
+
+@article{CRS_00,
+    title = {{Reduction in Principal Fiber Bundles: Covariant Euler-Poincaré Equations}},
+    author = {Marco Castrillón and Tudor S. Ratiu and Steve Shkoller},
+    journal = {Proc. Am. Math. Soc.},
+    volume = {{\bf 128}},
+    number = {7},
+    pages = {2155--2164},
+    year = {2000},
+    note = {\href{https://doi.org/10.1090/S0002-9939-99-05304-6}{10.1090/S0002-9939-99-05304-6}}
+}
+
+@incollection{CW_88,
+    author = {T. Courant and A. Weinstein},
+    title = {{Beyond Poisson Structures}},
+    booktitle = {{Actions hamiltoniennes de groupes. Troisième théorème de Lie}},
+    series = {Travaux en Cours},
+    volume = {27},
+    pages = {39--49},
+    year = {1988},
+    publisher = {Hermann, Paris}
 }
 
 @article{Dar_82,
@@ -794,6 +969,27 @@
     volume = {X}
 }
 
+@article{Dir_50,
+    author = {P. A. M. Dirac},
+    title = {{Generalized Hamiltonian Dynamics}},
+    journal = {Can. J. Math.},
+    volume = {{\bf 2}},
+    year = {1950},
+    pages = {129--148},
+    note = {\href{https://doi.org/10.4153/CJM-1950-012-1}{10.4153/CJM-1950-012-1}}
+}
+
+@article{Dor_87,
+    author = {Irene Y. Dorfman},
+    title = {{Dirac structures of integrable evolution equations}},
+    journal = {Phys. Lett. A},
+    year = {1987},
+    volume = {{\bf 125}},
+    number = {5},
+    pages = {240--246},
+    note = {\href{https://doi.org/10.1016/0375-9601(87)90201-5}{10.1016/0375-9601(87)90201-5}}
+}
+
 @article{Enf_73,
     author = {Per Enflo},
     title = {{A counterexample to the approximation problem in Banach spaces}},
@@ -802,6 +998,16 @@
     pages = {309--317},
     year = {1973},
     note = {\href{https://doi.org/10.1007/BF02392270}{10.1007/BF02392270}}
+}
+
+@book{Esp_15,
+    author = {Chiara Esposito},
+    title = {{Formality theory: from Poisson structures to deformation quantization}},
+    series = {SpringerBriefs in Mathematical Physics},
+    volume = {2},
+    year = {2015},
+    publisher = {Springer Cham},
+    note = {\href{https://doi.org/10.1007/978-3-319-09290-4}{10.1007/978-3-319-09290-4}}
 }
 
 @article{EIMR_12,
@@ -845,6 +1051,17 @@
     pages = {8461},
     year = {1999},
     note = {\href{https://doi.org/10.1088/0305-4470/32/48/309}{10.1088/0305-4470/32/48/309}}
+}
+
+@article{EMR_99a,
+    author = {Arturo Echeverría-Enríquez and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
+    title = {{Reduction of presymplectic manifolds with symmetry}},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 11}},
+    number = {10},
+    pages = {1209--1247},
+    year = {1999},
+    note = {\href{https://doi.org/10.1142/S0129055X99000386}{10.1142/S0129055X99000386}}
 }
 
 @article{EMR_18,
@@ -958,6 +1175,17 @@
     note = {\href{https://doi.org/10.1007/978-3-7643-9992-4}{10.1007/978-3-7643-9992-4}}
 }
 
+@article{Got_16,
+    author = {Shin-itiro Goto},
+    title = {{Contact geometric descriptions of vector fields on dually flat spaces and their applications in electric circuit models and nonequilibrium statistical mechanics}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 57}},
+    number = {10},
+    year = {2016},
+    pages = {102702},
+    note = {\href{https://doi.org/10.1063/1.4964751}{10.1063/1.4964751}}
+}
+
 @article{Gun_87,
     author = {Christian Günther},
     title = {{The polysymplectic Hamiltonian formalism in field theory and calculus of variations I: The local case}},
@@ -988,6 +1216,17 @@
     pages = {435204},
     year = {2022},
     note = {\href{https://doi.org/10.1088/1751-8121/ac9adb}{10.1088/1751-8121/ac9adb}}
+}
+
+@article{GG_11,
+    author = {Katarzyna Grabowska and Janusz Grabowski},
+    title = {{Dirac algebroids in Lagrangian and Hamiltonian mechanics}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 61}},
+    number = {11},
+    pages = {2233--2253},
+    year = {2011},
+    note = {\href{https://doi.org/10.1016/j.geomphys.2011.06.018}{10.1016/j.geomphys.2011.06.018}}
 }
 
 @article{GGMRR_20,
@@ -1037,15 +1276,50 @@
     author = {Jordi Gaset and Asier López-Gordón and Xavier Rivas},
     title = {{Symmetries, conservation and dissipation in time-dependent contact systems}},
     journal = {Fortschr. Phys.},
+    volume = {{\bf 71}},
+    number = {8--9},
     pages = {2300048},
     year = {2023},
     note = {\href{https://doi.org/10.1002/prop.202300048}{10.1002/prop.202300048}}
 }
 
-@unpublished{GM_23,
+@unpublished{GLRR_23,
+    title = {{On Darboux theorems for geometric structures induced by closed forms}},
+    author = {Xavier Gràcia and Javier de Lucas and Xavier Rivas and Narciso Román-Roy},
+    note = {\href{https://arxiv.org/abs/2306.08556}{2306.08556}},
+    year = {2023}
+}
+
+@article{GLMV_19,
+    author = {Xavier Gràcia and Javier de Lucas and Miguel Carlos Muñoz-Lecanda and Silvia Vilariño},
+    title = {{Multisymplectic structures and invariant tensors for Lie systems}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 52}},
+    number = {21},
+    pages = {215201},
+    year = {2019},
+    note = {\href{https://doi.org/10.1088/1751-8121/ab15f2}{10.1088/1751-8121/ab15f2}}
+}
+
+@article{GM_22,
+    author = {Jordi Gaset and Adrià Marín-Salvador},
+    title = {{Application of Herglotz’s variational principle to electromagnetic systems with dissipation}},
+    journal = {Int. J. Geom. Methods Mod. Phys.},
+    volume = {{\bf 19}},
+    number = {10},
+    year = {2022},
+    pages = {2250156},
+    note = {\href{https://doi.org/10.1142/S0219887822501560}{10.1142/S0219887822501560}}
+}
+
+@article{GM_23,
     title = {{Conditions for symmetry reduction of polysymplectic and polycosymplectic structures}},
-    author = {Eduardo García-Toraño and Tom Mestdag},
-    note = {\href{https://arxiv.org/abs/2303.16037}{2303.16037}},
+    author = {Eduardo {García-Toraño Andrés} and Tom Mestdag},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 56}},
+    number = {33},
+    pages = {335202},
+    note = {\href{https://doi.org/10.1088/1751-8121/ace74c}{10.1088/1751-8121/ace74c}},
     year = {2023}
 }
 
@@ -1068,6 +1342,26 @@
     note = {\href{https://doi.org/10.1142/2199}{10.1142/2199}}
 }
 
+@article{GP_89,
+    author = {Xavier Gràcia and J. M. Pons},
+    title = {{On an evolution operator connecting Lagrangian and Hamiltonian formalisms}},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 17}},
+    pages = {175--180},
+    year = {1989},
+    note = {\href{https://doi.org/10.1007/BF00401582}{10.1007/BF00401582}}
+}
+
+@article{GR_21,
+    author = {Jordi Gaset and Narciso Román-Roy},
+    title = {{Symmetries and gauge symmetries in multisymplectic first and second-order Lagrangian field theories: electromagnetic and gravitational fields}},
+    journal = {Revista Acad. Canar. Ciencias},
+    volume = {{\bf 32}},
+    number = {2},
+    pages = {61--84},
+    year = {2021}
+}
+
 @article{GRR_20,
     title = {{Constraint algorithm for singular field theories in the $k$-cosymplectic framework}},
     journal = {J. Geom. Mech.},
@@ -1078,6 +1372,15 @@
     note = {\href{https://doi.org/10.3934/jgm.2020002}{10.3934/jgm.2020002}}
 }
 
+@article{GRR_22,
+    title = {{Skinner--Rusk formalism for $k$-contact systems}},
+    author = {Xavier Gràcia and Xavier Rivas and Narciso Román-Roy},
+    journal = {J. Geom. Phys.},
+    year = {2022},
+    volume = {{\bf 172}},
+    pages = {104429},
+    note = {\href{https://doi.org/10.1016/j.geomphys.2021.104429}{10.1016/j.geomphys.2021.104429}}
+}
 
 @article{GRS_98,
     author = {Israel Gelfand and Vladimir Retakh and Mukhail Shubin},
@@ -1168,6 +1471,17 @@
     note = {\href{https://doi.org/10.1088/1751-8121/aa918f}{10.1088/1751-8121/aa918f}}
 }
 
+@article{HR_01,
+    author = {Stefan Haller and Tomasz Rybicki},
+    title = {{Reduction for locally conformal symplectic manifolds}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 37}},
+    number = {3},
+    year = {2001},
+    pages = {262--271},
+    note = {\href{https://doi.org/10.1016/S0393-0440(00)00050-4}{10.1016/S0393-0440(00)00050-4}}
+}
+
 @article{HSS_15,
     author = {Hans-Christian Herbig and Gerald W. Schwarz and Christopher Seaton},
     title = {{When is a symplectic quotient an orbifold?}},
@@ -1178,11 +1492,32 @@
     note = {\href{https://doi.org/10.1016/j.aim.2015.04.016}{10.1016/j.aim.2015.04.016}}
 }
 
+@article{ILM_97,
+    author = {Alberto Ibort and Manuel de León and Giuseppe Marmo},
+    title = {{Reduction of Jacobi manifolds}},
+    journal = {J. Phys. A: Math. Theor.},
+    year = {1997},
+    volume = {{\bf 30}},
+    number = {8},
+    pages = {2783},
+    note = {\href{https://doi.org/10.1088/0305-4470/30/8/022}{10.1088/0305-4470/30/8/022}}
+}
+
 @phdthesis{Jov_17,
     author = {Jorge Jover-Galtier},
     title = {{Open quantum systems: geometric description, dynamics and control}},
     school = {Universidad de Zaragoza, Servicio de Publicaciones, Zaragoza},
     year = {2017}
+}
+
+@article{JR_11,
+    author = {M. Jotz and T. S. Ratiu},
+    title = {{Induced Dirac structures on isotropy-type manifolds}},
+    year = {2011},
+    journal = {Transform. Groups},
+    volume = {{\bf 16}},
+    pages = {175--191},
+    note = {\href{https://doi.org/10.1007/s00031-011-9123-z}{10.1007/s00031-011-9123-z}}
 }
 
 @article{Kan_98,
@@ -1224,6 +1559,19 @@
     publisher = {Cambridge University Press},
     year = {2021},
     note = {\href{https://doi.org/10.1017/9781108665209}{10.1017/9781108665209}}
+}
+
+@conference{Kos_07,
+    author = {Yvette Kosmann-Schwarzbach},
+    title = {{Lie bialgebras, poisson Lie groups and dressing transformations}},
+    booktitle = {{Integrability of Nonlinear Systems}},
+    series = {Lecture Notes in Physics},
+    pages = {194--170},
+    year = {2007},
+    volume = {495},
+    publisher = {Springer},
+    address = {Berlin, Heidelberg},
+    note = {\href{https://doi.org/10.1007/BFb0113695}{10.1007/BFb0113695}}
 }
 
 @article{Kuk_95,
@@ -1309,6 +1657,16 @@
     pages = {3355--3362},
     note = {\href{https://doi.org/10.1016/j.topol.2012.07.018}{10.1016/j.topol.2012.07.018}},
     year = {2012}
+}
+
+@article{LG_18,
+    title = {{A cohomological approach to immersed submanifolds via integrable systems}},
+    author = {J. de Lucas and A.M. Grundland},
+    year = {2018},
+    journal = {Sel. Math. New Ser.},
+    volume = {{\bf 24}},
+    pages = {4749--4780},
+    note = {\href{https://doi.org/10.1007/s00029-018-0434-y}{10.1007/s00029-018-0434-y}}
 }
 
 @article{LGGMR_23,
@@ -1429,7 +1787,7 @@
     note = {\href{https://doi.org/10.1016/j.geomphys.2023.104787}{10.1016/j.geomphys.2023.104787}}
 }
 
-@InProceedings{LLM_21,
+@inproceedings{LLM_21,
     author = {Manuel de León and Manuel Lainz-Valcázar and Miguel C. Muñoz-Lecanda},
     title = {{The Herglotz Principle and Vakonomic Dynamics}},
     editor = {Frank Nielsen and Frédéric Barbaresco},
@@ -1454,6 +1812,17 @@
     note = {\href{https://doi.org/10.3390/math9161993}{10.3390/math9161993}}
 }
 
+@article{LLMR_21,
+    author = {Manuel de León and Manuel Laínz and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
+    title = {{Constrained Lagrangian dissipative contact dynamics}},
+    journal = {J. Math. Phys.},
+    year = {2021},
+    volume = {{\bf 62}},
+    number = {12},
+    pages = {122902},
+    note = {\href{https://doi.org/10.1063/5.0071236}{10.1063/5.0071236}}
+}
+
 @book{LM_87,
     author = {Paulette Libermann and Charles-Michel Marle},
     doi = {10.1007/978-94-009-3807-6},
@@ -1473,7 +1842,7 @@
     number = {3},
     year = {1996},
     pages = {275--300},
-    note = {\href{https://doi.org/10.1016/0926-2245(96)82423-5}{10.1016/0926-2245(96)82423-5}},
+    note = {\href{https://doi.org/10.1016/0926-2245(96)82423-5}{10.1016/0926-2245(96)82423-5}}
 }
 
 @incollection{LMM_03,
@@ -1590,6 +1959,13 @@
     note = {\href{https://doi.org/10.1016/j.matpur.2016.07.009}{10.1016/j.matpur.2016.07.009}}
 }
 
+@unpublished{LMZ_23,
+    title = {{A cosymplectic energy-momentum method with applications}},
+    author = {J. de Lucas, A. Maskalaniec, B. M. Zawora},
+    note = {\href{https://arxiv.org/abs/2302.05827}{2302.05827}},
+    year = {2023}
+}
+
 @book{LR_85,
     author = {Manuel de León and Paulo R. Rodrigues},
     title = {{Generalized Classical Mechanics and Field Theory}},
@@ -1610,6 +1986,31 @@
     note = {\href{https://doi.org/10.1016/s0304-0208(08)x7115-4}{10.1016/s0304-0208(08)x7115-4}}
 }
 
+@article{LR_23,
+    author = {Javier de Lucas and Xavier Rivas},
+    title = {{Contact Lie systems: theory and applications}},
+    journal = {J. Phys. A: Math. Theor.},
+    year = {2023},
+    volume = {{\bf 56}},
+    number = {33},
+    pages = {335203},
+    note = {\href{https://doi.org/10.1088/1751-8121/ace0e7}{10.1088/1751-8121/ace0e7}}
+}
+
+@unpublished{LR_23b,
+    author = {Javier de Lucas and Xavier Rivas},
+    title = {{Nontrivial $k$-contact structures}},
+    note = {(In preparation)},
+    year = {2023}
+}
+
+@unpublished{LRV_23,
+    title = {{Multisymplectic reductions induced by polycosymplectic structures}},
+    author = {Javier de Lucas and Xavier Rivas and Silvia Vilariño},
+    note = {In preparation},
+    year = {2023}
+}
+
 @article{LRVZ_23,
     author = {Javier de Lucas and Xavier Rivas and Silvia Vilariño and Bartosz M. Zawora},
     title = {{On $k$-polycosymplectic Marsden--Weinstein reductions}},
@@ -1618,6 +2019,17 @@
     volume = {{\bf 191}},
     pages = {104899},
     note = {\href{https://doi.org/10.1016/j.geomphys.2023.104899}{10.1016/j.geomphys.2023.104899}}
+}
+
+@article{LS_93,
+    author = {Manuel de León and Martín Saralegi},
+    title = {{Cosymplectic reduction for singular momentum maps}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 26}},
+    number = {19},
+    pages = {5033},
+    year = {1993},
+    note = {\href{https://doi.org/10.1088/0305-4470/26/19/032}{10.1088/0305-4470/26/19/032}}
 }
 
 @book{LS_20,
@@ -1677,6 +2089,27 @@
     note = {\href{https://doi.org/10.1007/s11005-009-0347-y}{10.1007/s11005-009-0347-y}}
 }
 
+@article{Mar_97,
+    author = {Charles-Michel Marle},
+    title = {{The Schouten--Nijenhuis bracket and interior products}},
+    journal = {J. Geom. Phys.},
+    volume = {{\bf 23}},
+    number = {3--4},
+    pages = {350--359},
+    year = {1997},
+    note = {\href{https://doi.org/10.1016/S0393-0440(97)80009-5}{10.1016/S0393-0440(97)80009-5}}
+}
+
+@article{Mar_08,
+    author = {Charles-Michel Marle},
+    title = {{Calculus on Lie algebroids, Lie groupoids and Poisson manifolds}},
+    journal = {Dissertationes Math.},
+    volume = {{\bf 457}},
+    year = {2008},
+    pages = {1--57},
+    note = {\href{https://doi.org/10.4064/dm457-0-1}{10.4064/dm457-0-1}}
+}
+
 @article{Mar_72,
     author = {Jerrold Marsden},
     title = {{Darboux's Theorem Fails for Weak Symplectic Forms}},
@@ -1724,6 +2157,16 @@
     year = {1997}
 }
 
+@incollection{Mey_73,
+    author = {Kenneth R. Meyer},
+    title = {{Symmetries and Integrals in Mechanics}},
+    booktitle = {Dynamical Systems},
+    publisher = {Academic Press},
+    pages = {259--272},
+    year = {1973},
+    note = {\href{https://doi.org/10.1016/B978-0-12-550350-1.50025-4}{10.1016/B978-0-12-550350-1.50025-4}}
+}
+
 @article{Mil_58,
     title = {{On the existence of a connection with curvature zero}},
     author = {John Milnor},
@@ -1732,6 +2175,17 @@
     volume = {{\bf 32}},
     pages = {215--223},
     note = {\href{https://doi.org/10.1007/BF02564579}{10.1007/BF02564579}}
+}
+
+@article{MMMT_86,
+    title = {{Covariant poisson brackets for classical fields}},
+    author = {J.E. Marsden and R. Montgomery and P.J. Morrison and W.B. Thompson},
+    journal = {Ann. Phys.},
+    volume = {{\bf 169}},
+    number = {1},
+    year = {1986},
+    pages = {29--47},
+    note = {\href{https://doi.org/10.1016/0003-4916(86)90157-0}{10.1016/0003-4916(86)90157-0}}
 }
 
 @article{MN_00,
@@ -1745,6 +2199,16 @@
     note = {\href{https://doi.org/10.1063/1.1288797}{10.1063/1.1288797}}
 }
 
+@article{MPS_90,
+    author = {J. E. Marsden and T. A. Posbergh and J. C. Simo},
+    title = {{Stability of coupled rigid body and geometrically exact rods: block diagonalization and the energy–momentum method}},
+    journal = {Phys. Rep.},
+    volume = {{\bf 193}},
+    year = {1990},
+    pages = {280--360},
+    note = {\href{https://doi.org/10.1016/0370-1573(90)90125-L}{10.1016/0370-1573(90)90125-L}}
+}
+
 @article{MR_86,
     author = {Jerrold E. Marsden and Tudor Ratiu},
     title = {{Reduction of Poisson manifolds}},
@@ -1754,6 +2218,27 @@
     pages = {161--169},
     year = {1986},
     note = {\href{https://doi.org/10.1007/BF00398428}{10.1007/BF00398428}}
+}
+
+@book{MR_99,
+    title = {{Introduction to Mechanics and Symmetry. A basic exposition of classical mechanical systems}},
+    author = {J. E. Marsden and Tudor Ratiu},
+    series = {Texts in Applied Mathematics},
+    volume = {17},
+    publisher = {Springer-Verlag, New York},
+    year = {1999},
+    note = {\href{https://doi.org/10.1007/978-0-387-21792-5}{10.1007/978-0-387-21792-5}}
+}
+
+@article{MRSV_10,
+    author = {Juan Carlos Marrero and Narciso Román‐Roy and Modesto Salgado and Silvia Vilariño},
+    title = {{Symmetries, Noether’s theorem and reduction in k‐cosymplectic field theories}},
+    journal = {AIP Conference Proceedings},
+    volume = {1260},
+    number = {1},
+    pages = {173--179},
+    year = {2010},
+    note = {\href{https://doi.org/10.1063/1.3479319}{10.1063/1.3479319}},
 }
 
 @article {MRSV_15,
@@ -1767,7 +2252,7 @@
     note = {\href{http://doi.org/10.1088/1751-8113/48/5/055206}{10.1088/1751-8113/48/5/055206}}
 }
 
-@article {MS_88,
+@article{MS_88,
     author = {Jerrold E. Marsden and Juan Carlos Simo},
     title = {{The energy momentum method}},
     journal = {Act. Acad. Sci. Tau.},
@@ -1776,6 +2261,50 @@
     number = {124},
     pages = {245--268},
     note = {\href{https://resolver.caltech.edu/CaltechAUTHORS:20101019-093814651}{https://resolver.caltech.edu/CaltechAUTHORS:20101019-093814651}}
+}
+
+@article{MS_11,
+    author = {C. Meusburger and T. Schönfeld},
+    title = {{Gauge fixing in (2+1)-gravity: Dirac bracket and spacetime geometry}},
+    journal = {Class. Quantum Grav.},
+    year = {2011},
+    volume = {{\bf 28}},
+    number = {12},
+    note = {\href{https://doi.org/10.1088/0264-9381/28/12/125008}{10.1088/0264-9381/28/12/125008}}
+}
+
+@article{MS_03,
+    author = {C. Meusburger and B. J. Schroers},
+    title = {{Poisson structure and symmetry in the Chern--Simons formulation of (2+1)-dimensional gravity}},
+    year = {2003},
+    journal = {Class. Quantum Grav.},
+    volume = {{\bf 20}},
+    number = {11},
+    note = {\href{https://doi.org/10.1088/0264-9381/20/11/318}{10.1088/0264-9381/20/11/318}}
+}
+
+@incollection{MSLP_89,
+    author = {J. E. Marsden and J. C. Simo and D. Lewis and T. Posbergh},
+    title = {{A block diagonalization theorem in the energy-momentum method}},
+    booktitle = {Dynamics and control of multibody systems},
+    series = {Contemp. Math.},
+    volume = {97},
+    year = {1989},
+    publisher = {Amer. Math. Soc., Providence, RI},
+    pages = {297--313},
+    note = {\href{https://doi.org/10.1090/conm/097/1021043}{10.1090/conm/097/1021043}}
+}
+
+@inproceedings{MW_01,
+    author = {Jerrold E. Marsden and Alan Weinstein},
+    title = {{Comments on the history, theory, and applications of symplectic reduction}},
+    year = {2001},
+    note = {\href{https://doi.org/10.1007/978-3-0348-8364-1_1}{10.1007/978-3-0348-8364-1\_1}},
+    booktitle = {{Quantization of Singular Symplectic Quotients}},
+    pages = {1--19},
+    series = {Progress in Mathematics},
+    volume = {198},
+    publisher = {Birkhauser, Basel}
 }
 
 @article{MW_74,
@@ -1829,6 +2358,17 @@
     note = {\href{https://doi.org/10.1090/pspum/054.2}{10.1090/pspum/054.2}}
 }
 
+@article{OPR_05,
+    author = {J.P. Ortega and V. Planas-Bielsa and T.S. Ratiu},
+    title = {{Asymptotic and Lyapunov stability of constrained and Poisson equilibria}},
+    journal = {J. Differ. Equ.},
+    volume = {{\bf 214}},
+    number = {1},
+    year = {2005},
+    pages = {92--127},
+    note = {\href{https://doi.org/10.1016/j.jde.2004.09.016}{10.1016/j.jde.2004.09.016}}
+}
+
 @article{OR_03,
     author = {Anatol Odzijewicz and Tudor S. Ratiu},
     title = {{Banach Lie--Poisson Spaces and Reduction}},
@@ -1849,11 +2389,41 @@
     note = {\href{https://doi.org/10.1007/978-1-4757-3811-7}{10.1007/978-1-4757-3811-7}}
 }
 
+@phdthesis{Pri_14,
+    author = {Pere Daniel Prieto-Martínez},
+    title = {{Geometrical structures of higher-order dynamical systems and field theories}},
+    school = {Universitat Politècnica de Catalunya (UPC)},
+    year = {2014},
+    note = {\url{http://hdl.handle.net/10803/284215}}
+}
+
+@article{PN_05,
+    title = {{Reduction of Jacobi manifolds via Dirac structures theory}},
+    author = {Fani Petalidou and Joana M. {Nunes da Costa}},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 23}},
+    number = {3},
+    year = {2005},
+    pages = {282--304},
+    note = {\href{https://doi.org/10.1016/j.difgeo.2005.06.003}{10.1016/j.difgeo.2005.06.003}}
+}
+
 @masterthesis{PR_09,
     title = {{The Momentum Map, Symplectic Reduction and an Introduction to Brownian Motion}},
     author = {John Ludovic Pirl and Tudor Ratiu},
     year = {2009},
     note = {École Polytechnique Fédérale de Lausanne. \href{https://math.berkeley.edu/~alanw/pirlmasters.pdf}{https://math.berkeley.edu/~alanw/pirlmasters.pdf}}
+}
+
+@article{PR_11,
+    author = {Pedro D. Prieto-Martínez and Narciso Román-Roy},
+    title = {{Lagrangian--Hamiltonian unified formalism for autonomous higher order dynamical systems}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 44}},
+    number = {38},
+    pages = {385203},
+    year = {2011},
+    note = {\href{https://doi.org/10.1088/1751-8113/44/38/385203}{10.1088/1751-8113/44/38/385203}}
 }
 
 @article{PR_13,
@@ -1884,6 +2454,17 @@
     school = {Universitat Politècnica de Catalunya (UPC)},
     year = {2021},
     note = {\href{http://arxiv.org/abs/2204.11537}{2204.11537}}
+}
+
+@article{Riv_23,
+    author = {Xavier Rivas},
+    title = {{Nonautonomous $k$-contact field theories}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 64}},
+    number = {3},
+    pages = {033507},
+    year = {2023},
+    note = {\href{https://doi.org/10.1063/5.0131110}{10.1063/5.0131110}}
 }
 
 @article{Rom_09,
@@ -1922,7 +2503,7 @@
 }
 
 @article{RRSV_11,
-    author = {\'Angel M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
+    author = {Ángel M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
     title = {{On the $k$-symplectic, $k$-cosymplectic and multisymplectic formalisms of classical field theories}},
     journal = {J. Geom. Mech.},
     volume = {{\bf 3}},
@@ -2005,6 +2586,17 @@
     note = {\href{https://doi.org/10.1007/978-94-007-4753-1}{10.1007/978-94-007-4753-1}}
 }
 
+@article{Sem_85,
+    journal = {Publ. Res. Inst. Math. Sci.},
+    title = {{Dressing Transformations and Poisson Group Actions}},
+    author = {Michael A. Semenov-Tian-Shansky},
+    year = {1985},
+    volume = {{\bf 21}},
+    number = {6},
+    pages = {1237--1260},
+    note = {\href{https://doi.org/10.2977/prims/1195178514}{10.2977/prims/1195178514}}
+}
+
 @article{Sim_72,
     author = {Jacques Simon},
     title = {{On the integrability of representations of finite dimensional real Lie algebras}},
@@ -2046,6 +2638,16 @@
     note = {\href{https://doi.org/10.2307/1968538}{10.2307/1968538}}
 }
 
+@article{Sus_73,
+    author = {Hector J. Sussmann},
+    title = {Orbits of families of vector fields and integrability of systems with singularities},
+    journal = {Trans. Amer. Math. Soc.},
+    volume = {{\bf 180}},
+    pages = {171--188},
+    year = {1973},
+    note = {\href{https://doi.org/10.1090/S0002-9947-1973-0321133-2}{10.1090/S0002-9947-1973-0321133-2}}
+}
+
 @book{Sze_39,
     author = {G. Szegö},
     title = {{Orthogonal Polynomials}},
@@ -2054,6 +2656,16 @@
     series = {Colloquium Publications},
     volume = {XXIII},
     year = {1939}
+}
+
+@article{SLM_91,
+    title = {{Stability of relative equilibria. Part I: The reduced energy-momentum method}},
+    author = {J.C. Simo and D. Lewis and J.E. Marsden},
+    journal = {Arch. Rat. Mech. Anal.},
+    year = {1991},
+    volume = {{\bf 115}},
+    pages = {15--59},
+    note = {\href{https://doi.org/10.1007/BF01881678}{10.1007/BF01881678}}
 }
 
 @article{SMLL_21,
@@ -2072,6 +2684,16 @@
     publisher = {Cambridge University Press},
     year = {2020},
     note = {\href{https://doi.org/10.1017/9781108587280}{10.1017/9781108587280}}
+}
+
+@article{ST_92,
+    author = {J. Simo and N. Tarnow},
+    title = {{The discrete energy-momentum method. Conserving algorithms for nonlinear elastodynamics}},
+    journal = {Z. Angew. Math. Phys.},
+    volume = {{\bf 43}},
+    year = {1992},
+    pages = {757--792},
+    note = {\href{https://doi.org/10.1007/BF00913408}{10.1007/BF00913408}}
 }
 
 @book{Tay_86,
@@ -2148,6 +2770,16 @@
     note = {\url{https://www.jstor.org/stable/43678676}}
 }
 
+@book{Vai_94,
+    author = {Izu Vaisman},
+    title = {{Lectures on the Geometry of Poisson Manifolds}},
+    publisher = {Birkhäuser Basel},
+    volume = {118},
+    series = {Progress in Mathematics},
+    note = {\href{https://doi.org/10.1007/978-3-0348-8495-2}{10.1007/978-3-0348-8495-2}},
+    year = {1994}
+}
+
 @book{Vid_02,
     author = {M. Vidyasagar},
     title = {{Nonlinear systems analysis}},
@@ -2178,9 +2810,37 @@
     note = {\href{https://doi.org/10.1007/s10473-023-0221-5}{10.1007/s10473-023-0221-5}}
 }
 
+@article{WK_92,
+    author = {L.S. Wang and P.S. Krishnaprasad},
+    title = {{Gyroscopic control and stabilization}},
+    journal = {J. Nonlinear Sci.},
+    volume = {{\bf 2}},
+    pages = {367--415},
+    year = {1992},
+    note = {\href{https://doi.org/10.1007/BF01209527}{10.1007/BF01209527}}
+}
+
 @mastersthesis{Zaw_21,
     author = {Bartosz Maciej Zawora},
     title = {A time-dependent energy-momentum method},
     school = {University of Warsaw, Faculty of Physics},
     year = {2021}
+}
+
+@unpublished{Zun_12,
+    author = {Nguyen Tien Zung},
+    title = {{Action-Angle variables on Dirac manifolds}},
+    year = {2012},
+    note = {\href{https://arxiv.org/abs/1204.3865}{1204.3865}}
+}
+
+@article{ZBM_98,
+    author = {Dmitry V. Zenkov and Anthony M. Bloch and Jerrold E. Marsden},
+    title = {{The energy-momentum method for the stability of non-holonomic systems}},
+    journal = {Dyn. Stab. Syst.},
+    volume = {{\bf 13}},
+    number = {2},
+    pages = {123--165},
+    year = {1998},
+    note = {\href{https://doi.org/10.1080/02681119808806257}{10.1080/02681119808806257}}
 }
