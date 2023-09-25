@@ -1,0 +1,33 @@
+.head {
+	background-image: url("./img/oldtown.webp");
+	color: white;
+	height: 400px;
+	background-size: cover;
+	background-position: bottom;
+	text-shadow: 2px 2px #333;
+	font-weight: 600;
+}
+
+.lead {
+	/*text-shadow: 1.5px 1.5px #333;*/
+	/*font-weight: 600;
+	font-size: 20pt;*/
+}
+
+.blue {
+	color: #002966;
+}
+
+.name {
+	letter-spacing: -2px;
+	font-size: 3rem;
+}
+
+.hr-blue {
+	border: 2px solid #002966;
+}
+
+.footer {
+	background-color: #002966;
+	height: 75px;
+}

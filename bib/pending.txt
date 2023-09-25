@@ -584,13 +584,6 @@ MRREVIEWER = {Jean-Claude Zambrini},
     pages = {49--90}
 }
 
-@book{Kho2013,
-    author = {Arkady L. Kholodenko},
-    publisher = {World Scientific},
-    title = {{Applications of Contact Geometry and Topology in Physics}},
-    year = {2013}
-}
-
 @article{Kij1973,
     author = {Jerzy Kijowski},
     journal = {Comm. Math. Phys.},

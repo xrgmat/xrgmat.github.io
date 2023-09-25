@@ -470,6 +470,16 @@
     note = {\href{https://doi.org/10.1142/S0219887818500445}{10.1142/S0219887818500445}}
 }
 
+@article{Car_96,
+    author = {José F. Cariñena},
+    title = {{Sections along maps in geometry and physics}},
+    journal = {Rend. Sem. Mat. Univ. Pol. Torino},
+    volume = {{\bf 54}},
+    number = {3},
+    pages = {245--256},
+    year = {1996}
+}
+
 @incollection{Car_60,
      author = {Pierre Cartier},
      title = {{Vecteurs analytiques}},
@@ -783,6 +793,27 @@
     year = {1994},
     pages = {3410--3447},
     note = {\href{https://doi.org/10.1063/1.530476}{10.1063/1.530476}}
+}
+
+@article{CLM_89,
+    author = {José F. Cariñena and Carlos López and Eduardo Martínez},
+    title = {{A new approach to the converse of Noether's theorem}},
+    journal = {J. Phys. A: Math. Gen.},
+    year = {1989},
+    volume = {{\bf 22}},
+    number = {22},
+    pages = {4777},
+    note = {\href{https://doi.org/10.1088/0305-4470/22/22/009}{10.1088/0305-4470/22/22/009}}
+}
+
+@article{CLM_91,
+    author = {José F. Cariñena and Carlos López and Eduardo Martínez},
+    title = {{Sections along a map applied to higher-order Lagrangian mechanics. Noether's theorem}},
+    journal = {Acta Appl. Math.},
+    year = {1991},
+    volume = {{\bf 25}},
+    pages = {127--151},
+    note = {\href{https://doi.org/10.1007/BF00047147}{10.1007/BF00047147}}
 }
 
 @article{CLMM_02,
@@ -1186,6 +1217,17 @@
     note = {\href{https://doi.org/10.1063/1.4964751}{10.1063/1.4964751}}
 }
 
+@article{Gra_00,
+    author = {Xavier Gràcia},
+    title = {{Fibre derivatives: Some applications to singular Lagrangians}},
+    journal = {Rep. Math. Phys.},
+    volume = {{\bf 45}},
+    number = {1},
+    pages = {67--84},
+    year = {2000},
+    note = {\href{https://dx.doi.org/10.1016/S0034-4877(00)88872-2}{10.1016/S0034-4877(00)88872-2}}
+}
+
 @article{Gun_87,
     author = {Christian Günther},
     title = {{The polysymplectic Hamiltonian formalism in field theory and calculus of variations I: The local case}},
@@ -1343,13 +1385,46 @@
 }
 
 @article{GP_89,
-    author = {Xavier Gràcia and J. M. Pons},
+    author = {Xavier Gràcia and Josep M. Pons},
     title = {{On an evolution operator connecting Lagrangian and Hamiltonian formalisms}},
     journal = {Lett. Math. Phys.},
     volume = {{\bf 17}},
     pages = {175--180},
     year = {1989},
     note = {\href{https://doi.org/10.1007/BF00401582}{10.1007/BF00401582}}
+}
+
+@article{GP_92,
+    author = {Xavier Gràcia and Josep M. Pons},
+    title = {{A generalized geometric framework for constrained systems}},
+    journal = {Diff. Geom. Appl.},
+    volume = {{\bf 2}},
+    number = {3},
+    pages = {223--247},
+    year = {1992},
+    note = {\href{https://doi.org/10.1016/0926-2245(92)90012-C}{10.1016/0926-2245(92)90012-C}}
+}
+
+@article{GP_01,
+    author = {Xavier Gràcia and Josep M. Pons},
+    title = {{Singular Lagrangians: some geometric structures along the Legendre map}},
+    journal = {J. Phys. A: Math. Gen.},
+    year = {2001},
+    volume = {{\bf 34}},
+    number = {14},
+    pages = {3047--3070},
+    note = {\href{https://doi.org/10.1088/0305-4470/34/14/311}{10.1088/0305-4470/34/14/311}}
+}
+
+@article{GR_93,
+    author = {Xavier Gràcia and J. Roca},
+    title = {{Covariant and noncovariant gauge transformations for the conformal particle}},
+    journal = {Mod. Phys. Lett. A},
+    volume = {{\bf 8}},
+    number = {19},
+    pages = {1747--1761},
+    year = {1993},
+    note = {\href{https://doi.org/10.1142/S0217732393001483}{10.1142/S0217732393001483}}
 }
 
 @article{GR_21,
@@ -1540,6 +1615,14 @@
     year = {1987},
     pages = {43--53},
     note = {\href{https://doi.org/10.1109/JRA.1987.1087068}{10.1109/JRA.1987.1087068}}
+}
+
+@book{Kho_13,
+    author = {Arkady L. Kholodenko},
+    title = {{Applications of Contact Geometry and Topology in Physics}},
+    year = {2013},
+    publisher = {World Scientific},
+    note = {\href{https://doi.org/10.1142/8514}{10.1142/8514}}
 }
 
 @article{Kij_73,
@@ -1746,7 +1829,7 @@
 }
 
 @article{LL_19,
-    author = {Manuel de León and Manuel Lainz-Valcázar},
+    author = {Manuel de León and Manuel Laínz-Valcázar},
     title = {{Contact Hamiltonian systems}},
     journal = {J. Math. Phys.},
     volume = {{\bf 60}},
@@ -2389,6 +2472,14 @@
     note = {\href{https://doi.org/10.1007/978-1-4757-3811-7}{10.1007/978-1-4757-3811-7}}
 }
 
+@book{Poo_81,
+    author = {Walter A. Poor},
+    title = {{Differential Geometric Structures}},
+    year = {1981},
+    publisher = {McGraw-Hill},
+    address = {New York}
+}
+
 @phdthesis{Pri_14,
     author = {Pere Daniel Prieto-Martínez},
     title = {{Geometrical structures of higher-order dynamical systems and field theories}},
@@ -2597,6 +2688,17 @@
     note = {\href{https://doi.org/10.2977/prims/1195178514}{10.2977/prims/1195178514}}
 }
 
+@article{Sie_88,
+    author = {W. Siegel},
+    title = {{Conformal invariance of extended spinning particle mechanics}},
+    journal = {Int. J. Mod. Phys. A},
+    volume = {{\bf 3}},
+    number = {11},
+    pages = {2713--2718},
+    year = {1988},
+    note = {\href{https://doi.org/10.1142/S0217751X88001132}{10.1142/S0217751X88001132}}
+}
+
 @article{Sim_72,
     author = {Jacques Simon},
     title = {{On the integrability of representations of finite dimensional real Lie algebras}},
@@ -2715,6 +2817,16 @@
     number = {3},
     pages = {640--652},
     note = {\href{https://doi.org/10.4153/CJM-1976-064-x}{10.4153/CJM-1976-064-x}}
+}
+
+@article{Tul_76,
+    author = {Wlodzimierz M. Tulczyjew},
+    title = {{Les sous-variétés lagrangiennes et la dynamique hamiltonienne}},
+    journal = {C. R. Math. Acad. Sci. Paris Sér. A-B},
+    volume = {{\bf 283}},
+    number = {1},
+    pages = {A15--A18},
+    year = {1976}
 }
 
 @article{Tum_20,
