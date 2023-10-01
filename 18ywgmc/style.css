@@ -8,10 +8,18 @@
 	font-weight: 600;
 }
 
+nav.navbar {
+	background-color: #fff !important;
+	font-weight: 600;
+}
+
+
+.ml-auto-custom {
+  margin-left: auto;
+}
+
 .lead {
-	/*text-shadow: 1.5px 1.5px #333;*/
-	/*font-weight: 600;
-	font-size: 20pt;*/
+	text-align: justify;
 }
 
 .blue {
@@ -29,5 +37,7 @@
 
 .footer {
 	background-color: #002966;
-	height: 75px;
+	color: #fff;
 }
+
+a {text-decoration: none;}
