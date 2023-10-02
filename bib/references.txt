@@ -378,6 +378,26 @@
     note = {\href{https://doi.org/10.1088/1751-8121/aac971}{10.1088/1751-8121/aac971}}
 }
 
+@article{BGG_17,
+    author = {A. J. Bruce and K. Grabowska and J. Grabowski},
+    title = {{Remarks on Contact and Jacobi Geometry}},
+    journal = {Symmetry Integr. Geom.: Methods Appl. (SIGMA)},
+    volume = {{\bf 13}},
+    year = {2017},
+    pages = {059},
+    note = {\href{https://doi.org/10.3842/SIGMA.2017.059}{10.3842/SIGMA.2017.059}}
+}
+
+@article{BGPR_87,
+    author = {Carles Batlle and Joaquim Gomis and Josep M. Pons and Narciso Román-Roy},
+    title = {{Lagrangian and Hamiltonian constraints}},
+    journal = {Lett. Math. Phys.},
+    volume = {{\bf 13}},
+    pages = {17--23},
+    year = {1987},
+    note = {\href{https://doi.org/10.1007/BF00570763}{10.1007/BF00570763}}
+}
+
 @article{BGPR_86,
     author = {Carles Batlle and Joaquim Gomis and Josep M. Pons and Narciso Román-Roy},
     title = {{Equivalence between the Lagrangian and Hamiltonian formalism for constrained systems}},
@@ -773,6 +793,17 @@
     note = {\href{https://doi.org/10.1007/BF00416849}{10.1007/BF00416849}}
 }
 
+@article{CL_92,
+    title = {The time-evolution operator for higher-order singular Lagrangians},
+    author = {José F. Cariñena and Carlos López},
+    journal = {Int. J. Mod. Phys. A},
+    volume = {{\bf 7}},
+    number = {11},
+    pages = {2447--2468},
+    year = {1992},
+    note = {\href{https://doi.org/10.1142/S0217751X92001083}{10.1142/S0217751X92001083}}
+}
+
 @article{CLL_92,
     author = {Frans Cantrijn and Manuel de León and Ernesto Lacomba},
     title = {{Gradient vector fields and cosymplectic manifolds}},
@@ -915,6 +946,17 @@
     volume = {{\bf 25}},
     year = {2013},
     number = {10},
+    pages = {1343002},
+    note = {\href{https://doi.org/10.1142/S0129055X13430022}{10.1142/S0129055X13430022}}
+}
+
+@article{CNY_13,
+    author = {B. Cappelletti-Montano and A. de Nicola and I. Yudin},
+    title = {{A survey on cosymplectic geometry}},
+    journal = {Rev. Math. Phys.},
+    volume = {{\bf 25}},
+    number = {10},
+    year = {2013},
     pages = {1343002},
     note = {\href{https://doi.org/10.1142/S0129055X13430022}{10.1142/S0129055X13430022}}
 }
@@ -1073,6 +1115,16 @@
     note = {\href{https://doi.org/10.1016/j.aop.2021.168616}{10.1016/j.aop.2021.168616}}
 }
 
+@article{EMMR_03,
+    author = {Arturo Echeverría-Enríquez and Jesús Marín-Solano and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
+    title = {{On the construction of $K$-operators in field theories as sections along Legendre maps}},
+    journal = {Acta Appl. Math.},
+    volume = {{\bf 77}},
+    pages = {1--40},
+    year = {2003},
+    note = {\href{https://doi.org/10.1023/A:1023671402908}{10.1023/A:1023671402908}}
+}
+
 @article{EMR_99,
     author = {Arturo Echeverría-Enríquez and Miguel Carlos Muñoz-Lecanda and Narciso Román-Roy},
     title = {{Multivector field formulation of Hamiltonian field theories: equations and symmetries}},
@@ -1162,6 +1214,16 @@
     year = {2013},
     pages = {775--807},
     note = {\href{https://doi.org/10.1016/j.difgeo.2013.09.004}{10.1016/j.difgeo.2013.09.004}},
+}
+
+@article{Gal_13,
+    author = {Chad R. Galley},
+    title = {{Classical Mechanics of Nonconservative Systems}},
+    journal = {Phys. Rev. Lett.},
+    volume = {{\bf 110}},
+    pages = {174301},
+    year = {2013},
+    note = {\href{https://doi.org/10.1103/PhysRevLett.110.174301}{10.1103/PhysRevLett.110.174301}}
 }
 
 @conference{Gar_74,
@@ -1405,6 +1467,38 @@
     note = {\href{https://doi.org/10.1016/0926-2245(92)90012-C}{10.1016/0926-2245(92)90012-C}}
 }
 
+@article{GP_92a,
+    title = {{A Hamiltonian approach to Lagrangian Noether transformations}},
+    author = {Xavier Gràcia and Josep M. Pons},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {23},
+    pages = {6357},
+    year = {1992},
+    note = {\href{https://doi.org/10.1088/0305-4470/25/23/029}{10.1088/0305-4470/25/23/029}}
+}
+
+@article{GP_00,
+    author = {J. A. García and Josep M. Pons},
+    title = {{Rigid and gauge Noether symmetries for constrained systems}},
+    journal = {Int. J. Mod. Phys. A},
+    volume = {{\bf 15}},
+    number = {29},
+    pages = {4681--4721},
+    year = {2000},
+    note = {\href{https://doi.org/10.1142/S0217751X00001968}{10.1142/S0217751X00001968}}
+}
+
+@article{GP_00a,
+    author = {Xavier Gràcia and Josep M. Pons},
+    title = {{Canonical Noether symmetries and commutativity properties for gauge systems}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 41}},
+    pages = {7333--7351},
+    year = {2000},
+    note = {\href{https://doi.org/10.1063/1.1289825}{10.1063/1.1289825}}
+}
+
 @article{GP_01,
     author = {Xavier Gràcia and Josep M. Pons},
     title = {{Singular Lagrangians: some geometric structures along the Legendre map}},
@@ -1414,6 +1508,27 @@
     number = {14},
     pages = {3047--3070},
     note = {\href{https://doi.org/10.1088/0305-4470/34/14/311}{10.1088/0305-4470/34/14/311}}
+}
+
+@article{GPR_91,
+    author = {Xavier Gràcia and Josep M. Pons and Narciso Román-Roy},
+    title = {{Higher-order Lagrangian systems: Geometric structures, dynamics, and constraints}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 32}},
+    pages = {2744--2763},
+    year = {1991},
+    note = {\href{https://doi.org/10.1063/1.529066}{10.1063/1.529066}}
+}
+
+@article{GPR_92,
+    author = {Xavier Gràcia and Josep M. Pons and Narciso Román-Roy},
+    title = {{Higher-order conditions for singular Lagrangian dynamics}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 25}},
+    number = {7},
+    pages = {1989},
+    year = {1992},
+    note = {\href{https://doi.org/10.1088/0305-4470/25/7/037}{10.1088/0305-4470/25/7/037}}
 }
 
 @article{GR_93,
@@ -1518,6 +1633,23 @@
     note = {\href{https://doi.org/10.1090/S0002-9947-1953-0056610-2}{10.1090/S0002-9947-1953-0056610-2}}
 }
 
+@book{Her_30,
+    author = {G. Herglotz},
+    title = {{Berührungstransformationen}},
+    year = {1930},
+    publisher = {Lectures at the University of Göttingen}
+}
+
+@book{Her_85,
+    author = {G. Herglotz},
+    title = {{Vorlesungen \"uber die Mechanik der Kontinua}},
+    series = {Teubner-Archiv zur Mathematik},
+    volume = {3},
+    publisher = {Teubner},
+    address = {Leipzig},
+    year = {1985}
+}
+
 @unpublished{Hua_17,
     author = {Leonard Huang},
     title = {{An Infinitesimal Version of the Stone-von Neumann Theorem}},
@@ -1593,6 +1725,16 @@
     volume = {{\bf 16}},
     pages = {175--191},
     note = {\href{https://doi.org/10.1007/s00031-011-9123-z}{10.1007/s00031-011-9123-z}}
+}
+
+@article{Kam_82,
+    author = {K. Kamimura},
+    title = {{Singular Lagrangians and constrained Hamiltonian systems, generalized canonical formalism}},
+    journal = {Nuovo Cim.},
+    volume = {{\bf 68}},
+    pages = {33--54},
+    year = {1982},
+    note = {\href{https://doi.org/10.1007/BF02888859}{10.1007/BF02888859}}
 }
 
 @article{Kan_98,
@@ -2115,6 +2257,17 @@
     note = {\href{https://doi.org/10.1088/0305-4470/26/19/032}{10.1088/0305-4470/26/19/032}}
 }
 
+@article{LS_17,
+    author = {Manuel de León and Cristina Sardón},
+    title = {{Cosymplectic and contact structures for time-dependent and dissipative Hamiltonian systems}},
+    journal = {J. Phys. A: Math. Theor.},
+    volume = {{\bf 50}},
+    number = {25},
+    pages = {255205},
+    year = {2017},
+    note = {\href{https://doi.org/10.1088/1751-8121/aa711d}{10.1088/1751-8121/aa711d}}
+}
+
 @book{LS_20,
     author = {Javier de Lucas and Cristina Sardón},
     title = {{A Guide to Lie Systems with Compatible Geometric Structures}},
@@ -2313,6 +2466,17 @@
     note = {\href{https://doi.org/10.1007/978-0-387-21792-5}{10.1007/978-0-387-21792-5}}
 }
 
+@article{MR_18,
+    author = {N. E. Martínez-Pérez and C. Ramírez},
+    title = {{On the Lagrangian description of dissipative systems}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 59}},
+    number = {3},
+    year = {2018},
+    pages = {032904},
+    note = {\href{https://doi.org/10.1063/1.5004796}{10.1063/1.5004796}}
+}
+
 @article{MRSV_10,
     author = {Juan Carlos Marrero and Narciso Román‐Roy and Modesto Salgado and Silvia Vilariño},
     title = {{Symmetries, Noether’s theorem and reduction in k‐cosymplectic field theories}},
@@ -2472,6 +2636,17 @@
     note = {\href{https://doi.org/10.1007/978-1-4757-3811-7}{10.1007/978-1-4757-3811-7}}
 }
 
+@article{Pon_88,
+    author = {Josep M. Pons},
+    title = {{New relations between Hamiltonian and Lagrangian constraints}},
+    journal = {J. Phys. A: Math. Gen.},
+    volume = {{\bf 21}},
+    number = {12},
+    year = {1988},
+    pages = {2705},
+    note = {\href{https://doi.org/10.1088/0305-4470/21/12/014}{10.1088/0305-4470/21/12/014}}
+}
+
 @book{Poo_81,
     author = {Walter A. Poor},
     title = {{Differential Geometric Structures}},
@@ -2539,6 +2714,15 @@
     note = {\href{https://doi.org/10.1016/j.jde.2007.05.040}{10.1016/j.jde.2007.05.040}}
 }
 
+@book{Raz_06,
+    author = {Mohsen Razavy},
+    title = {{Classical and quantum dissipative systems}},
+    publisher = {Imperial College Press, World Scientific Publishing Co.},
+    address = {London, UK},
+    year = {2006},
+    note = {\href{https://doi.org/10.1142/p376}{10.1142/p376}}
+}
+
 @phdthesis{Riv_22,
     author = {Xavier Rivas},
     title = {{Geometrical aspects of contact mechanical systems and field theories}},
@@ -2593,8 +2777,19 @@
     note = {\href{https://doi.org/10.1017/CBO9780511813900}{10.1017/CBO9780511813900}}
 }
 
+@article{RRS_05,
+    author = {\'Angel M. Rey and Narciso Román-Roy and Modesto Salgado},
+    title = {{Günther’s formalism ($k$-symplectic formalism) in classical field theory: Skinner--Rusk approach and the evolution operator}},
+    journal = {J. Math. Phys.},
+    volume = {{\bf 46}},
+    number = {5},
+    pages = {052901},
+    year = {2005},
+    note = {\href{https://doi.org/10.1063/1.1876872}{10.1063/1.1876872}}
+}
+
 @article{RRSV_11,
-    author = {Ángel M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
+    author = {\'Angel M. Rey and Narciso Román-Roy and Modesto Salgado and Silvia Vilariño},
     title = {{On the $k$-symplectic, $k$-cosymplectic and multisymplectic formalisms of classical field theories}},
     journal = {J. Geom. Mech.},
     volume = {{\bf 3}},
