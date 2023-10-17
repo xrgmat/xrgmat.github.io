@@ -41,3 +41,5 @@ nav.navbar {
 }
 
 a {text-decoration: none;}
+
+td a { color: black; }
