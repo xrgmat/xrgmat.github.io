@@ -1,7 +1,7 @@
 .head {
 	background-image: url("./img/oldtown.webp");
 	color: white;
-	height: 400px;
+	min-height: 400px;
 	background-size: cover;
 	background-position: bottom;
 	text-shadow: 2px 2px #333;
@@ -13,6 +13,9 @@ nav.navbar {
 	font-weight: 600;
 }
 
+.main-title {
+	font-size: 60pt;
+}
 
 .ml-auto-custom {
   margin-left: auto;
