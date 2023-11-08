@@ -6,6 +6,7 @@
 	background-position: bottom;
 	text-shadow: 2px 2px #333;
 	font-weight: 600;
+	padding-bottom: 50px;
 }
 
 nav.navbar {
@@ -14,7 +15,7 @@ nav.navbar {
 }
 
 .main-title {
-	font-size: 60pt;
+	font-size: 50pt;
 }
 
 .ml-auto-custom {
