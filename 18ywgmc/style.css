@@ -9,6 +9,10 @@
 	padding-bottom: 50px;
 }
 
+.justify {
+	text-align: justify;
+}
+
 nav.navbar {
 	background-color: #fff !important;
 	font-weight: 600;
