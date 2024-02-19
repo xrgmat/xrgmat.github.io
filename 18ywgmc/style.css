@@ -31,7 +31,8 @@ nav.navbar {
 }
 
 .blue {
-	color: #002966;
+	/*color: #002966;*/
+	color: #ee8d30;
 }
 
 .name {
@@ -40,14 +41,22 @@ nav.navbar {
 }
 
 .hr-blue {
-	border: 2px solid #002966;
+	/*border: 2px solid #002966;*/
+	border: 2px solid #ee8d30;
 }
 
 .footer {
-	background-color: #002966;
+	/*background-color: #002966;*/
+	background-color: #ee8d30;
 	color: #fff;
 }
 
-a {text-decoration: none;}
+a {text-decoration: none;
+color: #d67e2b}
 
 td a { color: black; }
+
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th {
+ background-color: #fce8d6;
+}
