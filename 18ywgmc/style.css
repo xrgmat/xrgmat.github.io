@@ -18,6 +18,11 @@ nav.navbar {
 	font-weight: 600;
 }
 
+.navbar-nav > .nav-item > a.active {
+	/*color: #d67e2b;*/
+	color: #ee8d30;
+}
+
 .main-title {
 	font-size: 50pt;
 }
@@ -52,7 +57,7 @@ nav.navbar {
 }
 
 a {text-decoration: none;
-color: #d67e2b}
+color: #ee8d30}
 
 td a { color: black; }
 
