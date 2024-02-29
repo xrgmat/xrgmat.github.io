@@ -2,6 +2,10 @@
 	color: #002966;
 }
 
+.teal {
+	color: #4d6e82;
+}
+
 .name {
 	letter-spacing: -2px;
 	font-size: 3rem;
@@ -9,6 +13,10 @@
 
 .hr-blue {
 	border: 2px solid #002966;
+}
+
+.hr-teal {
+	border: 2px solid #4d6e82;
 }
 
 .footer {
@@ -22,6 +30,7 @@
 	min-height: 75px;
 	text-shadow: 1px 1px #000;
 	background-position: 0% 30%;
+	background-color: #4d6e82;
 }
 
 .accordion-button:not(.collapsed) {
