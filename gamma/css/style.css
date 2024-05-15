@@ -1,0 +1,52 @@
+.blue {
+	color: #002966;
+}
+
+.teal {
+	color: #4d6e82;
+}
+
+.name {
+	letter-spacing: -2px;
+	font-size: 3rem;
+}
+
+.hr-blue {
+	border: 2px solid #002966;
+}
+
+.hr-teal {
+	border: 2px solid #4d6e82;
+}
+
+.footer {
+	background-color: #002966;
+	min-height: 75px;
+}
+
+.footer-gamma {
+	background-size: cover;
+	background-image: url("../img/fons.jpg");
+	min-height: 75px;
+	text-shadow: 1px 1px #000;
+	background-position: 0% 30%;
+	background-color: #4d6e82;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #0c63e4;
+	background-size: cover;
+    background-image: url("../img/fons.jpg");
+	background-position: 0% 30%;
+	color: white;
+	text-shadow: 1px 1px #000;
+}
+
+nav > a.nav-link {
+	color: #002966;
+	text-shadow: 0;
+}
+
+.text-justify {
+  text-align: justify;
+}
