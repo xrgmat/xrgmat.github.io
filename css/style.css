@@ -50,3 +50,12 @@ nav > a.nav-link {
 .text-justify {
   text-align: justify;
 }
+
+
+.arxiv-badge {
+	background-color: #b31b1b;
+}
+
+.doi-badge {
+	background-color: #FAB70C;
+}
