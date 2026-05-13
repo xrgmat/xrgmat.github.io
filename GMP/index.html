@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Geometric Methods in Physics — Universitat Rovira i Virgili</title>
+<meta name="description" content="Research group on differential geometry and its applications to mathematical physics, mechanics, and classical field theory. Department of Computer Engineering and Mathematics, Universitat Rovira i Virgili.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#faf6ea;
+  --bg-2:#f3ead4;
+  --bg-3:#ebe0c6;
+  --surface:#fefbf3;
+  --ink:#1a1612;
+  --ink-soft:#4a4239;
+  --muted:#8a8276;
+  --rule:#e0d3b6;
+  --rule-soft:#ece1c5;
+  --accent:#8b2828;
+  --accent-deep:#5a1c1c;
+  --accent-bright:#b84545;
+  --accent-tint:rgba(139,40,40,.08);
+  --accent-tint-2:rgba(139,40,40,.14);
+
+  --font-sans:'Optima','Helvetica Neue','Nimbus Sans',Helvetica,'Arial Nova',Arial,sans-serif;
+  --font-mono:'JetBrains Mono',ui-monospace,monospace;
+}
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg);
+  color:var(--ink);
+  font-family:var(--font-sans);
+  font-size:1.0625rem;
+  line-height:1.6;
+  font-weight:400;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  font-feature-settings:"kern";
+}
+
+::selection{background:var(--accent);color:var(--bg)}
+
+/* ─── Top nav ─── */
+nav.top{
+  position:sticky;
+  top:0;
+  z-index:50;
+  background:rgba(250,246,234,.88);
+  backdrop-filter:saturate(180%) blur(12px);
+  -webkit-backdrop-filter:saturate(180%) blur(12px);
+  border-bottom:1px solid var(--rule-soft);
+}
+nav.top .row{
+  max-width:1180px;
+  margin:0 auto;
+  padding:.95rem 2rem;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:2rem;
+}
+nav.top .brand{
+  font-weight:600;
+  font-size:.98rem;
+  color:var(--ink);
+  text-decoration:none;
+  letter-spacing:-.005em;
+  display:flex;
+  align-items:center;
+  gap:.7rem;
+}
+nav.top .brand .dot{
+  display:inline-block;
+  width:.55rem;height:.55rem;
+  background:var(--accent);
+  border-radius:50%;
+}
+nav.top ul{
+  list-style:none;
+  display:flex;
+  gap:1.6rem;
+  font-family:var(--font-mono);
+  font-size:.78rem;
+  font-weight:500;
+}
+nav.top a{
+  color:var(--ink-soft);
+  text-decoration:none;
+  transition:color .15s;
+}
+nav.top a:hover{color:var(--accent)}
+
+/* ─── Containers ─── */
+.container{
+  max-width:1180px;
+  margin:0 auto;
+  padding:0 2rem;
+}
+
+/* ─── Hero ─── */
+header.hero{
+  padding:6rem 2rem 5rem;
+  position:relative;
+  overflow:hidden;
+}
+header.hero::before{
+  content:"";
+  position:absolute;
+  top:-30%;
+  right:-10%;
+  width:60%;
+  height:140%;
+  background:radial-gradient(ellipse at center,var(--accent-tint) 0%,transparent 60%);
+  pointer-events:none;
+}
+.hero-inner{
+  max-width:1180px;
+  margin:0 auto;
+  position:relative;
+}
+.eyebrow{
+  font-family:var(--font-mono);
+  font-size:.75rem;
+  text-transform:uppercase;
+  letter-spacing:.16em;
+  color:var(--accent);
+  margin-bottom:1.5rem;
+  font-weight:500;
+  display:flex;
+  align-items:center;
+  gap:.8rem;
+}
+.eyebrow::before{
+  content:"";
+  width:1.75rem;
+  height:1px;
+  background:var(--accent);
+}
+h1.title{
+  font-weight:600;
+  font-size:clamp(2.6rem,6.5vw,5.2rem);
+  line-height:1.02;
+  letter-spacing:-.02em;
+  color:var(--ink);
+  margin-bottom:1.5rem;
+  max-width:17ch;
+}
+h1.title .accent{color:var(--accent)}
+.hero .tagline{
+  font-size:clamp(1.1rem,1.5vw,1.35rem);
+  line-height:1.5;
+  color:var(--ink-soft);
+  font-weight:300;
+  max-width:48ch;
+  margin-bottom:2.5rem;
+}
+.hero-meta{
+  display:flex;
+  gap:2.5rem;
+  flex-wrap:wrap;
+  align-items:center;
+  padding-top:2rem;
+  border-top:1px solid var(--rule);
+  max-width:42rem;
+}
+.hero-meta .item{
+  display:flex;
+  flex-direction:column;
+  gap:.25rem;
+}
+.hero-meta .label{
+  font-family:var(--font-mono);
+  font-size:.7rem;
+  text-transform:uppercase;
+  letter-spacing:.14em;
+  color:var(--muted);
+  font-weight:500;
+}
+.hero-meta .value{
+  font-size:1rem;
+  color:var(--ink);
+  font-weight:500;
+}
+.hero-meta .value .num{
+  font-family:var(--font-mono);
+  color:var(--accent);
+  font-weight:600;
+  margin-right:.2rem;
+}
+
+/* ─── Sections ─── */
+section{
+  padding:6rem 2rem;
+  position:relative;
+}
+section + section{border-top:1px solid var(--rule)}
+section .container{padding:0}
+
+.section-head{
+  display:flex;
+  align-items:baseline;
+  gap:1.5rem;
+  margin-bottom:3rem;
+  flex-wrap:wrap;
+}
+.section-head .num{
+  font-family:var(--font-mono);
+  font-size:.82rem;
+  color:var(--accent);
+  letter-spacing:.06em;
+  font-weight:600;
+}
+.section-head h2{
+  font-weight:600;
+  font-size:clamp(2rem,3.5vw,2.85rem);
+  line-height:1.1;
+  letter-spacing:-.015em;
+  color:var(--ink);
+}
+.section-head h2 .accent{color:var(--accent)}
+.section-head .spacer{
+  flex:1;
+  height:1px;
+  background:var(--rule);
+  align-self:center;
+  min-width:2rem;
+}
+
+/* ─── About ─── */
+.prose{max-width:75ch}
+.prose p{
+  font-size:1.13rem;
+  line-height:1.65;
+  color:var(--ink-soft);
+  margin-bottom:1.25rem;
+  font-weight:400;
+}
+.prose p:last-child{margin-bottom:0}
+.prose em{font-style:italic;color:var(--accent-deep)}
+.prose strong{color:var(--ink);font-weight:600}
+
+/* ─── Research lines ─── */
+.lines{
+  list-style:none;
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:0;
+}
+.lines li{
+  padding:2rem 2rem 2rem 0;
+  border-top:1px solid var(--rule);
+  display:grid;
+  grid-template-columns:2.75rem 1fr;
+  gap:.5rem;
+  align-items:start;
+  position:relative;
+  transition:background .2s;
+}
+.lines li:hover{background:var(--accent-tint)}
+.lines li:nth-child(odd){padding-right:2rem;border-right:1px solid var(--rule)}
+.lines li:nth-child(even){padding-left:2rem;padding-right:0}
+.lines li:nth-last-child(-n+2){border-bottom:1px solid var(--rule)}
+.lines .num{
+  font-family:var(--font-mono);
+  font-size:.78rem;
+  color:var(--accent);
+  font-weight:600;
+  letter-spacing:.04em;
+  padding-top:.35rem;
+}
+.lines h3{
+  font-weight:600;
+  font-size:1.18rem;
+  line-height:1.3;
+  color:var(--ink);
+  margin-bottom:.5rem;
+  letter-spacing:-.005em;
+}
+.lines p{
+  font-size:.97rem;
+  line-height:1.55;
+  color:var(--ink-soft);
+}
+.lines em{font-style:italic;color:var(--accent-deep)}
+
+/* ─── Members ─── */
+.members{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+  gap:1.5rem;
+}
+.member{
+  background:var(--surface);
+  border:1px solid var(--rule-soft);
+  border-radius:14px;
+  padding:1.75rem;
+  transition:border-color .2s,transform .2s,box-shadow .2s;
+  display:flex;
+  flex-direction:column;
+  gap:1.1rem;
+}
+.member:hover{
+  border-color:var(--accent);
+  transform:translateY(-3px);
+  box-shadow:0 10px 30px -10px rgba(139,40,40,.18);
+}
+.member .photo{
+  width:88px;
+  height:88px;
+  border-radius:50%;
+  object-fit:cover;
+  background:var(--bg-2);
+  border:2px solid var(--bg-3);
+}
+.member .photo-placeholder{
+  width:88px;
+  height:88px;
+  border-radius:50%;
+  background:linear-gradient(135deg,var(--accent),var(--accent-bright));
+  color:var(--bg);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:1.7rem;
+  font-weight:600;
+  letter-spacing:-.02em;
+}
+.member .name{
+  font-size:1.3rem;
+  font-weight:600;
+  line-height:1.2;
+  color:var(--ink);
+  letter-spacing:-.005em;
+}
+.member .role{
+  font-family:var(--font-mono);
+  font-size:.72rem;
+  text-transform:uppercase;
+  letter-spacing:.12em;
+  color:var(--accent);
+  margin-top:.25rem;
+  font-weight:500;
+}
+.member .bio{
+  font-size:.96rem;
+  line-height:1.55;
+  color:var(--ink-soft);
+  flex:1;
+}
+.member .links{
+  display:flex;
+  gap:.5rem;
+  flex-wrap:wrap;
+  margin-top:auto;
+}
+.member .link{
+  font-family:var(--font-mono);
+  font-size:.72rem;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+  text-decoration:none;
+  color:var(--accent);
+  padding:.45rem .8rem;
+  border:1px solid var(--rule);
+  border-radius:6px;
+  transition:all .15s;
+  background:var(--bg);
+  font-weight:500;
+}
+.member .link:hover{
+  background:var(--accent);
+  color:var(--bg);
+  border-color:var(--accent);
+}
+
+/* ─── Publications ─── */
+.pub-meta{
+  display:flex;
+  justify-content:space-between;
+  align-items:baseline;
+  margin-bottom:2rem;
+  flex-wrap:wrap;
+  gap:1rem;
+  color:var(--muted);
+  font-size:.92rem;
+}
+.pub-meta strong{color:var(--ink);font-weight:600}
+.pubs{list-style:none}
+.pub{
+  display:grid;
+  grid-template-columns:6rem 1fr;
+  gap:1.5rem;
+  padding:1.75rem 0;
+  border-top:1px solid var(--rule);
+  align-items:start;
+  transition:background .15s;
+}
+.pubs .pub:last-child{border-bottom:1px solid var(--rule)}
+.pub:hover{background:var(--accent-tint)}
+.pub-side{
+  display:flex;
+  flex-direction:column;
+  gap:.5rem;
+  padding-top:.35rem;
+}
+.pub-num{
+  font-family:var(--font-mono);
+  font-size:.78rem;
+  color:var(--muted);
+  letter-spacing:.04em;
+  font-variant-numeric:tabular-nums;
+  font-weight:500;
+}
+.pub-badge{
+  display:inline-block;
+  font-family:var(--font-mono);
+  font-size:.62rem;
+  font-weight:600;
+  text-transform:uppercase;
+  letter-spacing:.13em;
+  padding:.3rem .55rem;
+  border-radius:4px;
+  width:fit-content;
+}
+.pub-badge.published{
+  background:var(--accent-tint-2);
+  color:var(--accent-deep);
+}
+.pub-badge.preprint{
+  background:transparent;
+  color:var(--accent);
+  border:1px solid var(--accent);
+}
+.pub-title{
+  font-weight:600;
+  font-size:1.13rem;
+  line-height:1.35;
+  color:var(--ink);
+  letter-spacing:-.005em;
+  margin-bottom:.45rem;
+}
+.pub-title em{font-style:italic}
+.pub-authors{
+  font-size:.97rem;
+  line-height:1.55;
+  color:var(--ink-soft);
+  margin-bottom:.3rem;
+}
+.pub-authors .me{
+  color:var(--accent-deep);
+  font-weight:600;
+}
+.pub-venue{
+  font-size:.92rem;
+  color:var(--muted);
+  font-style:italic;
+  margin-bottom:.75rem;
+}
+.pub-venue .year{
+  font-style:normal;
+  font-family:var(--font-mono);
+  font-size:.82rem;
+  color:var(--ink-soft);
+  margin-left:.4rem;
+  font-weight:500;
+}
+.pub-links{
+  display:flex;
+  gap:.35rem;
+  flex-wrap:wrap;
+}
+.pub-links a{
+  font-family:var(--font-mono);
+  font-size:.7rem;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+  text-decoration:none;
+  color:var(--ink);
+  border:1px solid var(--rule);
+  padding:.4rem .75rem;
+  border-radius:6px;
+  transition:all .15s;
+  background:var(--bg);
+  font-weight:500;
+}
+.pub-links a:hover{
+  border-color:var(--accent);
+  background:var(--accent);
+  color:var(--bg);
+}
+
+/* ─── Network ─── */
+.cards{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:1.25rem;
+}
+.card{
+  display:block;
+  padding:2rem;
+  background:var(--surface);
+  border:1px solid var(--rule-soft);
+  border-radius:14px;
+  text-decoration:none;
+  color:var(--ink);
+  transition:border-color .2s,transform .2s,box-shadow .2s;
+}
+.card:hover{
+  border-color:var(--accent);
+  transform:translateY(-3px);
+  box-shadow:0 10px 30px -10px rgba(139,40,40,.18);
+}
+.card .kind{
+  font-family:var(--font-mono);
+  font-size:.7rem;
+  text-transform:uppercase;
+  letter-spacing:.13em;
+  color:var(--accent);
+  margin-bottom:.7rem;
+  font-weight:500;
+}
+.card .name{
+  font-weight:600;
+  font-size:1.3rem;
+  line-height:1.25;
+  color:var(--ink);
+  margin-bottom:.55rem;
+  letter-spacing:-.005em;
+}
+.card .desc{
+  font-size:.96rem;
+  line-height:1.55;
+  color:var(--ink-soft);
+  margin-bottom:1rem;
+}
+.card .url{
+  font-family:var(--font-mono);
+  font-size:.74rem;
+  color:var(--accent);
+  font-weight:500;
+}
+
+/* ─── Contact ─── */
+.contact-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:2.5rem;
+  max-width:780px;
+}
+.contact-block .label{
+  font-family:var(--font-mono);
+  font-size:.7rem;
+  text-transform:uppercase;
+  letter-spacing:.13em;
+  color:var(--accent);
+  margin-bottom:.55rem;
+  font-weight:500;
+}
+.contact-block .value{
+  font-size:1rem;
+  color:var(--ink);
+  line-height:1.55;
+}
+.contact-block .value a{
+  color:var(--ink);
+  text-decoration:none;
+  border-bottom:1px solid var(--accent);
+  padding-bottom:1px;
+  transition:color .15s;
+}
+.contact-block .value a:hover{color:var(--accent)}
+
+/* ─── Footer ─── */
+footer{
+  padding:2.5rem 2rem;
+  border-top:1px solid var(--rule);
+  color:var(--muted);
+  font-size:.82rem;
+  font-family:var(--font-mono);
+  letter-spacing:.06em;
+  font-weight:500;
+}
+footer .container{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:1rem;
+}
+footer .accent-dot{
+  display:inline-block;
+  width:.4rem;height:.4rem;
+  background:var(--accent);
+  border-radius:50%;
+  vertical-align:.1em;
+  margin-right:.6rem;
+}
+
+/* ─── Responsive ─── */
+@media (max-width:820px){
+  nav.top .row{padding:.85rem 1.25rem}
+  nav.top ul{display:none}
+  header.hero{padding:4rem 1.25rem 3.5rem}
+  section{padding:4rem 1.25rem}
+  .hero-meta{gap:1.5rem}
+  .lines{grid-template-columns:1fr}
+  .lines li,
+  .lines li:nth-child(odd),
+  .lines li:nth-child(even){
+    padding:1.4rem 0;
+    border-right:none;
+  }
+  .lines li:nth-last-child(-n+2):not(:last-child){border-bottom:none}
+  .cards{grid-template-columns:1fr}
+  .contact-grid{grid-template-columns:1fr;gap:1.5rem}
+  .pub{grid-template-columns:1fr;gap:.7rem;padding:1.4rem 0}
+  .pub-side{flex-direction:row;align-items:center;gap:.7rem;padding-top:0}
+  .section-head{gap:.7rem}
+  footer .container{flex-direction:column;align-items:flex-start;text-align:left}
+}
+</style>
+</head>
+
+<body>
+
+<nav class="top">
+  <div class="row">
+    <a href="#" class="brand"><span class="dot"></span>Geometric Methods in Physics</a>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#members">Members</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#network">Network</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="eyebrow">Research Group</div>
+    <h1 class="title">Geometric Methods<br><span class="accent">in Physics</span></h1>
+    <p class="tagline">Differential geometry as a language for mechanics, classical and quantum field theory, and the structures that unify them.</p>
+    <div class="hero-meta">
+      <div class="item">
+        <div class="label">Institution</div>
+        <div class="value">Universitat Rovira i Virgili</div>
+      </div>
+      <div class="item">
+        <div class="label">Department</div>
+        <div class="value">Computer Engineering &amp; Mathematics</div>
+      </div>
+      <div class="item">
+        <div class="label">Location</div>
+        <div class="value">Tarragona, Catalonia</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section id="about">
+  <div class="container">
+    <div class="section-head">
+      <h2>About the <span class="accent">group</span></h2>
+      <div class="spacer"></div>
+    </div>
+    <div class="prose">
+      <p>The Geometric Methods in Physics group, within the Department of Computer Engineering and Mathematics, focuses on differential geometry and its applications to mathematical physics, mechanics, and classical field theory. The guiding idea is simple: the equations describing physical systems (from a particle moving on a curved surface to electromagnetic, fluid or gravitational fields) carry a deep geometric structure. Uncovering it reveals general principles (symmetries, conservation laws, integrability) that are invisible in coordinate-based approaches, and it provides a unified language for problems that, at first sight, look unrelated.</p>
+      <p>The work is mainly analytical and conceptual, with a clear bridge to physics; some projects involve symbolic or numerical computation. The group collaborates actively with other research groups across Europe within the Geometry, Dynamics and Field Theory Network, and co-organizes a weekly international seminar (Gamma) on geometric methods in physics.</p>
+      <p>Students joining the group get hands-on experience with modern geometric tools (symplectic, contact, multisymplectic, <em>k</em>-symplectic, Lie groupoids and algebroids, etc.) and apply them to concrete problems. There is plenty of room to shape a project around the student's own interests, whether these lean toward pure mathematics, classical mechanics, field theory, or connections with quantum mechanics and statistics.</p>
+    </div>
+  </div>
+</section>
+
+<section id="research">
+  <div class="container">
+    <div class="section-head">
+      <h2>Research <span class="accent">lines</span></h2>
+      <div class="spacer"></div>
+    </div>
+    <ol class="lines">
+      <li><div class="num">01</div><div><h3>Geometric mechanics &amp; field theory</h3><p>Geometric formulations of Lagrangian and Hamiltonian mechanics, classical field theories, and their unified Skinner&ndash;Rusk framework.</p></div></li>
+      <li><div class="num">02</div><div><h3>Contact geometry &amp; dissipative systems</h3><p>Contact and <em>k</em>-contact geometry as the natural setting for systems with dissipation: friction in mechanics, non-conservative field theories, and action-dependent Lagrangians (Herglotz's variational principle).</p></div></li>
+      <li><div class="num">03</div><div><h3>Symmetries, conservation laws &amp; reduction</h3><p>Noether's theorem in general geometric settings, Marsden&ndash;Weinstein reduction, and how symmetries simplify and integrate physical models.</p></div></li>
+      <li><div class="num">04</div><div><h3>Lie systems</h3><p>Systems of ODEs admitting a superposition rule, their geometric description via Lie groups and Lie algebras, and applications to classical mechanics, stochastic and quantum problems.</p></div></li>
+      <li><div class="num">05</div><div><h3>Mechanics on Lie groups &amp; algebroids</h3><p>Euler&ndash;Poincar&eacute; and Lagrange&ndash;Poincar&eacute; equations, reduction by symmetry, and the unifying role of Lie algebroids in geometric mechanics.</p></div></li>
+      <li><div class="num">06</div><div><h3>Inverse problem in the calculus of variations</h3><p>When can a given system of differential equations be derived from a variational principle? A classical question with surprisingly modern geometric answers.</p></div></li>
+      <li><div class="num">07</div><div><h3>Geometric quantization</h3><p>Systematic procedures to construct a quantum theory from a classical one (built on symplectic geometry, line bundles, and polarizations) and the bridge they provide between classical and quantum mechanics.</p></div></li>
+      <li><div class="num">08</div><div><h3>Information geometry</h3><p>Riemannian and Hessian structures on spaces of probability distributions, dual connections, and connections with statistics, machine learning and the geometry of quantum states.</p></div></li>
+    </ol>
+  </div>
+</section>
+
+<section id="members">
+  <div class="container">
+    <div class="section-head">
+      <h2>Members</h2>
+      <div class="spacer"></div>
+    </div>
+    <div class="members" id="memberList"></div>
+  </div>
+</section>
+
+<section id="publications">
+  <div class="container">
+    <div class="section-head">
+      <h2>Publications &amp; <span class="accent">preprints</span></h2>
+      <div class="spacer"></div>
+    </div>
+    <div class="pub-meta">
+      <div>Listed in reverse chronological order</div>
+      <div><strong id="pubTotal">&mdash;</strong> entries in total</div>
+    </div>
+    <ol class="pubs" id="pubList"></ol>
+  </div>
+</section>
+
+<section id="network">
+  <div class="container">
+    <div class="section-head">
+      <h2>Network &amp; <span class="accent">community</span></h2>
+      <div class="spacer"></div>
+    </div>
+    <div class="cards">
+      <!-- <a class="card" href="http://gmcnet.webs.ull.es/" target="_blank" rel="noopener">
+        <div class="kind">Research network</div>
+        <div class="name">Geometry, Dynamics and Field Theory Network</div>
+        <div class="desc">A Spanish research network bringing together groups working on geometric mechanics, classical field theory, and their applications.</div>
+        <div class="url">gmcnet.webs.ull.es →</div>
+      </a> -->
+      <a class="card" href="https://www.fuw.edu.pl/KMMF/gamma/" target="_blank" rel="noopener">
+        <div class="kind">Weekly seminar</div>
+        <div class="name">Gamma seminar</div>
+        <div class="desc">Online seminar on geometry and applications (modern mathematical approaches), co-organised with Javier de Lucas (Warsaw).</div>
+        <div class="url">fuw.edu.pl/KMMF/gamma →</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container">
+    <div class="section-head">
+      <h2>Contact</h2>
+      <div class="spacer"></div>
+    </div>
+    <div class="contact-grid">
+      <div class="contact-block">
+        <div class="label">Email</div>
+        <div class="value"><a href="mailto:xavier.rivas@urv.cat">xavier.rivas@urv.cat</a></div>
+      </div>
+      <!-- <div class="contact-block">
+        <div class="label">Web</div>
+        <div class="value"><a href="https://xrivas.com" target="_blank" rel="noopener">xrivas.com</a></div>
+      </div> -->
+      <div class="contact-block" style="grid-column:1/-1">
+        <div class="label">Address</div>
+        <div class="value">Department of Computer Engineering and Mathematics<br>Universitat Rovira i Virgili<br>Av. dels Pa&iuml;sos Catalans 26, 43007 Tarragona, Spain</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div><span class="accent-dot"></span>&copy; <span id="year"></span> &nbsp; Geometric Methods in Physics</div>
+    <div>Universitat Rovira i Virgili &nbsp;&middot;&nbsp; Tarragona</div>
+  </div>
+</footer>
+
+<script src="publications.js"></script>
+<script>
+/* ─── Members ──────────────────────────────────────────
+   To add a member, append an object below.
+   Provide `photo` (URL or local path) OR omit it to use
+   an automatic initials placeholder.
+*/
+const members = [
+  {
+    name: "Xavier Rivas",
+    role: "Researcher",
+    bio: "Works on the geometric formulation of mechanics and field theory, with particular interest in contact and multicontact geometry, symmetries, and Poisson/Jacobi-like brackets.",
+    photo: "photos/xavier-rivas.jpg",
+    links: [
+      {label: "Website", url: "https://xrivas.com"}
+    ]
+  },
+  {
+    name: "Ángel Martínez-Muñoz",
+    role: "PhD student",
+    bio: "Works on contact and precontact geometry, with current focus on singular Lagrangians and their underlying geometric structures.",
+    photo: "photos/angel-martinez-munoz.jpg",
+    links: [
+      {label: "Website", url: "https://angelmrtnz.github.io/mywebsite/"}
+    ]
+  }
+  // Example for adding more members:
+  // {
+  //   name: "Name Surname",
+  //   role: "PhD student",
+  //   bio: "Short description of research focus.",
+  //   photo: "photos/filename.jpg",
+  //   links: [{label: "Website", url: "https://..."}]
+  // }
+];
+
+function initials(name){
+  return name.split(/\s+/).filter(Boolean).slice(0,2).map(w=>w[0]).join('').toUpperCase();
+}
+
+const memberList = document.getElementById('memberList');
+memberList.innerHTML = members.map(m => {
+  const photoEl = m.photo
+    ? `<img class="photo" src="${m.photo}" alt="${m.name}" onerror="this.outerHTML='<div class=\\'photo-placeholder\\'>${initials(m.name)}</div>'">`
+    : `<div class="photo-placeholder">${initials(m.name)}</div>`;
+  const links = (m.links||[]).map(l => `<a class="link" href="${l.url}" target="_blank" rel="noopener">${l.label} →</a>`).join('');
+  return `
+    <div class="member">
+      ${photoEl}
+      <div>
+        <div class="name">${m.name}</div>
+        <div class="role">${m.role}</div>
+      </div>
+      <div class="bio">${m.bio}</div>
+      <div class="links">${links}</div>
+    </div>
+  `;
+}).join('');
+
+
+// Author names to highlight in publication lists.
+// Add new members here using the exact form their name appears in
+// the `authors` field of publications.js  (e.g. "F. Lastname").
+const groupAuthors = ["X. Rivas", "A. Martínez-Muñoz"];
+function highlightGroup(authors){
+  return groupAuthors.reduce(
+    (s, name) => s.replaceAll(name, `<span class="me">${name}</span>`),
+    authors
+  );
+}
+
+const total = publications.length;
+const list = document.getElementById('pubList');
+list.innerHTML = publications.map((p, i) => {
+  const n = total - i;
+  const links = [];
+  if (p.arxiv) links.push(`<a href="https://arxiv.org/abs/${p.arxiv}" target="_blank" rel="noopener">arXiv:${p.arxiv}</a>`);
+  if (p.doi)   links.push(`<a href="https://doi.org/${p.doi}" target="_blank" rel="noopener">DOI</a>`);
+  if (p.pdf)   links.push(`<a href="https://xrivas.com/${p.pdf}" target="_blank" rel="noopener">PDF</a>`);
+  const statusLabel = p.status === 'preprint' ? 'Preprint' : 'Published';
+  return `
+    <li class="pub">
+      <div class="pub-side">
+        <div class="pub-num">[${String(n).padStart(2,'0')}]</div>
+        <div class="pub-badge ${p.status}">${statusLabel}</div>
+      </div>
+      <div class="pub-body">
+        <div class="pub-title">${p.title}</div>
+        <div class="pub-authors">${highlightGroup(p.authors)}</div>
+        <div class="pub-venue">${p.venue}<span class="year">${p.year}</span></div>
+        <div class="pub-links">${links.join('')}</div>
+      </div>
+    </li>
+  `;
+}).join('');
+document.getElementById('pubTotal').textContent = total;
+document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>
