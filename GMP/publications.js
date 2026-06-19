@@ -30,6 +30,14 @@
 const publications = [
 
   {
+    authors: "M. de León, X. Gràcia, R. Izquierdo-López, A. Martínez-Muñoz and X. Rivas",
+    title:   "Poisson and Jacobi structures from 2-covariant tensors",
+    venue:   "Preprint",
+    year:    2026,
+    status:  "preprint",
+    arxiv:   "2606.20030"
+  },
+  {
     authors: "J. de Lucas, J. Lange, X. Rivas, C. Sardón",
     title:   "Hamilton–Jacobi theory for non-conservative field theories in the <em>k</em>-contact framework",
     venue:   "Preprint",
