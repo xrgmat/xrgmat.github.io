@@ -56,7 +56,7 @@ const publications = [
   {
     authors: "X. Gràcia, X. Rivas, D. Torres",
     title:   "Time-dependent metrics and connections",
-    venue:   "to appear in Geom. Mech.",
+    venue:   "Geom. Mech. 3(2):91-112",
     year:    2026,
     status:  "published",
     arxiv:   "2601.14064",
@@ -65,7 +65,7 @@ const publications = [
   {
     authors: "J. de Lucas, X. Rivas, T. Sobczak",
     title:   "<em>k</em>-contact Lie systems: theory and applications",
-    venue:   "Geom. Mech.",
+    venue:   "Geom. Mech. 3(2):113-170",
     year:    2026,
     status:  "published",
     arxiv:   "2511.17734",
@@ -74,24 +74,26 @@ const publications = [
   {
     authors: "X. Gràcia, A. Martínez-Muñoz, X. Rivas, N. Román-Roy",
     title:   "The evolution operator connecting the Lagrangian and Hamiltonian formalisms for contact systems",
-    venue:   "Preprint",
-    year:    2025,
-    status:  "preprint",
-    arxiv:   "2511.13401"
+    venue:   "Lett. Math. Phys. 116(67):1-33",
+    year:    2026,
+    status:  "published",
+    arxiv:   "2511.13401",
+    doi:     "10.1007/s11005-026-02093-5",
+    pdf:     "papers/25_Evolution_operator_contact.pdf", 
   },
   {
     authors: "X. Rivas, N. Román-Roy, A. Villanova",
     title:   "Skinner–Rusk formalism of action-dependent multicontact field theories",
-    venue:   "Preprint",
+    venue:   "Int. J. Geom. Methods Mod. Phys.",
     year:    2025,
-    status:  "preprint",
+    status:  "published",
     arxiv:   "2511.01499",
     doi:     "10.1142/S0219887826502130"
   },
   {
     authors: "J. Gaset, X. Rivas, N. Román-Roy",
     title:   "A survey on geometric frameworks for action-dependent classical field theories and their relationship",
-    venue:   "Geom. Mech.",
+    venue:   "Geom. Mech. 3(2):171-220",
     year:    2026,
     status:  "published",
     arxiv:   "2506.11646",
@@ -150,7 +152,8 @@ const publications = [
     year:    2024,
     status:  "published",
     arxiv:   "2312.09192",
-    doi:     "10.3934/math.20241359"
+    doi:     "10.3934/math.20241359",
+    pdf:     "papers/19_A symplectic approach to Schrödinger equations in the infinite-dimensional unbounded setting.pdf", 
   },
   {
     authors: "L. Colombo, J. de Lucas, X. Rivas, B. M. Zawora",
