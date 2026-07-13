@@ -61,7 +61,7 @@ const publications = [
     status:  "published",
     arxiv:   "2601.14064",
     doi:     "10.1142/S2972458926400034",
-    pdf:     "28_Timedependent_metrics_and_connections.pdf"
+    pdf:     "papers/28_Timedependent_metrics_and_connections.pdf"
   },
   {
     authors: "J. de Lucas, X. Rivas, T. Sobczak",
@@ -71,7 +71,7 @@ const publications = [
     status:  "published",
     arxiv:   "2511.17734",
     doi:     "10.1142/S2972458926400022",
-    pdf:     "27_k-Contact_Lie_systems.pdf"
+    pdf:     "papers/27_k-Contact_Lie_systems.pdf"
   },
   {
     authors: "X. Gràcia, A. Martínez-Muñoz, X. Rivas, N. Román-Roy",
@@ -100,7 +100,7 @@ const publications = [
     status:  "published",
     arxiv:   "2506.11646",
     doi:     "10.1142/S2972458926400010",
-    pdf:     "26_Survey_action_dependent_FT.pdf", 
+    pdf:     "papers/26_Survey_action_dependent_FT.pdf", 
   },
   {
     authors: "M. de León, R. Izquierdo-López, X. Rivas",
