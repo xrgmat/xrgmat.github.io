@@ -132,12 +132,14 @@
 			</div>
 		</footer>
 
-		<!-- Publication & collaborator data (edit js/publications.js to add entries) -->
+		<!-- Publication data (js/publications.js is shared with xrivas.com/GMP) -->
 		<script src="./js/publications.js"></script>
+		<script src="./js/collaborators.js"></script>
 		<script>
 			// ---- Render publications ----
 			const total = publications.length;
 			const pubList = document.getElementById('pub-list');
+			const isPreprint = p => p.status === 'preprint' || p.venue === 'Preprint';
 
 			pubList.innerHTML = publications.map((p, i) => {
 				const links = [];
@@ -148,11 +150,12 @@
 					links.push(`<a href="https://doi.org/${p.doi}" target="_blank" rel="noopener" class="badge rounded-pill badge-doi">doi: ${p.doi}</a>`);
 				}
 				if (p.pdf) {
-					links.push(`<a href="./${encodeURI(p.pdf)}" target="_blank" class="pdf-link" title="PDF" aria-label="PDF"><i class="bi bi-file-earmark-pdf-fill"></i></a>`);
+					const pdfPath = p.pdf.startsWith('papers/') ? p.pdf : 'papers/' + p.pdf;
+					links.push(`<a href="./${encodeURI(pdfPath)}" target="_blank" class="pdf-link" title="PDF" aria-label="PDF"><i class="bi bi-file-earmark-pdf-fill"></i></a>`);
 				}
-				const ref = p.ref
-					? `<span class="pub-ref">${p.ref}</span>`
-					: `<span class="pub-ref pub-preprint">Preprint</span>`;
+				const ref = isPreprint(p)
+					? `<span class="pub-ref pub-preprint">Preprint</span>`
+					: `<span class="pub-ref"><em>${p.venue}</em>, ${p.year}.</span>`;
 
 				return `
 					<article class="pub-card">
@@ -167,7 +170,7 @@
 			}).join('');
 
 			// ---- Publication count ----
-			const nPreprints = publications.filter(p => !p.ref).length;
+			const nPreprints = publications.filter(isPreprint).length;
 			document.getElementById('pub-count').textContent =
 				`${total} publications (${total - nPreprints} published or accepted, ${nPreprints} preprints)`;
 
