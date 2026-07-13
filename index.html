@@ -1,21 +1,27 @@
 <!doctype html>
 <html lang="en">
 	<head>
-		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Xavier Rivas — researcher in differential geometry and its applications to mathematical physics, mechanics and field theory. Universitat Rovira i Virgili, Tarragona.">
+		<meta name="theme-color" content="#90282a">
 
 		<!-- Bootstrap CSS -->
-		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
 
-		<link rel="stylesheet" type="text/css" href="./css/style.css">
+		<!-- Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
 
-		<link rel="icon" type="image/x-icon" href="img/x.png">
+		<link rel="stylesheet" type="text/css" href="./css/style.css">
+		<link rel="icon" type="image/svg+xml" href="img/favicon.svg">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16.png">
+		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
 		<title>Xavier Rivas</title>
-
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-RG1PTVSHCG"></script>
@@ -23,491 +29,155 @@
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
-
 			gtag('config', 'G-RG1PTVSHCG');
 		</script>
 	</head>
 	<body>
 
-		<div class="container mt-4">
-			<div class='row'>
-				<div class="col-4">
-					<img src="./img/dolomiti.jpeg" class="img-thumbnail rounded" alt="xavi">
+		<div class="top-accent"></div>
+
+		<nav class="site-nav">
+			<div class="container content d-flex align-items-center justify-content-between flex-wrap gap-1 py-2">
+				<a class="nav-name" href="#">Xavier Rivas</a>
+				<div class="nav-links">
+					<a href="#research">Research</a>
+					<a href="#publications">Publications</a>
+					<a href="#collaborators">Collaborators</a>
 				</div>
-				<div class="col-8">
-					
-					<h1 class="h1 blue name">Xavier Rivas</h1>
-					<p class='lead'>Departament d'Enginyeria Informàtica i Matemàtiques, Universitat Rovira i Virgili, Tarragona</p>
-					<dl class="row">
-						<!-- <dt class="col-sm-2">Postal adress</dt>
-						<dd class="col-sm-10">Campus Nord, edifici C3, despatx 102.<br> C. Jordi Girona, 1. 08034 Barcelona, Catalunya.</dd> -->
-						<dt class="col-sm-2">e-mail</dt>
-						<dd class="col-sm-10">xavier.rivas(at)urv.cat</dd>
-						<dt class="col-sm-2">web page</dt>
-						<dd class="col-sm-10">
-							<a href="http://xrivas.com">xrivas.com</a>
-							<!-- <br>
-							<a href="https://web.mat.upc.edu/xavier.rivas/">web.mat.upc.edu/xavier.rivas</a> -->
-						</dd>
-						<dt class="col-sm-2">ORCID code</dt>
-						<dd class="col-sm-10"><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4175-5157" href="https://orcid.org/0000-0002-4175-5157" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-4175-5157</a></div></dd>
-						<dt class="col-sm-2">ResearcherID</dt>
-						<dd class="col-sm-10"><a href="https://www.webofscience.com/wos/author/record/32901988" target="_blank">GQI-1759-2022</a></dd>
-						<dt class="col-sm-2">MR Author ID</dt>
-						<dd class="col-sm-10"><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1375865" target="_blank">1375865</a></dd>
-						<dt class="col-sm-2">Scopus ID</dt>
-						<dd class="col-sm-10"><a href="https://www.scopus.com/authid/detail.uri?authorId=57215094927" target="_blank">57215094927</a></dd>
-						<dt class="col-sm-2">Other links</dt>
-						<dd class="col-sm-10">
-							<a href="https://scholar.google.es/citations?user=MyVZoPMAAAAJ" target="_blank">Google Scholar</a><br>
-							<a href="https://www.researchgate.net/profile/Xavier-Rivas-2" target="_blank">ResearchGate</a><br>
-							<a href="https://arxiv.org/a/rivas_x_1.html" target="_blank">arxiv.org</a><br>
-							<a href="https://www.mathgenealogy.org/id.php?id=278834" target="_blank">Mathematics Genealogy Project</a><br>
-							<a href="https://www.zotero.org/xrivas" target="_blank">Zotero</a>
+			</div>
+		</nav>
+
+		<div class="container content mt-4 mt-md-5">
+
+			<!-- ============ Header ============ -->
+			<header class="row g-4 align-items-start" id="about">
+				<div class="col-12 col-sm-8 col-md-4 col-lg-3 mx-auto mx-md-0">
+					<img src="./img/dolomiti.jpeg" class="img-fluid profile-photo" alt="Xavier Rivas">
+				</div>
+				<div class="col-12 col-md-8 col-lg-9">
+					<h1 class="name">Xavier Rivas</h1>
+					<p class="kicker-sub">Differential geometry &middot; Mathematical physics</p>
+					<p class="lead affiliation">Department of Computer Engineering and Mathematics,<br>Universitat Rovira i Virgili, Tarragona</p>
+
+					<dl class="row meta">
+						<dt class="col-sm-3 col-lg-2">e-mail</dt>
+						<dd class="col-sm-9 col-lg-10">xavier.rivas(at)urv.cat</dd>
+
+						<dt class="col-sm-3 col-lg-2">web page</dt>
+						<dd class="col-sm-9 col-lg-10"><a href="http://xrivas.com">xrivas.com</a></dd>
+
+						<dt class="col-sm-3 col-lg-2">ORCID</dt>
+						<dd class="col-sm-9 col-lg-10"><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4175-5157" href="https://orcid.org/0000-0002-4175-5157" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-4175-5157</a></div></dd>
+
+						<dt class="col-sm-3 col-lg-2">ResearcherID</dt>
+						<dd class="col-sm-9 col-lg-10"><a href="https://www.webofscience.com/wos/author/record/32901988" target="_blank" rel="noopener">GQI-1759-2022</a></dd>
+
+						<dt class="col-sm-3 col-lg-2">MR Author ID</dt>
+						<dd class="col-sm-9 col-lg-10"><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1375865" target="_blank" rel="noopener">1375865</a></dd>
+
+						<dt class="col-sm-3 col-lg-2">Scopus ID</dt>
+						<dd class="col-sm-9 col-lg-10"><a href="https://www.scopus.com/authid/detail.uri?authorId=57215094927" target="_blank" rel="noopener">57215094927</a></dd>
+
+						<dt class="col-sm-3 col-lg-2">Google Scholar</dt>
+						<dd class="col-sm-9 col-lg-10"><a href="https://scholar.google.es/citations?user=MyVZoPMAAAAJ" target="_blank" rel="noopener">profile</a></dd>
+
+						<dt class="col-sm-3 col-lg-2">Other links</dt>
+						<dd class="col-sm-9 col-lg-10 other-links">
+							<a href="https://www.researchgate.net/profile/Xavier-Rivas-2" target="_blank" rel="noopener">ResearchGate</a>
+							<a href="https://arxiv.org/a/rivas_x_1.html" target="_blank" rel="noopener">arXiv</a>
+							<a href="https://www.mathgenealogy.org/id.php?id=278834" target="_blank" rel="noopener">Mathematics Genealogy</a>
+							<a href="https://www.zotero.org/xrivas" target="_blank" rel="noopener">Zotero</a>
 						</dd>
 					</dl>
-					
 				</div>
-			</div>
+			</header>
 
-			<hr class="hr-blue my-4">
+			<!-- ============ Research ============ -->
+			<section id="research" class="section">
+				<h2 class="section-title">Research</h2>
 
-			<div class="row">
-				<h2 class="blue">&#9632; Research</h2>
+				<p>I develop my research in differential geometry and its applications to mathematical physics, mechanics and field theory. I collaborate with many groups in the <a href="http://gmcnet.webs.ull.es/" target="_blank" rel="noopener">Geometry, Dynamics and Field Theory Network</a>.</p>
 
-				<p>I develop my research in differential geometry and its applications to mathematical physics, mechanics and field theory. I collaborate with many groups in the <a href="http://gmcnet.webs.ull.es/" target="_blank">Geometry, Dynamics and Field Theory Network</a>.</p>
+				<p>My PhD advisors were Professors <a href="https://web.mat.upc.edu/narciso.roman/" target="_blank" rel="noopener">Narciso Román-Roy</a> and <a href="https://web.mat.upc.edu/xavier.gracia/" target="_blank" rel="noopener">Xavier Gràcia Sabaté</a>. You can find my thesis <a href="docs/PhD.pdf" target="_blank">here</a>.</p>
 
-				<p>My PhD advisors were Professors <a href="https://web.mat.upc.edu/narciso.roman/" target="_blank">Narciso Román-Roy</a> and <a href="https://web.mat.upc.edu/xavier.gracia/" target="_blank">Xavier Gràcia Sabaté</a>. You can find my thesis <a href = "docs/PhD.pdf" target="_blank">here</a>.</p>
+				<p>I co-organize a weekly online seminar in collaboration with Professor <a href="https://www.fuw.edu.pl/~delucas/" target="_blank" rel="noopener">Javier de Lucas</a>, aimed at discussing basic and advanced research topics on Differential Geometry and Applications to Physics. For more details, visit <a href="https://www.fuw.edu.pl/KMMF/gamma/" target="_blank" rel="noopener">Geometry and Applications: Modern Mathematical Approaches (Gamma)</a>.</p>
 
-				<p>I co-organize a weekly online seminar in collaboration with Professor <a href="https://www.fuw.edu.pl/~delucas/" target="_blank">Javier de Lucas</a>, aimed at discussing basic and advanced research topics on Differential Geometry and Applications to Physics. For more details, visit <a href="https://www.fuw.edu.pl/KMMF/gamma/" target="_blank">Geometry and Applications: Modern Mathematical Approaches (Gamma)</a>.</p>
+				<div class="tags">
+					<span>Geometric mechanics and field theory</span>
+					<span>Symplectic and contact geometry</span>
+					<span>Mathematical physics</span>
+				</div>
+			</section>
 
-				<h5>List of publications:</h5>
-				<ol reversed class="ms-4">
+			<!-- ============ Publications ============ -->
+			<section id="publications" class="section">
+				<h2 class="section-title">Publications</h2>
+				<p class="pub-count" id="pub-count"></p>
+				<div id="pub-list"></div>
+			</section>
 
-					<li class='my-3'>
-						M. de León, X. Gràcia, R. Izquierdo-López, A. Martínez-Muñoz and X. Rivas,<br>
-						"Poisson and Jacobi structures from 2-covariant tensors".<br>
-						<em>Preprint.</em>
-						<a href="https://arxiv.org/abs/2606.20030" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2606.20030</span></a>
-					</li>
-
-					<li class='my-3'>
-						J. de Lucas, J. Lange, X. Rivas and C. Sardón,<br>
-						"Hamilton&ndash;Jacobi theory for non-conservative field theories in the <em>k</em>-contact framework".<br>
-						<em>Preprint.</em>
-						<a href="https://arxiv.org/abs/2604.27670" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2604.27670</span></a>
-					</li>
-
-					<li class='my-3'>
-						X. Gràcia, A. Martínez-Muñoz and X. Rivas,<br>
-						"Pairs of differential forms: a framework for precontact geometry".<br>
-						<em>Preprint.</em>
-						<a href="https://arxiv.org/abs/2602.04882" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2602.04882</span></a>
-					</li>
-
-					<li class='my-3'>
-						X. Gràcia, X. Rivas and D. Torres,<br>
-						"Time-dependent metrics and connections".<br>
-						<em>Geom. Mech.</em> <strong>3</strong>(2):91-112, 2026.
-						<a href="https://arxiv.org/abs/2601.14064" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2601.14064</span></a>
-						<a href="https://doi.org/10.1142/S2972458926400034" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1142/S2972458926400034</span></a>
-						<a href="./papers/28_Timedependent_metrics_and_connections.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. de Lucas, X. Rivas and T. Sobczak,<br>
-						"<em>k</em>-contact Lie systems: theory and applications".<br>
-						<em>Geom. Mech.</em> <strong>3</strong>(2):113-170, 2026.
-						<a href="https://arxiv.org/abs/2511.17734" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2511.17734</span></a>
-						<a href="https://doi.org/10.1142/S2972458926400022" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1142/S2972458926400022</span></a>
-						<a href="./papers/27_k-Contact_Lie_systems.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						X. Gràcia, A. Martínez-Muñoz, X. Rivas and N. Román-Roy,<br>
-						"The evolution operator connecting the Lagrangian and Hamiltonian formalisms for contact systems".<br>
-						<em>Lett. Math. Phys.</em> <strong>116</strong>(67):1-33, 2026.
-						<a href="https://arxiv.org/abs/2511.13401" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2511.13401</span></a>
-						<a href="https://doi.org/10.1007/s11005-026-02093-5" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1007/s11005-026-02093-5</span></a>
-						<a href="./papers/25_Evolution_operator_contact.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-						
-					</li>
-
-					<li class='my-3'>
-						X. Rivas, N. Román-Roy and A. Villanova,<br>
-						"Skinner&ndash;Rusk formalism of action-dependent multicontact field theories".<br>
-						<em>Int. J. Geom. Methods Mod. Phys.</em>
-						<a href="https://arxiv.org/abs/2511.01499" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2511.01499</span></a>
-						<a href="https://doi.org/10.1142/S0219887826502130" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1142/S0219887826502130</span></a> 
-					</li>
-
-					<li class='my-3'>
-						J. Gaset, X. Rivas and N. Román-Roy,<br>
-						"A survey on geometric frameworks for action-dependent classical field theories and their relationship".<br>
-						<em>Geom. Mech.</em> <strong>3</strong>(2):171--220, 2026.
-						<a href="https://arxiv.org/abs/2506.11646" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2506.11646</span></a>
-						<a href="https://doi.org/10.1142/S2972458926400010" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1142/S2972458926400010</span></a>
-						<a href="./papers/26_Survey_action_dependent_FT.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a> 
-					</li>
-
-					<li class='my-3'>
-						M. de León, R. Izquierdo-López and X. Rivas,<br>
-						"Brackets in multicontact geometry and multisymplectization".<br>
-						<em>Mediterr. J. Math.</em> <strong>23</strong>(8):1-44, 2026.
-						<a href="https://arxiv.org/abs/2505.13224" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2505.13224</span></a>
-						<a href="https://doi.org/10.1007/s00009-026-03077-4" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1007/s00009-026-03077-4</span></a> 
-						<a href="./papers/24_Multicontact-brackets.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-					
-					<li class='my-3'>
-						J. de Lucas, X. Rivas, S. Vilariño and B. M. Zawora,<br>
-						"Marsden&ndash;Meyer&ndash;Weinstein reduction for <em>k</em>-contact field theories".<br>
-						<em>Preprint.</em>
-						<a href="https://arxiv.org/abs/2505.05462" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2505.05462</span></a>
-					</li>
-					
-					<li class='my-3'>
-						X. Rivas, N. Román-Roy and B. M. Zawora,<br>
-						"Symmetries and Noether's theorem for action-dependent multicontact field theories".<br>
-						<em>Lett. Math. Phys.</em> <strong>115</strong>(108):1-32, 2025.
-						<a href="https://arxiv.org/abs/2503.03463" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2503.03463</span></a>
-						<a href="https://doi.org/10.1007/s11005-025-01995-0" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1007/s11005-025-01995-0</span></a>
-						<a href="./papers/22_Symmetries Multicontact.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. de Lucas, X. Rivas and T. Sobczak,<br>
-						"Foundations on <em>k</em>-contact geometry".<br>
-						<em>Preprint.</em>
-						<a href="https://arxiv.org/abs/2409.11001" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2409.11001</span></a>
-					</li>
-
-					<li class='my-3'>
-						M. de León, J. Gaset, M. C. Muñoz-Lecanda, X. Rivas and N. Román-Roy,<br>
-						"Practical Introduction to Action-Dependent Field Theories".<br>
-						<em>Fortschr. Phys.</em> <strong>73</strong>(5):1-25, 2025.
-						<a href="https://arxiv.org/abs/2409.08340" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2409.08340</span></a>
-						<a href="https://doi.org/10.1007/s11005-025-01995-0" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1002/prop.70000</span></a>
-						<a href="./papers/21_Practical-Introduction-Multicontact.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. de Lucas, J. Lange and X. Rivas,<br>
-						"A symplectic approach to Schrödinger equations in the infinite-dimensional unbounded setting".<br>
-						<em>AIMS Math.</em> <strong>9</strong>(10)27998-28043, 2024.
-						<a href="https://arxiv.org/abs/2312.09192" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2312.09192</span></a>
-						<a href="https://doi.org/10.3934/math.20241359" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.3934/math.20241359</span></a>
-						<a href="./papers/19_A symplectic approach to Schrödinger equations in the infinite-dimensional unbounded setting.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						L. Colombo, J. de Lucas, X. Rivas and B. M. Zawora,<br>
-						"An energy-momentum method for ordinary differential equations with an underlying <em>k</em>-polysymplectic manifold".<br>
-						<em>J. Nonlinear Sci.</em> <strong>35</strong>(42):1-54, 2025.
-						<a href="https://arxiv.org/abs/2311.15035" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2311.15035</span></a>
-						<a href="https://doi.org/10.1007/s00332-025-10135-w" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1007/s00332-025-10135-w</span></a>
-						<a href="./papers/20_energy-momentum-k-symplectic.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						E. Fernández-Saiz, J. de Lucas, X. Rivas and M. Zając,<br>
-						"Hamiltonian stochastic Lie systems and applications".<br>
-						<em>J. Phys. A: Math. Theor.</em> <strong>58</strong>(41):415202, 2025.
-						<a href="https://arxiv.org/abs/2307.06232" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2307.06232</span></a>
-						<a href="https://doi.org/10.1088/1751-8121/ae0bcd" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1088/1751-8121/ae0bcd</span></a>
-						<a href="./papers/23_Hamiltonian-stochastic-Lie-systems.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						X. Gràcia, J. de Lucas, X. Rivas and N. Román-Roy,<br>
-						"On Darboux theorems for geometric structures induced by closed forms".<br>
-						<em>Rev. Real Acad. Cienc. Exactas Fis. Nat. - A: Mat.</em> <strong>181</strong>:131, 2024.
-						<a href="https://arxiv.org/abs/2306.08556" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2306.08556</span></a>
-						<a href="https://doi.org/10.1007/s13398-024-01632-w" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1007/s13398-024-01632-w</span></a>
-						<a href="./papers/17_RACSAM_Darboux.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						X. Rivas, M. Salgado and S. Souto,<br>
-						"Some contributions to <em>k</em>-contact Lagrangian field equations, symmetries and dissipation laws".<br>
-						<em>Rev. Math. Phys.</em> <strong>36</strong>(8):2450019, 2024.
-						<a href="https://arxiv.org/abs/2304.00833" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2304.00833</span></a>
-						<a href="https://doi.org/10.1142/S0129055X24500193" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1142/S0129055X24500193</span></a>
-						<a href="./papers/16_RMP_Some contributions.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. de Lucas, X. Rivas, S. Vilariño and B. M. Zawora,<br>
-						"On <em>k</em>-polycosymplectic Marsden&ndash;Weinstein reductions".<br>
-						<em>J. Geom. Phys.</em> <strong>191</strong>:104899, 2023.
-						<a href="https://arxiv.org/abs/2302.09037" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2302.09037</span></a>
-						<a href="https://doi.org/10.1016/j.geomphys.2023.104899" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1016/j.geomphys.2023.104899</span></a>
-						<a href="./papers/14_LRVZ_Reduction polyco.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. Gaset, A. López-Gordón and X. Rivas,<br>
-						"Symmetries, conservation and dissipation in time-dependent contact systems".<br>
-						<em>Fortschr. Phys.</em> <strong>71</strong>(8-9):2300048, 2023.
-						<a href="https://arxiv.org/abs/2212.14848" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2212.14848</span></a>
-						<a href="https://doi.org/10.1002/prop.202300048" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1002/prop.202300048</span></a>
-						<a href="./papers/13_Symmetries cocontact.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. Gaset, M. Lainz, A. Mas and X. Rivas,<br>
-						"The Herglotz variational principle for dissipative field theories".<br>
-						<em>Geom. Mech.</em> <strong>1</strong>(2):153--178, 2024.
-						<a href="https://arxiv.org/abs/2211.17058" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2211.17058</span></a>
-						<a href="https://doi.org/10.1142/S2972458924500060" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1142/S2972458924500060</span></a>
-						<a href="./papers/18_The Herglotz variational principle for dissipative field theories.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						X. Rivas,<br>
-						"Nonautonomous <em>k</em>-contact field theories".<br>
-						<em>J. Math. Phys.</em> <strong>64</strong>(3):033507, 2023.
-						<a href="https://arxiv.org/abs/2210.09166" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2210.09166</span></a>
-						<a href="https://doi.org/10.1063/5.0131110" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1063/5.0131110</span></a>
-						<a href="./papers/12_k-cocontact.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						M. de León, J. Gaset, M. C. Muñoz-Lecanda, X. Rivas and N. Román-Roy,<br>
-						"Multicontact formulation for non-conservative field theories".<br>
-						<em>J. Phys. A: Math. Theor.</em> <strong>56</strong>(2):025201, 2023.
-						<a href="https://arxiv.org/abs/2209.08918" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2209.08918</span></a>
-						<a href="https://doi.org/10.1088/1751-8121/acb575" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1088/1751-8121/acb575</span></a>
-						<a href="./papers/11_LGMRR-JPA-Multicontact.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-					
-					<li class='my-3'>
-						M. de León, M. Lainz, A. López-Gordón and X. Rivas,<br>
-						"Hamilton&ndash;Jacobi theory and integrability for autonomous and non-autonomous contact systems".<br>
-						<em>J. Geom. Phys.</em> <strong>187</strong>:104787, 2023.
-						<a href="https://arxiv.org/abs/2208.07436" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2208.07436</span></a>
-						<a href="https://doi.org/10.1016/j.geomphys.2023.104787" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1016/j.geomphys.2023.104787</span></a>
-						<a href="./papers/10_JGP-HJ-contact-cocontact.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. de Lucas and X. Rivas,<br>
-						"Contact Lie systems: theory and applications".<br>
-						<em>J. Phys. A: Math. Theor.</em> <strong>56</strong>(33):335203, 2023.
-						<a href="https://arxiv.org/abs/2207.04038" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2207.04038</span></a>
-						<a href="https://doi.org/10.1088/1751-8121/ace0e7" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1088/1751-8121/ace0e7</span></a>
-						<a href="./papers/15_JPA-Contact-Lie.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						X. Rivas and D. Torres,<br>
-						"Lagrangian&ndash;Hamiltonian formalism for cocontact systems".<br>
-						<em>J. Geom. Mech.</em> <strong>15</strong>(1):1-26, 2023.
-						<a href="https://arxiv.org/abs/2205.14757" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2205.14757</span></a>
-						<a href="https://doi.org/10.3934/jgm.2023001" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.3934/jgm.2023001</span></a>
-						<a href="./papers/9_RT-JGM-Skinner-Rusk.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						M. de León, J. Gaset, X. Gràcia, M. C. Muñoz-Lecanda and X. Rivas,<br>
-						"Time-dependent contact mechanics".<br>
-						<em>Monatsh. Math.</em> <strong>201</strong>:1149-1183, 2023.
-						<a href="https://arxiv.org/abs/2205.09454" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2205.09454</span></a>
-						<a href="https://doi.org/10.1007/s00605-022-01767-1" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1007/s00605-022-01767-1</span></a>
-						<a href="./papers/8_Leon_Gaset_Gracia_Munoz_Rivas_Time-dependent_contact_mechanics_MM_2023_journal.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. de Lucas, X. Gràcia, X. Rivas, N. Román-Roy and S. Vilariño,<br>
-						"Reduction and reconstruction of multisymplectic Lie systems".<br>
-						<em>J. Phys. A: Math. Theor.</em> <strong>55</strong>(29):295204, 2022.
-						<a href="https://arxiv.org/abs/2202.13748" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2202.13748</span></a>
-						<a href="http://dx.doi.org/10.1088/1751-8121/ac78ab" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1088/1751-8121/ac78ab</span></a>
-						<a href="./papers/7_Luc_Gra_Riv_Rom_Vil_Reduction_multisym_Lie_JPA_2022_A4.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						X. Gràcia, X. Rivas and N. Román-Roy,<br>
-						"Skinner&ndash;Rusk formalism for <em>k</em>-contact systems".<br>
-						<em>J. Geom. Phys.</em> <strong>172</strong>:104429, 2022.
-						<a href="https://arxiv.org/abs/2109.07257" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2109.07257</span></a>
-						<a href="https://doi.org/10.1016/j.geomphys.2021.104429" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1016/j.geomphys.2021.104429</span></a>
-						<a href="./papers/6_GRR-JGeomPhys.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						M. de León, J. Gaset, M. Lainz-Valcázar, X. Rivas and N. Román-Roy,<br>
-						"Unified Lagrangian&ndash;Hamiltonian formalism for contact systems".<br>
-						<em>Fortschr. Phys.</em> <strong>68</strong>(8):2000045, 2020.
-						<a href="https://arxiv.org/abs/2003.13037" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2003.13037</span></a>
-						<a href="https://doi.org/10.1002/prop.202000045" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1002/prop.202000045</span></a>
-						<a href="./papers/5_ Unified Lagrangian-Hamiltonian Formalism for Contact Systems.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. Gaset, X. Gràcia, M. C. Muñoz-Lecanda, X. Rivas and N. Román-Roy,<br>
-						"A <em>k</em>-contact Lagrangian formulation for nonconservative field theories".<br>
-						<em>Rep. Math. Phys.</em>, <strong>87</strong>(3):347-368, 2021.
-						<a href="https://arxiv.org/abs/2002.10458" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 2002.10458</span></a>
-						<a href="https://doi.org/10.1016/S0034-4877(21)00041-0" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1016/S0034-4877(21)00041-0</span></a>
-						<a href="./papers/4_GGMRR-RMP-A-contact-lag.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. Gaset, X. Gràcia, M. C. Muñoz-Lecanda, X. Rivas and N. Román-Roy,<br>
-						"New contributions to the Hamiltonian and Lagrangian contact formalisms for dissipative mechanical systems and their symmetries".<br>
-						<em>Int. J. Geom. Methods Mod. Phys.</em>, <strong>17</strong>(6):2050090, 2020.
-						<a href="https://arxiv.org/abs/1907.02947" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 1907.02947</span></a>
-						<a href="https://doi.org/10.1142/S0219887820500905" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1142/S0219887820500905</span></a>
-						<a href="./papers/3_GGMRR_New_contributions_contact_IJGMMP_2020.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						J. Gaset, X. Gràcia, M. C. Muñoz-Lecanda, X. Rivas and N. Román-Roy,<br>
-						"A contact geometry framework for field theories with dissipation".<br>
-						<em>Ann. Phys.</em>, <strong>414</strong>:168090, 2020.
-						<a href="https://arxiv.org/abs/1905.07354" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 1905.07354</span></a>
-						<a href="https://doi.org/10.1016/j.aop.2020.168092" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.1016/j.aop.2020.168092</span></a>
-						<a href="./papers/2_GGMRR_A_contact_geometry_framework_for_field_theories_AP_2020.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-
-					<li class='my-3'>
-						X. Gràcia, X. Rivas and N. Román-Roy,<br>
-						"Constraint algorithm for singular field theories in the <em>k</em>-cosymplectic framework".<br>
-						<em>J. Geom. Mech.</em>, <strong>12</strong>(1):1-23, 2020.
-						<a href="https://arxiv.org/abs/1812.08487" target="_blank"><span class="badge arxiv-badge rounded-pill">arXiv: 1812.08487</span></a>
-						<a href="https://doi.org/10.3934/jgm.2020002" target="_blank"><span class="badge text-bg-secondary rounded-pill">doi: 10.3934/jgm.2020002</span></a>
-						<a href="./papers/1_Constraint algorithm for singular field theories in the k-cosymplectic framework.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill" style="color:red; font-size: 1.2rem;"></i></a>
-					</li>
-				</ol>
-
-				<h5>Collaborators:</h5>
+			<!-- ============ Collaborators ============ -->
+			<section id="collaborators" class="section">
+				<h2 class="section-title">Collaborators</h2>
 				<p>Some of the colleagues I have collaborated with are:</p>
-				<ul class="ms-4">
-					<li><a href="https://sites.google.com/view/leonardojcolombo/home" target="_blank">Leonardo Colombo</a></li>
-					<li><a href="https://www.icmat.es/mdeleon" target="_blank">Manuel de León</a></li>
-					<li><a href="https://www.fuw.edu.pl/~delucas/" target="_blank">Javier de Lucas</a></li>
-					<li><a href="https://www.cunef.edu/en/faculty-and-research/fernandez-saiz-eduardo/" target="_blank">Eduardo Fernández-Saiz</a></li>
-					<li><a href="https://www.cunef.edu/en/gaset-rifa-jordi/" target="_blank">Jordi Gaset</a></li>
-					<li><a href="https://web.mat.upc.edu/xavier.gracia/" target="_blank">Xavier Gràcia</a></li>
-					<li><a href="https://rubenizquierdolopez.github.io/" target="_blank">Rubén Izquierdo-López</a></li>
-					<li><a href="http://mlainz.gitlab.io/" target="_blank">Manuel Lainz</a></li>
-					<li>Julia Lange</li>
-					<li><a href="https://alopezgordon.xyz/" target="_blank">Asier López-Gordón</a></li>
-					<li><a href="https://angelmrtnz.github.io/mywebsite/" target="_blank">Ángel Martínez-Muñoz</a></li>
-					<li>Arnau Mas</li>
-					<li>Miguel C. Muñoz-Lecanda</li>
-					<li><a href="https://web.mat.upc.edu/narciso.roman/" target="_blank">Narciso Román-Roy</a></li>
-					<li><a href="http://xtsunxet.usc.es/modesto/" target="_blank">Modesto Salgado</a></li>
-					<li>Cristina Sardón</li>
-					<li>Tomasz Sobczak</li>
-					<li>Silvia Souto</li>
-					<li>Daniel Torres</li>
-					<li><a href="http://cud.unizar.es/svilariño" target="_blank">Silvia Vilariño</a></li>
-					<li><a href="https://www.unir.net/profesores/annamaria-villanova/" target="_blank">Anna Villanova</a></li>
-					<li>Marcin Zając</li>
-					<li><a href="https://bmzawora.github.io/" target="_blank">Bartosz M. Zawora</a></li>
-				</ul>
-			</div>
-
-			<!-- <hr class="hr-blue my-4">
-
-			<div class="row">
-				<h2 class="blue">&#9632; Teaching</h2>
-				
-				<div class="accordion" id="accordionExample">
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="heading1">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse2">
-								<h5>Cálculo II</h5>
-							</button>
-						</h2>
-						<div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
-								<h6>Grado en Matemática Computacional</h6>
-								<p>Universidad Internacional de La Rioja. <a href="https://www.unir.net/" target="_blank">UNIR</a>.</p>
-							</div>
-						</div>
-					</div>
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="heading2">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-								<h5>Lógica matemática</h5>
-							</button>
-						</h2>
-						<div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
-								<h6>Grado en Matemática Computacional</h6>
-								<p>Universidad Internacional de La Rioja. <a href="https://www.unir.net/" target="_blank">UNIR</a>.</p>
-							</div>
-						</div>
-					</div>
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="heading3">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-								<h5>Mecánica clásica</h5>
-							</button>
-						</h2>
-						<div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
-								<h6>Grado en Física</h6>
-								<p>Universidad Internacional de La Rioja. <a href="https://www.unir.net/" target="_blank">UNIR</a>.</p>
-							</div>
-						</div>
-					</div>
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="heading4">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-								<h5>Cálculo numérico</h5>
-							</button>
-						</h2>
-						<div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
-								<h6>Grado en Física</h6>
-								<p>Universidad Internacional de La Rioja. <a href="https://www.unir.net/" target="_blank">UNIR</a>.</p>
-							</div>
-						</div>
-					</div>
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="heading5">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-								<h5>Estructuras de Datos y Algoritmos</h5>
-							</button>
-						</h2>
-						<div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
-								<h6>Grado en Economia</h6>
-								<p>Universidad Internacional de La Rioja. <a href="https://www.unir.net/" target="_blank">UNIR</a>.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<h4 style="margin-top: 20px;">Old courses</h4>
-				<ul class="ms-4">
-					<li><a href="docs/guies_docents/docs/AC/presentacion.pdf" target="_blank">Análisis Complejo</a>. Grado en Matemática Computacional. Escuela Superior en Ingeniería y Tecnología, UNIR.</li>
-					<li><a href="docs/guies_docents/cvv-UNIR.pdf" target="_blank">Cálculo en varias variables</a>. Grado en Matemática Computacional. Escuela Superior en Ingeniería y Tecnología, UNIR.</li>
-					<li><a href="docs/guies_docents/calculo-I.pdf" target="_blank">Cálculo I</a>. Grado en Matemática Computacional. Escuela Superior en Ingeniería y Tecnología, UNIR.</li>
-					<li><a href="docs/guies_docents/ecuaciones-diferenciales.pdf" target="_blank">Ecuaciones diferenciales</a>. Grado en Física. Escuela Superior en Ingeniería y Tecnología, UNIR.</li>
-					<li><a href="docs/guies_docents/analisis-dinamico.pdf" target="_blank">Análisis Dinámico</a>. Grado en Economía. Facultad de Economía y Comunicatión, UNIR.</li>
-					<li><a href="docs/guies_docents/gda-prog.pdf" target="_blank">Geometría Diferencial Aplicada</a>. Máster Universitario en Ingeniería Matemática y Computación. Escuela Superior en Ingeniería y Tecnología, UNIR.</li>
-					<li><a href="docs/guies_docents/vardif.pdf" target="_blank">Varietats diferenciables</a>. Grau en Matemàtiques. FME, UPC.</li>
-					<li><a href="docs/guies_docents/calcul-epseb.pdf" target="_blank">Càlcul</a>. Grau en Geoinformació i Geomàtica. EPSEB, UPC.</li>
-					<li><a href="docs/guies_docents/fonaments-matematics.pdf" target="_blank">Fonaments matemàtics</a>. Grau en Arquitectura Tècnica i Edificació. EPSEB, UPC.</li>
-					<li><a href="docs/guies_docents/informatica.pdf" target="_blank">Informàtica</a>. Graus en Enginyeria, àmbits industrial i TIC. EPSEVG, UPC.</li>
-					<li><a href="docs/guies_docents/algebra-geometria.pdf" target="_blank">Àlgebra i geometria</a>. Grau en Enginyeria de Sistemes Aeroespacials. EETAC, UPC.</li>
-					<li><a href="docs/guies_docents/algebra-lineal-aplicacions.pdf" target="_blank">Àlgebra lineal i aplicacions</a>. Grau en Enginyeria de Sistemes de Telecomunicació. EETAC, UPC.</li>
-					<li><a href="docs/guies_docents/calcul1-fme.pdf" target="_blank">Càlcul en una variable</a>. Grau en Matemàtiques. FME, UPC.</li>
-					<li><a href="docs/guies_docents/calcul-eebe.pdf" target="_blank">Càlcul</a>. Graus en Enginyeria. EEBE, UPC.</li>
-				</ul>
-			</div> -->
+				<ul class="collab-grid" id="collab-list"></ul>
+			</section>
 
 		</div>
 
-		<footer class="container-fluid footer mt-5"></footer>
+		<footer class="footer mt-5">
+			<div class="container content d-flex flex-wrap justify-content-between align-items-center gap-2">
+				<span>&copy; <span id="year"></span> Xavier Rivas</span>
+				<span>Universitat Rovira i Virgili &middot; Tarragona</span>
+			</div>
+		</footer>
 
-		<!-- Option 1: Bootstrap Bundle with Popper -->
-		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+		<!-- Publication & collaborator data (edit js/publications.js to add entries) -->
+		<script src="./js/publications.js"></script>
+		<script>
+			// ---- Render publications ----
+			const total = publications.length;
+			const pubList = document.getElementById('pub-list');
 
+			pubList.innerHTML = publications.map((p, i) => {
+				const links = [];
+				if (p.arxiv) {
+					links.push(`<a href="https://arxiv.org/abs/${p.arxiv}" target="_blank" rel="noopener" class="badge rounded-pill badge-arxiv">arXiv: ${p.arxiv}</a>`);
+				}
+				if (p.doi) {
+					links.push(`<a href="https://doi.org/${p.doi}" target="_blank" rel="noopener" class="badge rounded-pill badge-doi">doi: ${p.doi}</a>`);
+				}
+				if (p.pdf) {
+					links.push(`<a href="./${encodeURI(p.pdf)}" target="_blank" class="pdf-link" title="PDF" aria-label="PDF"><i class="bi bi-file-earmark-pdf-fill"></i></a>`);
+				}
+				const ref = p.ref
+					? `<span class="pub-ref">${p.ref}</span>`
+					: `<span class="pub-ref pub-preprint">Preprint</span>`;
+
+				return `
+					<article class="pub-card">
+						<div class="pub-num">${total - i}</div>
+						<div class="pub-body">
+							<h3 class="pub-title">${p.title}</h3>
+							<p class="pub-authors">${p.authors}</p>
+							<p class="pub-meta">${ref}</p>
+							<p class="pub-links">${links.join(' ')}</p>
+						</div>
+					</article>`;
+			}).join('');
+
+			// ---- Publication count ----
+			const nPreprints = publications.filter(p => !p.ref).length;
+			document.getElementById('pub-count').textContent =
+				`${total} publications (${total - nPreprints} published or accepted, ${nPreprints} preprints)`;
+
+			// ---- Render collaborators ----
+			document.getElementById('collab-list').innerHTML = collaborators.map(c =>
+				`<li>${c.url ? `<a href="${c.url}" target="_blank" rel="noopener">${c.name}</a>` : c.name}</li>`
+			).join('');
+
+			// ---- Footer year ----
+			document.getElementById('year').textContent = new Date().getFullYear();
+		</script>
 	</body>
 </html>
