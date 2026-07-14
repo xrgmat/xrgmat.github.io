@@ -181,7 +181,7 @@ const publications = [
   {
     authors: "X. Gràcia, J. de Lucas, X. Rivas, N. Román-Roy",
     title:   "On Darboux theorems for geometric structures induced by closed forms",
-    venue:   "Rev. Real Acad. Cienc. Exactas Fis. Nat. - A: Mat. 181:131",
+    venue:   "Rev. Real Acad. Cienc. Exactas Fis. Nat. - A: Mat. 118:131",
     year:    2024,
     status:  "published",
     arxiv:   "2306.08556",
