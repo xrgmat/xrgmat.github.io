@@ -341,7 +341,7 @@ const publications = [
   {
     authors: "J. Gaset, X. Gràcia, M. C. Muñoz-Lecanda, X. Rivas, N. Román-Roy",
     title:   "A contact geometry framework for field theories with dissipation",
-    venue:   "Ann. Phys. 414:168090",
+    venue:   "Ann. Phys. 414:168092",
     year:    2020,
     status:  "published",
     arxiv:   "1905.07354",
