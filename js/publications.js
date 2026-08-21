@@ -40,10 +40,11 @@ const publications = [
   {
     authors: "J. de Lucas, J. Lange, X. Rivas, C. Sardón",
     title:   "Hamilton–Jacobi theory for non-conservative field theories in the <em>k</em>-contact framework",
-    venue:   "Preprint",
+    venue:   "J. Phys. A: Math. Theor.",
     year:    2026,
-    status:  "preprint",
-    arxiv:   "2604.27670"
+    status:  "published",
+    arxiv:   "2604.27670",
+    doi:     "10.1088/1751-8121/ae9b8c",
   },
   {
     authors: "X. Gràcia, A. Martínez-Muñoz, X. Rivas",
