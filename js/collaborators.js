@@ -7,7 +7,7 @@
 const collaborators = [
 	{ name: "Leonardo Colombo", url: "https://sites.google.com/view/leonardojcolombo/home" },
 	{ name: "Manuel de León", url: "https://www.icmat.es/mdeleon" },
-	{ name: "Javier de Lucas", url: "https://www.fuw.edu.pl/~delucas/" },
+	{ name: "Javier de Lucas", url: "https://profjavierdelucas.github.io/PaginaWebPersonal/" },
 	{ name: "Eduardo Fernández-Saiz", url: "https://www.cunef.edu/en/faculty-and-research/fernandez-saiz-eduardo/" },
 	{ name: "Jordi Gaset", url: "https://www.cunef.edu/en/gaset-rifa-jordi/" },
 	{ name: "Xavier Gràcia", url: "https://web.mat.upc.edu/xavier.gracia/" },
