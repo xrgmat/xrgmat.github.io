@@ -45,6 +45,7 @@ const publications = [
     status:  "published",
     arxiv:   "2604.27670",
     doi:     "10.1088/1751-8121/ae9b8c",
+    pdf:     "papers/29_k-contact_Hamilton-Jacobi.pdf"
   },
   {
     authors: "X. Gràcia, A. Martínez-Muñoz, X. Rivas",
