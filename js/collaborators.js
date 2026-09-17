@@ -7,7 +7,7 @@
 const collaborators = [
 	{ name: "Leonardo Colombo", url: "https://sites.google.com/view/leonardojcolombo/home" },
 	{ name: "Manuel de León", url: "https://www.icmat.es/mdeleon" },
-	{ name: "Javier de Lucas", url: "https://profjavierdelucas.github.io/PaginaWebPersonal/" },
+	{ name: "Javier de Lucas", url: "https://www.fuw.edu.pl/~delucas/" },
 	{ name: "Eduardo Fernández-Saiz", url: "https://www.cunef.edu/en/faculty-and-research/fernandez-saiz-eduardo/" },
 	{ name: "Jordi Gaset", url: "https://www.cunef.edu/en/gaset-rifa-jordi/" },
 	{ name: "Xavier Gràcia", url: "https://web.mat.upc.edu/xavier.gracia/" },
@@ -23,7 +23,7 @@ const collaborators = [
 	{ name: "Cristina Sardón", url: null },
 	{ name: "Tomasz Sobczak", url: null },
 	{ name: "Silvia Souto", url: null },
-	{ name: "Daniel Torres", url: "https://www.unir.net/profesores/daniel-torres-moral/" },
+	{ name: "Daniel Torres", url: "https://www.dtorres.site/" },
 	{ name: "Silvia Vilariño", url: "http://cud.unizar.es/svilariño" },
 	{ name: "Anna Villanova", url: "https://www.unir.net/profesores/annamaria-villanova/" },
 	{ name: "Marcin Zając", url: null },
