@@ -30,6 +30,14 @@
 const publications = [
 
   {
+    authors: "M. de León, R. Izquierdo-López, X. Rivas, N. Román-Roy, A. Villanova",
+    title:   "Extended Hamiltonian formalism for multicontact field theories",
+    venue:   "Preprint",
+    year:    2026,
+    status:  "preprint",
+    arxiv:   "2611.22783"
+  },
+  {
     authors: "M. de León, X. Gràcia, R. Izquierdo-López, A. Martínez-Muñoz and X. Rivas",
     title:   "From 2-covariant tensor fields to Poisson and Jacobi structures",
     venue:   "Preprint",
